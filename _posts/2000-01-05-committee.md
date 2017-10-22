@@ -46,7 +46,6 @@ fa-icon: users
  - Carolina Scarton, University of Sheffield
  - Rico Sennrich, University of Edinburgh
  - Dan Simonson, Georgetown University
- - *Nathan Schneider, Georgetown University
  - Vered Shwartz, Bar-Ilan University
  - Ian Soboroff, NIST
  - Pontus Stenetorp, University College London
