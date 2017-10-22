@@ -5,7 +5,7 @@ color: black
 fa-icon: users
 ---
 
-## Programme Committee (Hopeful list)
+## Programme Committee
 
  - Martin Andrews, Red Cat Labs
  - Francis Bond, Nanyang Technological University
@@ -20,9 +20,9 @@ fa-icon: users
  - Hal Daumé III, University of Maryland
  - Jon Dehdari, Think Big Analytics
  - Christian Federmann, Microsoft Research
- - *Dan Flickinger, Stanford University
+ <!-- - *Dan Flickinger, Stanford University -->
  - Mary Ellen Foster, University of Glasgow
- - *Michael Wayne Goodman, University of Washington
+ <!-- - *Michael Wayne Goodman, University of Washington -->
  - Joel Grus, Allen Institute for Articial Intelligence
  - Chris Hokamp, Aylien Inc.
  - Matthew Honnibal, Explosion AI
