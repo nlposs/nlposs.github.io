@@ -43,6 +43,7 @@ fa-icon: users
  - Radim Řehůřek, RaRe Technologies
  - Elijah Rippeth, MITRE Corporation
  - Abigail See, Stanford University
+ - Carolina Scarton, University of Sheffield
  - Rico Sennrich, University of Edinburgh
  - Dan Simonson, Georgetown University
  - *Nathan Schneider, Georgetown University
