@@ -1,6 +1,6 @@
 ---
 title: "Organizers"
-bg: '#FFC715'
+bg: '#FFCC70'
 color: black
 fa-icon: users
 ---
