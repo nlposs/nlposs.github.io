@@ -23,7 +23,7 @@ fa-icon: users
  <!-- - *Dan Flickinger, Stanford University -->
  - Mary Ellen Foster, University of Glasgow
  <!-- - *Michael Wayne Goodman, University of Washington -->
- - Joel Grus, Allen Institute for Articial Intelligence
+ - Joel Grus, Allen Institute for Artificial Intelligence
  - Chris Hokamp, Aylien Inc.
  - Matthew Honnibal, Explosion AI
  - Sung Kim, Hong Kong University of Science and Technology
