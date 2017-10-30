@@ -22,7 +22,8 @@ fa-icon: users
  - Christian Federmann, Microsoft Research
  <!-- - *Dan Flickinger, Stanford University -->
  - Mary Ellen Foster, University of Glasgow
- <!-- - *Michael Wayne Goodman, University of Washington -->
+ - Michael Wayne Goodman, University of Washington
+ - Arwen Twinkle Griffioen, Zendesk Inc.
  - Joel Grus, Allen Institute for Artificial Intelligence
  - Chris Hokamp, Aylien Inc.
  - Matthew Honnibal, Explosion AI
