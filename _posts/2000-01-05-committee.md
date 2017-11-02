@@ -20,7 +20,6 @@ fa-icon: users
  - Hal Daumé III, University of Maryland
  - Jon Dehdari, Think Big Analytics
  - Christian Federmann, Microsoft Research
- <!-- - *Dan Flickinger, Stanford University -->
  - Mary Ellen Foster, University of Glasgow
  - Michael Wayne Goodman, University of Washington
  - Arwen Twinkle Griffioen, Zendesk Inc.
