@@ -39,6 +39,7 @@ fa-icon: users
  - Joel Nothman, University of Sydney
  - Matt Post, Johns Hopkins University
  - David Przybilla, Idio
+ - Amandalynne Paullada, University of Washington
  - Delip Rao, Joostware AI Research Corp
  - Radim Řehůřek, RaRe Technologies
  - Elijah Rippeth, MITRE Corporation
