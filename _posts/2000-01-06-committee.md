@@ -51,6 +51,7 @@ fa-icon: users
  - Ian Soboroff, NIST
  - Pontus Stenetorp, University College London
  - Rachael Tatman, Kaggle
+ - Tommaso Teofili, Adobe
  - Emiel van Miltenburg, Vrije Universiteit Amsterdam
  - Maarten van Gompel, Radboud University
  - Gaël Varoquaux, INRIA 
