@@ -20,7 +20,7 @@
     <nav><ul>
       {% for node in site.posts reversed %}
         {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
-        <li class="p-{{id}}"><a href="#{{id}}">{{node.title}}</a></li>
+        <li class="p-{{id}}"><a href="#{{id}}">&nbsp;&nbsp;{{node.title}}&nbsp;&nbsp;</a></li>
       {% endfor %}
     </ul></nav>
 
