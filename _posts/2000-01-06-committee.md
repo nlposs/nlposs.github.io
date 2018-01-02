@@ -5,8 +5,6 @@ color: black
 fa-icon: users
 ---
 
-## Programme Committee
-
  - Martin Andrews, Red Cat Labs
  - Francis Bond, Nanyang Technological University
  - Jason Baldridge, Google
@@ -54,5 +52,5 @@ fa-icon: users
  - Tommaso Teofili, Adobe
  - Emiel van Miltenburg, Vrije Universiteit Amsterdam
  - Maarten van Gompel, Radboud University
- - Gaël Varoquaux, INRIA 
+ - Gaël Varoquaux, INRIA
  - Marcos Zampieri, University of Wolverhampton
