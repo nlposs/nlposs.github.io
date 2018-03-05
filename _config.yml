@@ -35,6 +35,7 @@ colors:
   silver:    '#c0c0c0'
   gold:      '#d4af37'
   bronze:    '#f4a460'
+  violet:    '#afb9ff'
 
 kramdown:
   auto_ids:  false
