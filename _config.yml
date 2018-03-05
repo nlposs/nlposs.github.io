@@ -32,6 +32,9 @@ colors:
   purple:    '#c869bf'
   orange:    '#fab125'
   turquoise: '#0fbfcf'
+  silver:    '#c0c0c0'
+  gold:      '#d4af37'
+  bronze:    '#f4a460'
 
 kramdown:
   auto_ids:  false
