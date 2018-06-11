@@ -6,6 +6,7 @@ fa-icon: users
 ---
 
  - Martin Andrews, Red Cat Labs
+ - Steven Bird, Charles Darwin University
  - Francis Bond, Nanyang Technological University
  - Jason Baldridge, Google
  - Steven Bethard, University of Arizona
