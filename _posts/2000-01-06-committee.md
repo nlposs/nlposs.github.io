@@ -54,5 +54,5 @@ fa-icon: users
  - Emiel van Miltenburg, Vrije Universiteit Amsterdam
  - Maarten van Gompel, Radboud University
  - Gaël Varoquaux, INRIA
- - KhengHui Yeo, Institute for Infocomm Research
+ - Kheng Hui Yeo, Institute for Infocomm Research
  - Marcos Zampieri, University of Wolverhampton
