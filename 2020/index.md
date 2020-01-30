@@ -182,5 +182,5 @@ To promote closer interaction, all accepted publications will be presented in th
 
 ## Previous Workshop
 
-[**First Workshop for Natural Language Processing Open Source Software** (NLP-OSS 2018)](http://nlposs.github.io/2018) <br>
+[**First Workshop for Natural Language Processing Open Source Software** (NLP-OSS 2018)](../2018) <br>
 \[[Proceedings](https://www.aclweb.org/anthology/volumes/W18-25/)\]
