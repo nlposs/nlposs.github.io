@@ -181,6 +181,22 @@ The 2nd NLP-OSS workshop will be co-located with the EMNLP 2020 conference.
 
 To promote closer interaction, all accepted publications will be presented in the poster format and be required to give a 1 slide (90 seconds) introduction of their work at the beginning of the session. For the rest of the workshop, invited talks will be given by developers and maintainers of prominent NLP-OSS projects and we plan to close the workshop with a panel session with the invited speakers and the audience of the workshop.
 
+## Submission information
+
+Authors are invited to submit a
+
+- Full paper up to 8 pages of content
+- Short paper up to 4 pages of content
+
+All papers are allowed unlimited but sensible pages for references. Final camera ready versions will be allowed an additional page of content to address reviewers' comments.
+
+Submission should be formatted according to the ACL2018 templates. We strongly recommend you to prepare your manuscript using LaTeX:
+
+- LaTeX
+- MS Word
+
+Submissions should be uploaded to Softconf conference management system at https://www.softconf.com/emnlp2020/NLPOSS.
+
 ## Previous Workshop
 
 [**First Workshop for Natural Language Processing Open Source Software** (NLP-OSS 2018)](../2018) <br>
