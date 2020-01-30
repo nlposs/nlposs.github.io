@@ -1,5 +1,6 @@
 ---
 title: NLP-OSS 2020
+layout: default
 ---
 
 # 2nd Workshop for Natural Language Processing Open Source Software (NLP-OSS)

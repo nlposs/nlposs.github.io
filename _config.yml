@@ -1,42 +1,39 @@
----
-
+# Setup
 port: 4000
 host: 0.0.0.0
-safe: false
 
+title: NLP-OSS
+tagline: Democratizing NLP!
+keywords: "Natural Language Processing, NLP, Open Source Software, OSS, Workshop"
+description: "Workshop for NLP Open Source Software (NLP-OSS)"
+google_analytics_key: UA-157382521-1
 
-### site serving configuration ###
-exclude: [CNAME, README.md, .gitignore]
-permalink: /:title ## disables post output
+url: https://nlposs.github.io
+baseurl: ""
+permalink: :title/  # disables post output
 timezone: null
 lsi: false
 markdown: kramdown
-
-
-### content configuration ###
-title:       "Workshop for NLP Open Source Software (NLP-OSS)"
-keywords:    "Natural Language Processing, NLP, Open Source Software, OSS, Workshop"
-description: "Workshop for NLP Open Source Software (NLP-OSS)"
-source_link: "https://nlposs.github.io/"
-favicon:     "img/favicon.ico"
-touch_icon:  "img/apple-touch-icon.png"
-google_analytics_key:  ## put YOUR key here to enable tracking! (blank to disable)
-
-
-### template colors, used site-wide via css ###
-colors:
-  black:     '#111111'
-  white:     '#f8f8f8'
-  blue:      '#49a7e9'
-  green:     '#9bcf2f'
-  purple:    '#c869bf'
-  orange:    '#fab125'
-  turquoise: '#0fbfcf'
-  silver:    '#c0c0c0'
-  gold:      '#d4af37'
-  bronze:    '#f4a460'
-  violet:    '#7a7d96'
-
 kramdown:
-  auto_ids:  false
+    footnote_backlink: "&#10548;"
 
+# Gems
+plugins:
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-target-blank
+
+# Optimize Jekyll
+exclude:
+  - .editorconfig
+  - .git
+  - .jekyll-cache
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.md
+  - README.md
+
+sass:
+  sass_dir: _sass
+  style: :compressed
