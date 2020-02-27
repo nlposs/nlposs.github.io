@@ -23,6 +23,7 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-target-blank
+  - jekyll-redirect-from
 
 # Optimize Jekyll
 exclude:
