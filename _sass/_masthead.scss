@@ -3,7 +3,8 @@
 // The style of the site's title and optional secondary description.
 
 .masthead {
-  padding-top:    1rem;
+  position: fixed;
+  padding-top:    0; //1rem;
   padding-bottom: 1rem;
   margin-bottom: 3rem;
 }
@@ -13,7 +14,7 @@
   margin-bottom: 20px;
   color: $body-color;
   position: relative;
-  
+
 @media (prefers-color-scheme: dark) {
   color: $body-color-dark;
   }
@@ -35,15 +36,17 @@
   font-variant: small-caps;
   font-weight: 500;
   color: $body-color;
-  
+
 @media (prefers-color-scheme: dark) {
   color: $body-color-dark;
   }
-  
+
 ul#navigation-list {
+  position: fixed;
   list-style: none;
   margin: 0;
   padding: 0;
+  background: rgba(0,0,0,0);
   }
   ul#navigation-list li {
     display: inline;
@@ -51,5 +54,6 @@ ul#navigation-list {
 	padding-left: 0;
     padding-right: 15px;
 	margin: 0;
+    background: rgba(0,0,0,0);
     }
 }

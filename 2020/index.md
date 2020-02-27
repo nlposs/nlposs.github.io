@@ -4,7 +4,7 @@ layout: default
 ---
 
 # 2nd Workshop for Natural Language Processing Open Source Software (NLP-OSS)
-## 11 or 12 Nov 2020 @ EMNLP 2020
+11 or 12 Nov 2020 @ EMNLP 2020
 
 With great scientific breakthrough comes solid engineering and open communities. The Natural Language Processing (NLP) community has benefited greatly from the open culture in sharing knowledge, data, and software. The primary objective of this workshop is to further the sharing of insights on the engineering and community aspects of creating, developing, and maintaining NLP open source software (OSS), which we seldom talk about in scientific publications. Our secondary goal is to promote synergies between different open source projects and encourage cross-software collaborations and comparisons.
 
@@ -177,10 +177,11 @@ The 2nd NLP-OSS workshop will be co-located with the EMNLP 2020 conference.
  - [Marcos Zampieri](http://uni-koeln.de/~mzampie2/index.html),  University of Wolverhampton
  - [Maarten van Gompel](https://proycon.anaproy.nl/), Radboud University
 
-
+<!--
 ## Workshop Structure
 
 To promote closer interaction, all accepted publications will be presented in the poster format and be required to give a 1 slide (90 seconds) introduction of their work at the beginning of the session. For the rest of the workshop, invited talks will be given by developers and maintainers of prominent NLP-OSS projects and we plan to close the workshop with a panel session with the invited speakers and the audience of the workshop.
+-->
 
 ## Submission information
 
