@@ -1,5 +1,6 @@
 ---
 title: NLP-OSS 2020
+layout: default
 ---
 
 # 2nd Workshop for Natural Language Processing Open Source Software (NLP-OSS)
@@ -59,16 +60,16 @@ We invite full papers (8 pages) or short papers (4 pages) on topics related to N
 
 The 2nd NLP-OSS workshop will be co-located with the EMNLP 2020 conference.
 
-- Paper submission: TBD
-- Paper Reviews Starts: TBD
-- Paper Reviews Due: TBD
-- Notification of Acceptance: TBD
-- Camera-Ready Version: TBD
-- Workshop: TBD
+- Paper submission: 01 July 2020
+- Paper Reviews Starts: 05 July 2020
+- Paper Reviews Due: 05 August 2020
+- Notification of Acceptance: 10 August 2020
+- Camera-Ready Version: 25 August 2020
+- Workshop: 11 or 12 November 2020
 
 ## Invited Speakers
 
-- [Chip Huyen](https://huyenchip.com), NVIDIA
+- [Chip Huyen](https://huyenchip.com), *TBD*
 - [Spencer Kelly](https://spencermounta.in/), Freelance Developer
 - [Thomas Wolf](https://thomwolf.io), Huggingface
 
@@ -179,3 +180,24 @@ The 2nd NLP-OSS workshop will be co-located with the EMNLP 2020 conference.
 ## Workshop Structure
 
 To promote closer interaction, all accepted publications will be presented in the poster format and be required to give a 1 slide (90 seconds) introduction of their work at the beginning of the session. For the rest of the workshop, invited talks will be given by developers and maintainers of prominent NLP-OSS projects and we plan to close the workshop with a panel session with the invited speakers and the audience of the workshop.
+
+## Submission information
+
+Authors are invited to submit a
+
+- Full paper up to 8 pages of content
+- Short paper up to 4 pages of content
+
+All papers are allowed unlimited but sensible pages for references. Final camera ready versions will be allowed an additional page of content to address reviewers' comments.
+
+Submission should be formatted according to the ACL2018 templates. We strongly recommend you to prepare your manuscript using LaTeX:
+
+- LaTeX
+- MS Word
+
+Submissions should be uploaded to Softconf conference management system at https://www.softconf.com/emnlp2020/NLPOSS.
+
+## Previous Workshop
+
+[**First Workshop for Natural Language Processing Open Source Software** (NLP-OSS 2018)](../2018) <br>
+\[[Proceedings](https://www.aclweb.org/anthology/volumes/W18-25/)\]

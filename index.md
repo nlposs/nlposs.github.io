@@ -1,3 +1,4 @@
 ---
-redirect_to: "/2020/"
+redirect_to: "/2020/index.html"
 ---
+
