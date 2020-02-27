@@ -25,7 +25,7 @@ GEM
     forwardable-extended (2.6.0)
     html-pipeline (2.12.3)
       activesupport (>= 2)
-      nokogiri (>= 1.4)
+      nokogiri (>= 1.10.8)
     htmlcompressor (0.4.0)
     http_parser.rb (0.6.0)
     i18n (1.8.2)
