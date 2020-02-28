@@ -8,6 +8,7 @@
 
 html,
 body {
+  text-align:center;
   margin: 0;
   padding: 0;
 }
@@ -18,7 +19,7 @@ html {
   line-height: $root-line-height;
 
   @media (min-width: $large-breakpoint) {
-    font-size: $large-font-size;
+    font-size: $normal-font-size;
   }
 }
 
@@ -35,6 +36,7 @@ body {
 }
 
 main {
+  text-align: left;
   padding-top: 40px;
 }
 
