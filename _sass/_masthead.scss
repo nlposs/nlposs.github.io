@@ -55,7 +55,8 @@ ul#navigation-list {
   position: fixed;
   list-style: none;
   padding-bottom: 0.75rem;
-  background: rgba(250,250,250,1.0);
+  padding-top: 0.45rem;
+  background: rgba(224, 214, 214, 1.0);
   }
   ul#navigation-list li {
     display: inline-block;
@@ -65,7 +66,11 @@ ul#navigation-list {
 	padding-left: 0;
     padding-right: 15px;
 	margin: auto;
-    background: rgba(250,250,250,1.0);
+    background: rgba(224, 214, 214, 1.0);
 
     }
+    ul#navigation-list li a {
+      color: #08503b;
+    }
 }
+

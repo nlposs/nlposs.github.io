@@ -52,7 +52,7 @@ a {
 	color: $light;
 
 	@media (prefers-color-scheme: dark) {
-    color: $dark;
+    color: #5fa792; // make it more interesting by not having the default as dark
     }
   }
 
