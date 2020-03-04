@@ -102,78 +102,59 @@ The 2nd NLP-OSS workshop will be co-located with the EMNLP 2020 conference.
 
 ## Programme Committee
 
- - [Tareq Abdo Abdullah Al-Moslmi](https://www.uib.no/en/persons/Tareq.Abdo.Abdullah.Al-Moslmi),  University of Bergen
- - [Martin Andrews](http://mdda.net), Red Cat Labs
- - [Eleftherios Avramidis](), Deutsches Forschungszentrum für Künstliche Intelligenz
- - Amittai Axelrod,    DiDi Chuxing (Los Angeles)
- - Tim Baldwin, University of Melbourne
- - [Marcel Bollmann](https://marcel.bollmann.me/), University of Copenhagen
- - [Francis Bond](http://www.ntu.edu.sg/home/fcbond/), Nanyang Technological University
- - [Steven Bethard](http://bethard.faculty.arizona.edu/), University of Arizona
- - [Fred Blain](https://fredblain.org), University of Sheffield
- - James Bradbury, Salesforce Research
- - [Daniel Braun](http://wwwmatthes.in.tum.de), Technical University of Munich
- - [Denny Britz](http://blog.dennybritz.com/about/), Prediction Machines
- - [Muthu Kumar Chandrasekaran](http://wing.comp.nus.edu.sg/~cmkumar/), National University of Singapore
- - Sharat Chikkerur,    Microsoft
- - [Kyunghyun Cho](http://www.kyunghyuncho.me/), New York University
- - Shamil Chollampatt,    Rakuten Institute of Technology
- - [Jon Dehdari](http://jon.dehdari.org), Think Big Analytics
- - Steve DeNeefe,    SDL
- - [Leon Derczynski](http://www.derczynski.com/itu/), IT University of Copenhagen
- - [Anca Dumitrache](http://ancad.ro/),    FD Mediagroep
- - Gérard Dupont, Airbus
- - [Ignatius Ezeani](https://www.lancaster.ac.uk/scc/about-us/people/ignatius-ezeani), Lancaster University
- - [Marzieh Fadaee](https://staff.fnwi.uva.nl/m.fadaee/), University of Amsterdam
- - [Christian Federmann](http://www.cfedermann.de), Microsoft Research
- - [Mary Ellen Foster](http://www.dcs.gla.ac.uk/~mefoster/), University of Glasgow
- - [Michael Wayne Goodman](https://goodmami.org/), Nanyang Technological University
- - [Arwen Twinkle Griffioen](https://www.linkedin.com/in/arwengriffioen/), Zendesk Inc.
- - [Joel Grus](http://joelgrus.com/), Allen Institute for Artificial Intelligence
- - [Chris Hokamp](https://github.com/chrishokamp), AYLIEN
- - [Matthew Honnibal](https://explosion.ai), Explosion AI
- - [David M. Howcroft](https://davehowcroft.com/),
- - [Fabio Kepler](), Unbabel
- - [Sung Kim](https://www.cse.ust.hk/~hunkim/), Hong Kong University of Science and Technology
- - [Thomas Kober](https://www.inf.ed.ac.uk/people/staff/Thomas_Kober.html), University of Edinburgh
- - [Philipp Koehn](http://www.cs.jhu.edu/~phi/), Johns Hopkins University
- - [Taku Kudo](http://chasen.org/~taku/index.html.en), Google
- - Varun Kumar,    Amazon Alexa
- - [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/), Carnegie Mellon University
- - [Sandya Mannarswamy](https://scholar.google.co.in/citations?user=i27nd3oAAAAJ&hl=en), Independent Researcher
- - [Christopher Manning](https://nlp.stanford.edu/manning/), Stanford University
- - Laura Martinus, Explore Data Science Academy
- - Ehsan Khoddam Mohammadi, RELX
- - [Ines Montani](https://ines.io), Explosion AI
- - [Vlad Niculae](http://vene.ro), Instituto de Telecomunicações
- - [Joel Nothman](http://www.joelnothman.com), University of Sydney
- - Yves Peirsman,     NLP Town
- - [Tommi A Pirinen](https://www.computing.dcu.ie/~tpirinen/),    University of Hamburg
- - [Aline Paes](https://uff.academia.edu/AlinePaes),    Universidade Federal Fluminense
- - [Matt Post](http://cs.jhu.edu/~post/),  Johns Hopkins University
- - [David Przybilla](http://alejandro.pictures), Idio
- - [Amandalynne Paullada](https://linguistics.washington.edu/people/amandalynne-paullada), University of Washington
- - [Delip Rao](http://deliprao.com), AI Foundation
- - [Radim Řehůřek](https://radimrehurek.com/), RaRe Technologies
- - [Elijah Rippeth](https://erip.github.io), MITRE Corporation
- - [Mohd Sanad Zaki Rizvi](https://www.linkedin.com/in/mohd-sanad-zaki-rizvi-0238b5a6/), Analytics Vidhya
- - [Ivan Vladimir Meza Ruiz](http://turing.iimas.unam.mx/~ivanvladimir/), National University of Mexico
- - [Carolina Scarton](http://staffwww.dcs.shef.ac.uk/people/C.Scarton/), University of Sheffield
- - [Micah Shlain](https://www.linkedin.com/in/micah-shlain-52254323), Allen Institute for Artificial Intelligence
- - [Rico Sennrich](http://homepages.inf.ed.ac.uk/rsennric/), University of Edinburgh
- - [Dan Simonson](http://thedansimonson.com), Georgetown University
- - [Steve Sloto](https://www.linkedin.com/in/ssloto/), Amazon Web Services
- - [Karin Sim Smith](), University of Sheffield
- - [Ian Soboroff](https://www.nist.gov/people/ian-soboroff), NIST
- - Shilpa Suresh, Independent Researcher
- - [Tilahun Abedissa Taffa](), Kotebe Metropolitan University
- - [Tommaso Teofili](http://people.apache.org/~tommaso/), Adobe
- - [Emiel van Miltenburg](http://www.emielvanmiltenburg.nl), Vrije Universiteit Amsterdam
- - [Svitlana Vakulenko](svakulenk0.github.io), Vienna University of Economics and Business
- - [Gaël Varoquaux](http://gael-varoquaux.info), INRIA
- - [Moshe Wasserblat](), Intel Corporation
- - [Marcos Zampieri](http://uni-koeln.de/~mzampie2/index.html),  University of Wolverhampton
- - [Maarten van Gompel](https://proycon.anaproy.nl/), Radboud University
+ - Aline Paes, Universidade Federal Fluminense
+ - Amandalynne Paullada, University of Washington
+ - Amittai Axelrod, DiDi Chuxing (Los Angeles)
+ - Arwen Twinkle Griffioen, Zendesk Inc.
+ - Carolina Scarton, University of Sheffield
+ - Chris Hokamp, AYLIEN
+ - Christian Federmann, Microsoft Research
+ - Dan Simonson, BlackBoiler, LLC
+ - Daniel Braun, TU Muchen
+ - Dave Howcroft, Interaction Lab
+ - David Przybilla, Idio
+ - Delip Rao, Joostware AI Research Corp
+ - Denny Britz, Prediction Machines
+ - Ehsan Khoddammohammadi, Elsiever
+ - Elijah Rippeth, MITRE Corporation
+ - Emily Dinan, Facebook AI
+ - Francis Bond, Nanyang Technological University
+ - Fred Blain, University of Sheffield
+ - Gerard Dupont, Airbus
+ - Ignatius Ezeani, Lancaster Uni
+ - Ines Montani, Explosion AI
+ - James Bradbury, Google
+ - Joel Nothman, University of Sydney
+ - Karin Sim Smith, Lingo24
+ - KhengHui Yeo, Institute for Infocomm Research
+ - Laura Martinus, Explore AI
+ - Marcel Bollmann, University of Copenhagen
+ - Marcos Zampieri, University of Wolverhampton
+ - Mary Ellen Foster, University of Glasgow
+ - Matthew Honnibal, Explosion AI
+ - Micah Shlain, Allen Institute for Artificial Intelligence
+ - Michael Wayne Goodman, University of Washington
+ - Mohd Sanad Zaki Rizvi, Analytics Vidhya
+ - Muthu Kumar Chandrasekaran, NUS, SG
+ - Nahid Alam, Ople Inc
+ - Paul P Liang, Carnegie Mellon University
+ - Philipp Koehn, Johns Hopkins University
+ - Sandya Mannarswamy , Independent Researcher
+ - Shamil Chollampatt, Rakuten Institute of Technology
+ - Sharat Chikkerur, Microsoft
+ - Shilpa Suresh, Singapore Managment University
+ - Steve DeNeefe, SDL Research Labs
+ - Steven Bethard, University of Arizona
+ - Steven Bird, Charles Darwin University
+ - Svitlana Vakulenko, TU Wien
+ - Tareq Al-Moslmi, University of Bergen
+ - Thomas Kober, University of Edinburgh
+ - Tilahun Abedissa, Addis Ababa University
+ - Tommaso Teofili, Adobe
+ - Tommi A Pirinen, University of Hamburg
+ - Varun Kumar, Amazon Alexa
+ - Vlad Niculae, Instituto de Telecomunicações
+ - Yves Peirsman, NLP Town
 
 <!--
 ## Workshop Structure
