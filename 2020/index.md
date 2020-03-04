@@ -114,7 +114,7 @@ The 2nd NLP-OSS workshop will be co-located with the EMNLP 2020 conference.
  - Daniel Braun, TU Muchen
  - Dave Howcroft, Interaction Lab
  - David Przybilla, Idio
- - Delip Rao, Joostware AI Research Corp
+ - Delip Rao, AI Foundation
  - Denny Britz, Prediction Machines
  - Ehsan Khoddammohammadi, Elsiever
  - Eleftherios Avramidis,	German Research Center for Artificial Intelligence
