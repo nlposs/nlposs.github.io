@@ -137,7 +137,7 @@ The 2nd NLP-OSS workshop will be co-located with the EMNLP 2020 conference.
  - Mary Ellen Foster, University of Glasgow
  - Matthew Honnibal, Explosion AI
  - Micah Shlain, Allen Institute for Artificial Intelligence
- - Michael Wayne Goodman, University of Washington
+ - Michael Wayne Goodman, Nanyang Technological University
  - Mohd Sanad Zaki Rizvi, Analytics Vidhya
  - Muthu Kumar Chandrasekaran, NUS, SG
  - Nahid Alam, Ople Inc
@@ -151,7 +151,7 @@ The 2nd NLP-OSS workshop will be co-located with the EMNLP 2020 conference.
  - Steve Sloto,	AWS AI
  - Steven Bethard, University of Arizona
  - Steven Bird, Charles Darwin University
- - Svitlana Vakulenko, TU Wien
+ - Svitlana Vakulenko, University of Amsterdam
  - Tareq Al-Moslmi, University of Bergen
  - Thomas Kober, University of Edinburgh
  - Tilahun Abedissa, Addis Ababa University
