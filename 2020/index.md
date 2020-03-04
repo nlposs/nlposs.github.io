@@ -102,6 +102,7 @@ The 2nd NLP-OSS workshop will be co-located with the EMNLP 2020 conference.
 
 ## Programme Committee
 
+ - Anca Dumitrache,	FD Mediagroep
  - Aline Paes, Universidade Federal Fluminense
  - Amandalynne Paullada, University of Washington
  - Amittai Axelrod, DiDi Chuxing (Los Angeles)
@@ -116,6 +117,7 @@ The 2nd NLP-OSS workshop will be co-located with the EMNLP 2020 conference.
  - Delip Rao, Joostware AI Research Corp
  - Denny Britz, Prediction Machines
  - Ehsan Khoddammohammadi, Elsiever
+ - Eleftherios Avramidis,	German Research Center for Artificial Intelligence
  - Elijah Rippeth, MITRE Corporation
  - Emiel van Miltenburg,	Vrije Universiteit Amsterdam
  - Emily Dinan, Facebook AI
@@ -146,6 +148,7 @@ The 2nd NLP-OSS workshop will be co-located with the EMNLP 2020 conference.
  - Sharat Chikkerur, Microsoft
  - Shilpa Suresh, Singapore Managment University
  - Steve DeNeefe, SDL Research Labs
+ - Steve Sloto,	AWS AI
  - Steven Bethard, University of Arizona
  - Steven Bird, Charles Darwin University
  - Svitlana Vakulenko, TU Wien
