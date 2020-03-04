@@ -117,10 +117,12 @@ The 2nd NLP-OSS workshop will be co-located with the EMNLP 2020 conference.
  - Denny Britz, Prediction Machines
  - Ehsan Khoddammohammadi, Elsiever
  - Elijah Rippeth, MITRE Corporation
+ - Emiel van Miltenburg,	Vrije Universiteit Amsterdam
  - Emily Dinan, Facebook AI
  - Francis Bond, Nanyang Technological University
  - Fred Blain, University of Sheffield
  - Gerard Dupont, Airbus
+ - Ian Soboroff, NIST
  - Ignatius Ezeani, Lancaster Uni
  - Ines Montani, Explosion AI
  - James Bradbury, Google
