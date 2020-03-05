@@ -137,6 +137,7 @@ The 2nd NLP-OSS workshop will be co-located with the EMNLP 2020 conference.
  - Marcel Bollmann, University of Copenhagen
  - Marcos Zampieri, University of Wolverhampton
  - Mary Ellen Foster, University of Glasgow
+ - Marzieh Fadaee, University of Amsterdam
  - Matthew Honnibal, Explosion AI
  - Micah Shlain, Allen Institute for Artificial Intelligence
  - Michael Wayne Goodman, Nanyang Technological University
