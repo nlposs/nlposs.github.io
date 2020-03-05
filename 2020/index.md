@@ -114,7 +114,7 @@ The 2nd NLP-OSS workshop will be co-located with the EMNLP 2020 conference.
  - Christian Federmann, Microsoft Research
  - Dan Simonson, BlackBoiler, LLC
  - Daniel Braun, TU Muchen
- - Dave Howcroft, Interaction Lab
+ - Dave Howcroft, Heriot-Watt University
  - David Przybilla, Idio
  - Delip Rao, AI Foundation
  - Denny Britz, Prediction Machines
