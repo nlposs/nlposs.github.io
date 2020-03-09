@@ -150,6 +150,7 @@ The 2nd NLP-OSS workshop will be co-located with the EMNLP 2020 conference.
  - Shamil Chollampatt, Rakuten Institute of Technology
  - Sharat Chikkerur, Microsoft
  - Shilpa Suresh, Singapore Managment University
+ - Shubhanshu Mishra, Twitter
  - Steve DeNeefe, SDL Research Labs
  - Steve Sloto,	AWS AI
  - Steven Bethard, University of Arizona
