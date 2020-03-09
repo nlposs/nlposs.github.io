@@ -180,8 +180,10 @@ To promote closer interaction, all accepted publications will be presented in th
 
 Authors are invited to submit a
 
-- Full paper up to 8 pages of content
+- Full paper up to 8 pages of content or
 - Short paper up to 4 pages of content
+
+Submissions can be non-archival and be presented in the NLP-OSS workshop; but we would still require at least a 4 page submission so that reviewers have enough information to make the acceptance/rejection decision. This non-archival option is helpful for author(s) who wants to publish or had published the work elsewhere and would like to present/discuss pertinent NLP-OSS related work to the workshop PCs and attendees. 
 
 All papers are allowed unlimited but sensible pages for references. Final camera ready versions will be allowed an additional page of content to address reviewers' comments.
 
@@ -191,6 +193,7 @@ Submission should be formatted according to the ACL2018 templates. We strongly r
 - MS Word
 
 Submissions should be uploaded to Softconf conference management system at https://www.softconf.com/emnlp2020/NLPOSS.
+
 
 ## Previous Workshop
 
