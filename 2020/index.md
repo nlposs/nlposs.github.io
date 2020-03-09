@@ -159,7 +159,7 @@ The 2nd NLP-OSS workshop will be co-located with the EMNLP 2020 conference.
  - Tareq Al-Moslmi, University of Bergen
  - Thomas Kober, University of Edinburgh
  - Tilahun Abedissa, Addis Ababa University
- - Tommaso Teofili, Adobe
+ - Tommaso Teofili, Roma Tre University / Red Hat 
  - Tommi A Pirinen, University of Hamburg
  - Varun Kumar, Amazon Alexa
  - Vlad Niculae, Instituto de Telecomunicações
