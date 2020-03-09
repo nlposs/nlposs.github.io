@@ -123,6 +123,8 @@ The 2nd NLP-OSS workshop will be co-located with the EMNLP 2020 conference.
  - Elijah Rippeth, MITRE Corporation
  - Emiel van Miltenburg,	Vrije Universiteit Amsterdam
  - Emily Dinan, Facebook AI
+ - Eric Schles,	New York University / Sema4 
+ - Fabio Kepler, Unbabel
  - Francis Bond, Nanyang Technological University
  - Fred Blain, University of Sheffield
  - Gerard Dupont, Airbus
@@ -132,8 +134,10 @@ The 2nd NLP-OSS workshop will be co-located with the EMNLP 2020 conference.
  - James Bradbury, Google
  - Joel Nothman, University of Sydney
  - Karin Sim Smith, Lingo24
+ - Kevin Cohen,	University of Colorado Boulder
  - KhengHui Yeo, Institute for Infocomm Research
  - Laura Martinus, Explore AI
+ - Madison May,	Indico Data Solutions
  - Marcel Bollmann, University of Copenhagen
  - Marcos Zampieri, University of Wolverhampton
  - Mary Ellen Foster, University of Glasgow
@@ -142,6 +146,7 @@ The 2nd NLP-OSS workshop will be co-located with the EMNLP 2020 conference.
  - Micah Shlain, Allen Institute for Artificial Intelligence
  - Michael Wayne Goodman, Nanyang Technological University
  - Mohd Sanad Zaki Rizvi, Analytics Vidhya
+ - Moshe Wasserblat,	Intel
  - Muthu Kumar Chandrasekaran, NUS, SG
  - Nahid Alam, Ople Inc
  - Paul P Liang, Carnegie Mellon University
