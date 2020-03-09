@@ -104,10 +104,10 @@ The 2nd NLP-OSS workshop will be co-located with the EMNLP 2020 conference.
 
 ## Programme Committee
 
- - Anca Dumitrache,	FD Mediagroep
  - Aline Paes, Universidade Federal Fluminense
  - Amandalynne Paullada, University of Washington
  - Amittai Axelrod, DiDi Chuxing (Los Angeles)
+ - Anca Dumitrache,	FD Mediagroep
  - Arwen Twinkle Griffioen, Zendesk Inc.
  - Carolina Scarton, University of Sheffield
  - Chris Hokamp, AYLIEN
