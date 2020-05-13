@@ -145,7 +145,7 @@ The 2nd NLP-OSS workshop will be co-located with the EMNLP 2020 conference.
  - Matthew Honnibal, Explosion AI
  - Micah Shlain, Allen Institute for Artificial Intelligence
  - Michael Wayne Goodman, Nanyang Technological University
- - Mohd Sanad Zaki Rizvi, Analytics Vidhya
+ - Mohd Sanad Zaki Rizvi, Microsoft Research India
  - Moshe Wasserblat,	Intel
  - Muthu Kumar Chandrasekaran, NUS, SG
  - Nahid Alam, Ople Inc
