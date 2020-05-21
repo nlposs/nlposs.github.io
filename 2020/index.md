@@ -5,7 +5,8 @@ layout: default
 
 # 2nd Workshop for Natural Language Processing Open Source Software (NLP-OSS) <br>
 
-### 11 or 12 Nov 2020 @ [EMNLP 2020](https://2020.emnlp.org/)
+### 11 or 12 Nov 2020 @ [EMNLP 2020](https://2020.emnlp.org/) 
+
 <br><br>
 
 With great scientific breakthrough comes solid engineering and open communities. The Natural Language Processing (NLP) community has benefited greatly from the open culture in sharing knowledge, data, and software. The primary objective of this workshop is to further the sharing of insights on the engineering and community aspects of creating, developing, and maintaining NLP open source software (OSS), which we seldom talk about in scientific publications. Our secondary goal is to promote synergies between different open source projects and encourage cross-software collaborations and comparisons.
@@ -125,36 +126,46 @@ Thomas Wolf lead the Science Team at Huggingface Inc., a Brooklyn-based startup 
  - Aline Paes, Universidade Federal Fluminense
  - Amandalynne Paullada, University of Washington
  - Amittai Axelrod, DiDi Chuxing (Los Angeles)
+ - Anca Dumitrache,	FD Mediagroep
  - Arwen Twinkle Griffioen, Zendesk Inc.
  - Carolina Scarton, University of Sheffield
  - Chris Hokamp, AYLIEN
  - Christian Federmann, Microsoft Research
  - Dan Simonson, BlackBoiler, LLC
  - Daniel Braun, TU Muchen
- - Dave Howcroft, Interaction Lab
+ - Dave Howcroft, Heriot-Watt University
  - David Przybilla, Idio
- - Delip Rao, Joostware AI Research Corp
+ - Delip Rao, AI Foundation
  - Denny Britz, Prediction Machines
  - Ehsan Khoddammohammadi, Elsiever
+ - Eleftherios Avramidis,	German Research Center for Artificial Intelligence
  - Elijah Rippeth, MITRE Corporation
+ - Emiel van Miltenburg,	Vrije Universiteit Amsterdam
  - Emily Dinan, Facebook AI
+ - Eric Schles,	New York University / Sema4 
+ - Fabio Kepler, Unbabel
  - Francis Bond, Nanyang Technological University
  - Fred Blain, University of Sheffield
  - Gerard Dupont, Airbus
+ - Ian Soboroff, NIST
  - Ignatius Ezeani, Lancaster Uni
  - Ines Montani, Explosion AI
  - James Bradbury, Google
  - Joel Nothman, University of Sydney
  - Karin Sim Smith, Lingo24
+ - Kevin Cohen,	University of Colorado Boulder
  - KhengHui Yeo, Institute for Infocomm Research
  - Laura Martinus, Explore AI
+ - Madison May,	Indico Data Solutions
  - Marcel Bollmann, University of Copenhagen
  - Marcos Zampieri, University of Wolverhampton
  - Mary Ellen Foster, University of Glasgow
+ - Marzieh Fadaee, University of Amsterdam
  - Matthew Honnibal, Explosion AI
  - Micah Shlain, Allen Institute for Artificial Intelligence
- - Michael Wayne Goodman, University of Washington
- - Mohd Sanad Zaki Rizvi, Analytics Vidhya
+ - Michael Wayne Goodman, Nanyang Technological University
+ - Mohd Sanad Zaki Rizvi, Microsoft Research India
+ - Moshe Wasserblat,	Intel
  - Muthu Kumar Chandrasekaran, NUS, SG
  - Nahid Alam, Ople Inc
  - Paul P Liang, Carnegie Mellon University
@@ -163,14 +174,16 @@ Thomas Wolf lead the Science Team at Huggingface Inc., a Brooklyn-based startup 
  - Shamil Chollampatt, Rakuten Institute of Technology
  - Sharat Chikkerur, Microsoft
  - Shilpa Suresh, Singapore Managment University
+ - Shubhanshu Mishra, Twitter
  - Steve DeNeefe, SDL Research Labs
+ - Steve Sloto,	AWS AI
  - Steven Bethard, University of Arizona
  - Steven Bird, Charles Darwin University
- - Svitlana Vakulenko, TU Wien
+ - Svitlana Vakulenko, University of Amsterdam
  - Tareq Al-Moslmi, University of Bergen
  - Thomas Kober, University of Edinburgh
  - Tilahun Abedissa, Addis Ababa University
- - Tommaso Teofili, Adobe
+ - Tommaso Teofili, Roma Tre University / Red Hat 
  - Tommi A Pirinen, University of Hamburg
  - Varun Kumar, Amazon Alexa
  - Vlad Niculae, Instituto de Telecomunicações
@@ -186,8 +199,10 @@ To promote closer interaction, all accepted publications will be presented in th
 
 Authors are invited to submit a
 
-- Full paper up to 8 pages of content
+- Full paper up to 8 pages of content or
 - Short paper up to 4 pages of content
+
+Submissions can be non-archival and be presented in the NLP-OSS workshop; but we would still require at least a 4 page submission so that reviewers have enough information to make the acceptance/rejection decision. This non-archival option is helpful for author(s) who wants to publish or had published the work elsewhere and would like to present/discuss pertinent NLP-OSS related work to the workshop PCs and attendees. 
 
 All papers are allowed unlimited but sensible pages for references. Final camera ready versions will be allowed an additional page of content to address reviewers' comments.
 
@@ -197,6 +212,7 @@ Submission should be formatted according to the ACL2018 templates. We strongly r
 - MS Word
 
 Submissions should be uploaded to Softconf conference management system at https://www.softconf.com/emnlp2020/NLPOSS.
+
 
 ## Previous Workshop
 
