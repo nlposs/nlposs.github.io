@@ -6,7 +6,7 @@ layout: default
 # 2nd Workshop for Natural Language Processing Open Source Software (NLP-OSS) <br>
 
 ### 11 or 12 Nov 2020 @ [EMNLP 2020](https://2020.emnlp.org/) 
-#### Barceló Bávaro Convention Centre,<br> Punta Cana, Dominican Republic
+
 <br><br>
 
 With great scientific breakthrough comes solid engineering and open communities. The Natural Language Processing (NLP) community has benefited greatly from the open culture in sharing knowledge, data, and software. The primary objective of this workshop is to further the sharing of insights on the engineering and community aspects of creating, developing, and maintaining NLP open source software (OSS), which we seldom talk about in scientific publications. Our secondary goal is to promote synergies between different open source projects and encourage cross-software collaborations and comparisons.
