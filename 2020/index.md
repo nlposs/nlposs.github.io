@@ -6,6 +6,7 @@ layout: default
 # 2nd Workshop for Natural Language Processing Open Source Software (NLP-OSS) <br>
 
 ### 11 or 12 Nov 2020 @ [EMNLP 2020](https://2020.emnlp.org/) 
+
 <br><br>
 
 With great scientific breakthrough comes solid engineering and open communities. The Natural Language Processing (NLP) community has benefited greatly from the open culture in sharing knowledge, data, and software. The primary objective of this workshop is to further the sharing of insights on the engineering and community aspects of creating, developing, and maintaining NLP open source software (OSS), which we seldom talk about in scientific publications. Our secondary goal is to promote synergies between different open source projects and encourage cross-software collaborations and comparisons.
@@ -106,36 +107,46 @@ The 2nd NLP-OSS workshop will be co-located with the EMNLP 2020 conference.
  - Aline Paes, Universidade Federal Fluminense
  - Amandalynne Paullada, University of Washington
  - Amittai Axelrod, DiDi Chuxing (Los Angeles)
+ - Anca Dumitrache,	FD Mediagroep
  - Arwen Twinkle Griffioen, Zendesk Inc.
  - Carolina Scarton, University of Sheffield
  - Chris Hokamp, AYLIEN
  - Christian Federmann, Microsoft Research
  - Dan Simonson, BlackBoiler, LLC
  - Daniel Braun, TU Muchen
- - Dave Howcroft, Interaction Lab
+ - Dave Howcroft, Heriot-Watt University
  - David Przybilla, Idio
- - Delip Rao, Joostware AI Research Corp
+ - Delip Rao, AI Foundation
  - Denny Britz, Prediction Machines
  - Ehsan Khoddammohammadi, Elsiever
+ - Eleftherios Avramidis,	German Research Center for Artificial Intelligence
  - Elijah Rippeth, MITRE Corporation
+ - Emiel van Miltenburg,	Vrije Universiteit Amsterdam
  - Emily Dinan, Facebook AI
+ - Eric Schles,	New York University / Sema4 
+ - Fabio Kepler, Unbabel
  - Francis Bond, Nanyang Technological University
  - Fred Blain, University of Sheffield
  - Gerard Dupont, Airbus
+ - Ian Soboroff, NIST
  - Ignatius Ezeani, Lancaster Uni
  - Ines Montani, Explosion AI
  - James Bradbury, Google
  - Joel Nothman, University of Sydney
  - Karin Sim Smith, Lingo24
+ - Kevin Cohen,	University of Colorado Boulder
  - KhengHui Yeo, Institute for Infocomm Research
  - Laura Martinus, Explore AI
+ - Madison May,	Indico Data Solutions
  - Marcel Bollmann, University of Copenhagen
  - Marcos Zampieri, University of Wolverhampton
  - Mary Ellen Foster, University of Glasgow
+ - Marzieh Fadaee, University of Amsterdam
  - Matthew Honnibal, Explosion AI
  - Micah Shlain, Allen Institute for Artificial Intelligence
- - Michael Wayne Goodman, University of Washington
- - Mohd Sanad Zaki Rizvi, Analytics Vidhya
+ - Michael Wayne Goodman, Nanyang Technological University
+ - Mohd Sanad Zaki Rizvi, Microsoft Research India
+ - Moshe Wasserblat,	Intel
  - Muthu Kumar Chandrasekaran, NUS, SG
  - Nahid Alam, Ople Inc
  - Paul P Liang, Carnegie Mellon University
@@ -144,14 +155,16 @@ The 2nd NLP-OSS workshop will be co-located with the EMNLP 2020 conference.
  - Shamil Chollampatt, Rakuten Institute of Technology
  - Sharat Chikkerur, Microsoft
  - Shilpa Suresh, Singapore Managment University
+ - Shubhanshu Mishra, Twitter
  - Steve DeNeefe, SDL Research Labs
+ - Steve Sloto,	AWS AI
  - Steven Bethard, University of Arizona
  - Steven Bird, Charles Darwin University
- - Svitlana Vakulenko, TU Wien
+ - Svitlana Vakulenko, University of Amsterdam
  - Tareq Al-Moslmi, University of Bergen
  - Thomas Kober, University of Edinburgh
  - Tilahun Abedissa, Addis Ababa University
- - Tommaso Teofili, Adobe
+ - Tommaso Teofili, Roma Tre University / Red Hat 
  - Tommi A Pirinen, University of Hamburg
  - Varun Kumar, Amazon Alexa
  - Vlad Niculae, Instituto de Telecomunicações
