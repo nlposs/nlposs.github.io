@@ -5,7 +5,7 @@ layout: default
 
 # 2nd Workshop for Natural Language Processing Open Source Software (NLP-OSS) <br>
 
-### 11 or 12 Nov 2020 @ [EMNLP 2020](https://2020.emnlp.org/) 
+### 11 or 12 Nov 2020 @ [EMNLP 2020](https://2020.emnlp.org/)
 <br><br>
 
 With great scientific breakthrough comes solid engineering and open communities. The Natural Language Processing (NLP) community has benefited greatly from the open culture in sharing knowledge, data, and software. The primary objective of this workshop is to further the sharing of insights on the engineering and community aspects of creating, developing, and maintaining NLP open source software (OSS), which we seldom talk about in scientific publications. Our secondary goal is to promote synergies between different open source projects and encourage cross-software collaborations and comparisons.
@@ -69,9 +69,28 @@ The 2nd NLP-OSS workshop will be co-located with the EMNLP 2020 conference.
 
 ## Invited Speakers
 
-- [Chip Huyen](https://huyenchip.com), *TBD*
-- [Spencer Kelly](https://spencermounta.in/), Freelance Developer
-- [Thomas Wolf](https://thomwolf.io), Huggingface
+<h3> <strong><a href="https://huyenchip.com">Chip Huyen</a>, TBD</strong> </h3>
+<p>
+<img src="https://huyenchip.com/assets/profile.jpg" alt="Chip Huyen" align="left" style="margin-right: 32px; margin-bottom: 16px;" width=160px height=159px >
+</p>
+<p> Chip Huyen is a writer and computer scientist. She works to bring the best engineering practices to machine learning research and production. She writes about culture, people, and tech. She's currently with a startup that focuses on the machine learning production pipeline in Silicon Valley. Previously, She was with NVIDIA, Netflix, Primer, Baomoi.com.</p>
+<br><br><br>
+
+<h3> <strong><a href="https://spencermounta.in/">Spencer Kelly</a>, Freelance Developer</strong> </h3>
+<p>
+<img src="https://avatars2.githubusercontent.com/u/399657?s=460&u=afb7798f372f34b144511ebfd0895ccfef8c9536&v=4" alt="Spencer Kelly<" align="left" style="margin-right: 32px; margin-bottom: 16px;" width=160px height=159px >
+</p>
+<p> Spencer Kelly is a freelance developer. He is worried computers do not work very well and, things are a mess and software is in decline. If aliens ever land, we'll board their ship and discover that they have a better internet.</p>
+<br><br><br><br>
+
+<h3> <strong><a href="https://thomwolf.io/">Thomas Wolf</a>,  Huggingface</strong> </h3>
+<p>
+<img src="https://thomwolf.io/images/Thom_photo_circle.jpg" alt="Thomas Wolf<" align="left" style="margin-right: 32px; margin-bottom: 16px;" width=160px height=159px >
+</p>
+<p>
+Thomas Wolf lead the Science Team at Huggingface Inc., a Brooklyn-based startup working on Natural Language Generation and Natural Language Understanding.
+</p>
+<br><br><br><br>
 
 ## Organizers
 
