@@ -187,9 +187,9 @@ Submissions can be non-archival and be presented in the NLP-OSS workshop; but we
 
 All papers are allowed unlimited but sensible pages for references. Final camera ready versions will be allowed an additional page of content to address reviewers' comments.
 
-Submission should be formatted according to the EMNLP 2020 LaTeX or MS Word templates at https://2020.emnlp.org/files/emnlp2020-templates.zip.
+Submission should be formatted according to the EMNLP 2020 LaTeX or MS Word templates at [https://2020.emnlp.org/files/emnlp2020-templates.zip](https://2020.emnlp.org/files/emnlp2020-templates.zip).
 
-Submissions should be uploaded to Softconf conference management system at https://www.softconf.com/emnlp2020/nlposs/.
+Submissions should be uploaded to Softconf conference management system at [https://www.softconf.com/emnlp2020/nlposs/](https://www.softconf.com/emnlp2020/nlposs/).
 
 **Note:** Paper can be [dual-submitted](https://2020.emnlp.org/call-for-papers) to both EMNLP 2020 and the NLP-OSS workshop.
 
