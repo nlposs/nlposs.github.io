@@ -56,7 +56,7 @@ ul#navigation-list {
   list-style: none;
   padding-bottom: 0.75rem;
   padding-top: 0.45rem;
-  background: $dark; // rgba(224, 214, 214, 1.0);
+  background: rgba(224, 214, 214, 1.0);
   }
   ul#navigation-list li {
     display: inline-block;
@@ -66,10 +66,10 @@ ul#navigation-list {
 	padding-left: 0;
     padding-right: 15px;
 	margin: auto;
-    background:  $dark; // rgba(224, 214, 214, 1.0);
+    background: rgba(224, 214, 214, 1.0);
 
     }
     ul#navigation-list li a {
-      color: $white; // #08503b;
+      color: #08503b;
     }
 }
