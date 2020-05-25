@@ -1,7 +1,26 @@
 // Color scheme for light and dark modes.
 
-$light: #f76b48;
+$light: #2aabe4;
 $dark: #1ba77e;
+
+// Original noir		$light: #f76b48;
+//$light: #f76b48;		$dark: #1ba77e;
+//$dark: #1ba77e;
+
+// Millo Orange-Green theme.
+//$light: #ff5000;
+//$dark: #75aa5d;
+//$white: #ffffff;
+
+// Lemonstand Black-Blue theme.
+//$light: #2aabe4;
+//$dark: #33393d;
+//$white: #ffffff;
+
+// Loom Red-Bleu-Grey theme.
+//$light: #fe7860;
+//$dark: #506cf0;
+//$white: #ffffff;
 
 // Highlighting color for code block borders and language name.
 
@@ -28,3 +47,20 @@ $body-bg-dark: rgba(35, 35, 35, 1.0);
 $large-breakpoint: 38em;
 $large-font-size: 20px;
 $normal-font-size: 16px;
+
+// https://s3.amazonaws.com/ceblog/wp-content/uploads/2018/03/24214530/website-color-palettes-8.png
+$lemonstand-black:  #33393d;
+$lemonstand-yellow: #ffcd24;
+$lemonstand-blue:   #2aabe4;
+$lemonstand-lightblue: #9dc8e4;
+$lemonstand-grey:   #666b6e;
+
+
+//https://s3.amazonaws.com/ceblog/wp-content/uploads/2018/03/24214538/website-color-palettes-12.png
+$milloco-orange: #ff5000;
+$milloco-green:  #75aa5d;
+
+//https://s3.amazonaws.com/ceblog/wp-content/uploads/2018/03/24214506/website-color-palettes-1.png
+$loom-red: #fe7860;
+$loom-blue: #506cf0;
+$loom-grey: #a7c0cd;
