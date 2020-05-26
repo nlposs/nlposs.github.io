@@ -56,7 +56,11 @@ ul#navigation-list {
   list-style: none;
   padding-bottom: 0.75rem;
   padding-top: 0.45rem;
-  background: rgba(224, 214, 214, 1.0);
+  background: #33393d; //rgba(224, 214, 214, 1.0);
+
+      @media (prefers-color-scheme: dark) {
+        color: #33393d;
+      }
   }
   ul#navigation-list li {
     display: inline-block;
@@ -66,11 +70,18 @@ ul#navigation-list {
 	padding-left: 0;
     padding-right: 15px;
 	margin: auto;
-    background: rgba(224, 214, 214, 1.0);
+    background: #33393d; //rgba(224, 214, 214, 1.0);
+
+        @media (prefers-color-scheme: dark) {
+          color: #33393d;
+        }
 
     }
     ul#navigation-list li a {
-      color: #08503b;
+      color: #ffffff;
+
+          @media (prefers-color-scheme: dark) {
+            color: #24a37e;
+          }
     }
 }
-
