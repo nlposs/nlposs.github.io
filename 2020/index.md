@@ -57,6 +57,23 @@ We invite full papers (8 pages) or short papers (4 pages) on topics related to N
    - Teaching NLP with OSS
    - NLP-OSS in the industry
 
+## Submission information
+
+Authors are invited to submit a
+
+- Full paper up to 8 pages of content or
+- Short paper up to 4 pages of content
+
+Submissions can be non-archival and be presented in the NLP-OSS workshop; but we would still require at least a 4 page submission so that reviewers have enough information to make the acceptance/rejection decision. This non-archival option is helpful for author(s) who wants to publish or had published the work elsewhere and would like to present/discuss pertinent NLP-OSS related work to the workshop PCs and attendees.
+
+All papers are allowed unlimited but sensible pages for references. Final camera ready versions will be allowed an additional page of content to address reviewers' comments.
+
+Submission should be formatted according to the EMNLP 2020 LaTeX or MS Word templates at [https://2020.emnlp.org/files/emnlp2020-templates.zip](https://2020.emnlp.org/files/emnlp2020-templates.zip).
+
+Submissions should be uploaded to Softconf conference management system at [https://www.softconf.com/emnlp2020/nlposs/](https://www.softconf.com/emnlp2020/nlposs/).
+
+**Note:** Paper can be [dual-submitted](https://2020.emnlp.org/call-for-papers) to both EMNLP 2020 and the NLP-OSS workshop.
+
 ## Important dates
 
 The 2nd NLP-OSS workshop will be co-located with the EMNLP 2020 conference.
@@ -176,22 +193,6 @@ The 2nd NLP-OSS workshop will be co-located with the EMNLP 2020 conference.
 To promote closer interaction, all accepted publications will be presented in the poster format and be required to give a 1 slide (90 seconds) introduction of their work at the beginning of the session. For the rest of the workshop, invited talks will be given by developers and maintainers of prominent NLP-OSS projects and we plan to close the workshop with a panel session with the invited speakers and the audience of the workshop.
 -->
 
-## Submission information
-
-Authors are invited to submit a
-
-- Full paper up to 8 pages of content or
-- Short paper up to 4 pages of content
-
-Submissions can be non-archival and be presented in the NLP-OSS workshop; but we would still require at least a 4 page submission so that reviewers have enough information to make the acceptance/rejection decision. This non-archival option is helpful for author(s) who wants to publish or had published the work elsewhere and would like to present/discuss pertinent NLP-OSS related work to the workshop PCs and attendees.
-
-All papers are allowed unlimited but sensible pages for references. Final camera ready versions will be allowed an additional page of content to address reviewers' comments.
-
-Submission should be formatted according to the EMNLP 2020 LaTeX or MS Word templates at [https://2020.emnlp.org/files/emnlp2020-templates.zip](https://2020.emnlp.org/files/emnlp2020-templates.zip).
-
-Submissions should be uploaded to Softconf conference management system at [https://www.softconf.com/emnlp2020/nlposs/](https://www.softconf.com/emnlp2020/nlposs/).
-
-**Note:** Paper can be [dual-submitted](https://2020.emnlp.org/call-for-papers) to both EMNLP 2020 and the NLP-OSS workshop.
 
 ## Previous Workshop
 
