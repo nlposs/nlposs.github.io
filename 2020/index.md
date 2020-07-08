@@ -68,6 +68,8 @@ Submissions can be non-archival and be presented in the NLP-OSS workshop; but we
 
 All papers are allowed unlimited but sensible pages for references. Final camera ready versions will be allowed an additional page of content to address reviewers' comments.
 
+Due to the nature of open source software, we find it a bit tricky to "anonymize" "open source". For this reason, we don't require your publication to be anonymous. However, if you prefer your paper to be anonymized, please mask any identifiable phrase with REDACTED. We have an option setup in softconf so that you can explicitly opt-in / opt-out of anonymity. 
+
 Submission should be formatted according to the EMNLP 2020 LaTeX or MS Word templates at [https://2020.emnlp.org/files/emnlp2020-templates.zip](https://2020.emnlp.org/files/emnlp2020-templates.zip).
 
 Submissions should be uploaded to Softconf conference management system at [https://www.softconf.com/emnlp2020/nlposs/](https://www.softconf.com/emnlp2020/nlposs/).
