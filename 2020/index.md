@@ -13,7 +13,7 @@ With great scientific breakthrough comes solid engineering and open communities.
 
 We refer to Natural Language Processing OSS as an umbrella term that not only covers traditional syntactic, semantic, phonetic, and pragmatic applications; we extend the definition to include task-specific applications (e.g., machine translation, information retrieval, question-answering systems), low-level string processing that contains valid linguistic information (e.g. Unicode creation for new languages, language-based character set definitions) and machine learning/artificial intelligence frameworks with functionalities focusing on text applications.
 
-In the earlier days of NLP, linguistic software was often monolithic and the learning curve to install, use, and extend the tools was steep and frustrating. More often than not, NLP OSS developers/users interact in siloed communities within the ecologies of their respective projects. In addition to engineering aspects of NLP software, the open source movement has brought a community aspect that we often overlook in building impactful NLP technologies.
+In the earlier days of NLP, linguistic software was often monolithic and the learning curve to install, use, and extend the tools was steep and frustrating. More often than not, NLP OSS developers/users interact in siloed communities within the ecologies of their respective projects. In addition to the engineering aspects of NLP software, the open source movement has brought a community aspect that we often overlook in building impactful NLP technologies.
 
 An example of precious OSS knowledge comes from SpaCy developer [Montani (2017)](https://ines.io/blog/spacy-commercial-open-source-nlp), who shared her thoughts and challenges of maintaining commercial NLP-OSS, such as handling open issues on the issue tracker, model release and packaging strategy and monetizing NLP OSS for sustainability.
 
@@ -28,7 +28,7 @@ We invite full papers (8 pages) or short papers (4 pages) on topics related to N
  - **Software Development**
    - Designing and developing NLP-OSS
    - Licensing issues in NLP-OSS
-   - Backwards compatibility and stale code in NLP-OSS
+   - Backward compatibility and stale code in NLP-OSS
    - Growing, maintaining and motivating an NLP-OSS community
    - Best practices for NLP-OSS documentation and testing
    - Contribution to NLP-OSS without coding
@@ -64,9 +64,9 @@ Authors are invited to submit a
 - Full paper up to 8 pages of content or
 - Short paper up to 4 pages of content
 
-Submissions can be non-archival and be presented in the NLP-OSS workshop; but we would still require at least a 4 page submission so that reviewers have enough information to make the acceptance/rejection decision. This non-archival option is helpful for author(s) who wants to publish or had published the work elsewhere and would like to present/discuss pertinent NLP-OSS related work to the workshop PCs and attendees.
+Submissions can be non-archival and be presented in the NLP-OSS workshop, but we would still require at least a 4-page submission so that reviewers have enough information to make the acceptance/rejection decision. This non-archival option is helpful for author(s) who wants to publish or had published the work elsewhere and would like to present/discuss pertinent NLP-OSS related work to the workshop PCs and attendees.
 
-All papers are allowed unlimited but sensible pages for references. Final camera ready versions will be allowed an additional page of content to address reviewers' comments.
+All papers are allowed unlimited but sensible pages for references. Final camera-ready versions will be allowed an additional page of content to address reviewers' comments.
 
 Due to the nature of open source software, we find it a bit tricky to "anonymize" "open source". For this reason, we don't require your publication to be anonymous. However, if you prefer your paper to be anonymized, please mask any identifiable phrase with REDACTED. We have an option setup in softconf so that you can explicitly opt-in / opt-out of anonymity. 
 
@@ -113,7 +113,7 @@ The 2nd NLP-OSS workshop will be co-located with the EMNLP 2020 conference.
 
  - [Geeticka Chauhan](https://www.csail.mit.edu/person/geeticka-chauhan), Massachusetts Institute of Technology
 
-    Geeticka Chauhan is a Ph.D. student at MIT, working on NLP for healthcare advised by Prof. Peter Szolovits. Her master thesis focused on revealing the reproducibility and generalizability problems in Relation Extraction, and experimentally showed the importance of streamlining evaluation methods in NLP challenges
+    Geeticka Chauhan is a Ph.D. student at MIT, working on NLP for healthcare advised by Prof. Peter Szolovits. Her master thesis focused on revealing the reproducibility and generalizability problems in Relation Extraction, and experimentally showed the importance of streamlining evaluation methods in NLP challenges.
 
 
  - [Liling Tan](https://github.com/alvations), Rakuten Institute of Technology
