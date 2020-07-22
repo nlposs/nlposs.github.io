@@ -179,6 +179,7 @@ The 2nd NLP-OSS workshop will be co-located with the EMNLP 2020 conference.
  - Steve Sloto,	AWS AI
  - Steven Bethard, University of Arizona
  - Steven Bird, Charles Darwin University
+ - Sung Kim, NAVER Corp.
  - Svitlana Vakulenko, University of Amsterdam
  - Tareq Al-Moslmi, University of Bergen
  - Thomas Kober, University of Edinburgh
