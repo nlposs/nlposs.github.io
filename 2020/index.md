@@ -80,18 +80,11 @@ Submissions should be uploaded to Softconf conference management system at [http
 
 The 2nd NLP-OSS workshop will be co-located with the EMNLP 2020 conference.
 
-- Paper submission: 05 August 2020
-- Paper Reviews Starts: 07 August 2020
-- Paper Reviews Due: 07 September 2020
-- Notification of Acceptance: 10 September 2020
-- Camera-Ready Version: 05 October 2020
-- Workshop: 11 or 12 November 2020
-
-- [EXTENDED] Paper submission: 19 August 2020
-- Paper Reviews Starts: 20 August 2020
-- Paper Reviews Due: 20 September 2020
-- Notification of Acceptance: 22 September 2020
-- Camera-Ready Version: 10 October 2020
+- Paper submission: ~~05 August 2020~~ 19 August 2020
+- Paper Reviews Starts: ~~07 August 2020~~ 20 August 2020
+- Paper Reviews Due: ~~07 September 2020~~ 20 September 2020
+- Notification of Acceptance: ~~10 September 2020~~ 22 September 2020
+- Camera-Ready Version: ~~05 October 2020~~ 10 October 2020
 - Workshop: 11 or 12 November 2020
 
 ## Invited Speakers
