@@ -5,7 +5,7 @@ layout: default
 
 # 2nd Workshop for Natural Language Processing Open Source Software (NLP-OSS) <br>
 
-### 11 or 12 Nov 2020 @ [EMNLP 2020](https://2020.emnlp.org/)
+### 19 Nov 2020 @ [EMNLP 2020](https://2020.emnlp.org/) (Virtual Workshop)
 
 <br><br>
 
@@ -85,7 +85,7 @@ The 2nd NLP-OSS workshop will be co-located with the EMNLP 2020 conference.
 - Paper Reviews Due: ~~07 September 2020~~ 20 September 2020
 - Notification of Acceptance: ~~10 September 2020~~ 22 September 2020
 - Camera-Ready Version: ~~05 October 2020~~ 10 October 2020
-- Workshop: 11 or 12 November 2020
+- Workshop: 19 November 2020
 
 ## Invited Speakers
 
