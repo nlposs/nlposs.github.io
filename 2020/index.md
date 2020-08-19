@@ -182,7 +182,7 @@ The 2nd NLP-OSS workshop will be co-located with the EMNLP 2020 conference.
  - Sung Kim, NAVER Corp.
  - Svitlana Vakulenko, University of Amsterdam
  - Tareq Al-Moslmi, University of Bergen
- - Thomas Kober, University of Edinburgh
+ - Thomas Kober, Rasa Technologies GmbH
  - Tilahun Abedissa, Addis Ababa University
  - Tommaso Teofili, Roma Tre University / Red Hat
  - Tommi A Pirinen, University of Hamburg
