@@ -84,7 +84,7 @@ The 2nd NLP-OSS workshop will be co-located with the EMNLP 2020 conference.
 - Paper Reviews Starts: ~~07 August 2020~~ 20 August 2020
 - Paper Reviews Due: ~~07 September 2020~~ 20 September 2020
 - Notification of Acceptance: ~~10 September 2020~~ ~~22 September 2020~~ **25 September 2020**
-- Camera-Ready Version: ~~05 October 2020~~ ~~10 October 2020~~ **19 Oct 2020**
+- Camera-Ready Version: ~~05 October 2020~~ ~~10 October 2020~~ **09 Oct 2020**
 - Workshop: 19 November 2020
 
 ## Invited Speakers
