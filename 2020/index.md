@@ -70,18 +70,19 @@ The 2nd NLP-OSS workshop will be co-located with the EMNLP 2020 conference.
 
 ## Invited Speakers
 
-<h3> <strong><a href="https://huyenchip.com">Chip Huyen</a>, TBD</strong> </h3>
+<h3> <strong><a href="https://huyenchip.com">Chip Huyen</a>, , Snorkel AI / Stanford University</strong> </h3>
 <p>
 <img src="https://huyenchip.com/assets/profile.jpg" alt="Chip Huyen" align="left" style="margin-right: 32px; margin-bottom: 16px;" width=160px height=159px >
 </p>
-<p> Chip Huyen is a writer and computer scientist. She works to bring the best engineering practices to machine learning research and production. She writes about culture, people, and tech. She's currently with a startup that focuses on the machine learning production pipeline in Silicon Valley. Previously, She was with NVIDIA, Netflix, Primer, Baomoi.com.</p>
+<p> Chip Huyen is an engineer who develops tools and best practices for machine learning production. She’s currently with Snorkel AI and she’ll be teaching Machine
+Learning Systems Design at Stanford. Previously, she was with Netflix, NVIDIA, Primer. She’s also the author of four bestselling Vietnamese books.</p>
 <br><br><br>
 
 <h3> <strong><a href="https://spencermounta.in/">Spencer Kelly</a>, Freelance Developer</strong> </h3>
 <p>
 <img src="https://avatars2.githubusercontent.com/u/399657?s=460&u=afb7798f372f34b144511ebfd0895ccfef8c9536&v=4" alt="Spencer Kelly<" align="left" style="margin-right: 32px; margin-bottom: 16px;" width=160px height=159px >
 </p>
-<p>Spencer Kelly is a freelance developer and author of <a href="http://compromise.cool/">compromise</a>, a nlp toolkit for the browser. He lives in Toronto, loves regular expressions, and wants the internet can be considerably better.</p>
+<p>Spencer Kelly is the author of <a href="http://compromise.cool/">compromise</a>, - a small natural language processing library for the browser. He is a web developer, and maintainer of open-source libraries. His background is in the semantic web and Wikipedia. Today his work focuses on creating infographics. His open-source work is funded by freelance web development. He is from Toronto, Canada.</p>
 <br><br><br><br>
 
 <h3> <strong><a href="https://thomwolf.io/">Thomas Wolf</a>,  Huggingface</strong> </h3>
@@ -89,7 +90,7 @@ The 2nd NLP-OSS workshop will be co-located with the EMNLP 2020 conference.
 <img src="https://thomwolf.io/images/Thom_photo_circle.jpg" alt="Thomas Wolf<" align="left" style="margin-right: 32px; margin-bottom: 16px;" width=160px height=159px >
 </p>
 <p>
-Thomas Wolf lead the Science Team at Huggingface Inc., a Brooklyn-based startup working on Natural Language Generation and Natural Language Understanding.
+Thomas Wolf is co-founder and Chief Science Officer of HuggingFace. His team is on a mission to catalyze and democratize NLP research. Prior to HuggingFace, Thomas gained a Ph.D. in physics, and later a law degree. He worked as a physics researcher and a European Patent Attorney.
 </p>
 <br><br><br><br>
 
