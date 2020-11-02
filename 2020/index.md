@@ -70,27 +70,35 @@ The 2nd NLP-OSS workshop will be co-located with the EMNLP 2020 conference.
 
 ## Invited Speakers
 
-<h3> <strong><a href="https://huyenchip.com">Chip Huyen</a>, , Snorkel AI / Stanford University</strong> </h3>
+<h3> Principles of Good Machine Learning Systems Design </h3>
+<h4> <strong><a href="https://huyenchip.com">Chip Huyen</a>, Snorkel AI / Stanford University</strong> </h4>
+This talk covers what it means to operationalize Machine Learning (ML) models. It starts by analyzing the difference between ML in research vs. in production, ML systems vs. traditional software, as well as myths about ML production. It then goes over the principles of good ML systems design and introduces an iterative framework for ML systems design, from scoping the project, data management, model development, deployment, maintenance, to business analysis. It covers the differences between DataOps, ML Engineering, MLOps, and data science, and where each fits into the framework. The talk ends with a survey of the ML production ecosystem, the economics of open source, and open-core businesses.
 <p>
 <img src="https://huyenchip.com/assets/profile.jpg" alt="Chip Huyen" align="left" style="margin-right: 32px; margin-bottom: 16px;" width=160px height=159px >
 </p>
-<p> Chip Huyen is an engineer who develops tools and best practices for machine learning production. She’s currently with Snorkel AI and she’ll be teaching Machine
+<h4> Bio </h4>
+<p>Chip Huyen is an engineer who develops tools and best practices for machine learning production. She’s currently with Snorkel AI and she’ll be teaching Machine
 Learning Systems Design at Stanford. Previously, she was with Netflix, NVIDIA, Primer. She’s also the author of four bestselling Vietnamese books.</p>
 <br><br><br>
 
-<h3> <strong><a href="https://spencermounta.in/">Spencer Kelly</a>, Freelance Developer</strong> </h3>
+<h3> On Typing: Historical and Potential Interactions in Word-processing </h3>
+<h4> <strong><a href="https://spencermounta.in/">Spencer Kelly</a>, Freelance Developer</strong> </h4>
+People love typing, in a surprising and universal way. In this talk we look at the development of word-processing, and the design-decisions in this historic interface. Can NLP contribute to word-processing, without making it worse? What would a text-centered computer really look like? We look at the history of punctuation, keyboards, and markup languages. We look at Wikipedia, text-editors, and data structures - with the goal of authoring usable data in text.
 <p>
 <img src="https://avatars2.githubusercontent.com/u/399657?s=460&u=afb7798f372f34b144511ebfd0895ccfef8c9536&v=4" alt="Spencer Kelly<" align="left" style="margin-right: 32px; margin-bottom: 16px;" width=160px height=159px >
 </p>
-<p>Spencer Kelly is the author of <a href="http://compromise.cool/">compromise</a>, - a small natural language processing library for the browser. He is a web developer, and maintainer of open-source libraries. His background is in the semantic web and Wikipedia. Today his work focuses on creating infographics. His open-source work is funded by freelance web development. He is from Toronto, Canada.</p>
+<h4> Bio </h4>
+<p>Spencer Kelly is the author of <i><a href="http://compromise.cool/">compromise</a></i>, - a small natural language processing library for the browser. He is a web developer, and maintainer of open-source libraries. His background is in the semantic web and Wikipedia. Today his work focuses on creating infographics. His open-source work is funded by freelance web development. He is from Toronto, Canada.</p>
 <br><br><br><br>
 
-<h3> <strong><a href="https://thomwolf.io/">Thomas Wolf</a>,  Huggingface</strong> </h3>
+<h3> An Introduction to Transfer Learning in NLP and HuggingFace </h3>
+<h4> <strong><a href="https://thomwolf.io/">Thomas Wolf</a>,  Huggingface</strong> </h4>
+In this talk I’ll start by introducing the recent breakthroughs in NLP that resulted from the combination of Transfer Learning schemes and Transformer architectures. The second part of the talk will be dedicated to an introduction of the open-source tools released by HuggingFace, in particular our Transformers, Tokenizers and Datasets libraries and our models.
 <p>
 <img src="https://thomwolf.io/images/Thom_photo_circle.jpg" alt="Thomas Wolf<" align="left" style="margin-right: 32px; margin-bottom: 16px;" width=160px height=159px >
 </p>
-<p>
-Thomas Wolf is co-founder and Chief Science Officer of HuggingFace. His team is on a mission to catalyze and democratize NLP research. Prior to HuggingFace, Thomas gained a Ph.D. in physics, and later a law degree. He worked as a physics researcher and a European Patent Attorney.
+<h4> Bio </h4>
+<p>Thomas Wolf is co-founder and Chief Science Officer of HuggingFace. His team is on a mission to catalyze and democratize NLP research. Prior to HuggingFace, Thomas gained a Ph.D. in physics, and later a law degree. He worked as a physics researcher and a European Patent Attorney.
 </p>
 <br><br><br><br>
 
