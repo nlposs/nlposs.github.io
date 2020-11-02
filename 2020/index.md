@@ -91,6 +91,7 @@ The 2nd NLP-OSS workshop will be co-located with the EMNLP 2020 conference.
 
 <h3><strong>Principles of Good Machine Learning Systems Design</strong> </h3>
 <h3> <a href="https://huyenchip.com">Chip Huyen</a>, Snorkel AI / Stanford University </h3>
+<br>
 This talk covers what it means to operationalize Machine Learning (ML) models. It starts by analyzing the difference between ML in research vs. in production, ML systems vs. traditional software, as well as myths about ML production. It then goes over the principles of good ML systems design and introduces an iterative framework for ML systems design, from scoping the project, data management, model development, deployment, maintenance, to business analysis. It covers the differences between DataOps, ML Engineering, MLOps, and data science, and where each fits into the framework. The talk ends with a survey of the ML production ecosystem, the economics of open source, and open-core businesses.
 <br><br>
 <p>
@@ -103,6 +104,7 @@ Learning Systems Design at Stanford. Previously, she was with Netflix, NVIDIA, P
 
 <h3><strong>On Typing: Historical and Potential Interactions in Word-processing</strong> </h3>
 <h3> <a href="https://spencermounta.in/">Spencer Kelly</a>, Freelance Developer </h3>
+<br>
 People love typing, in a surprising and universal way. In this talk we look at the development of word-processing, and the design-decisions in this historic interface. Can NLP contribute to word-processing, without making it worse? What would a text-centered computer really look like? We look at the history of punctuation, keyboards, and markup languages. We look at Wikipedia, text-editors, and data structures - with the goal of authoring usable data in text.
 <br><br>
 <p>
@@ -114,6 +116,7 @@ People love typing, in a surprising and universal way. In this talk we look at t
 
 <h3><strong>An Introduction to Transfer Learning in NLP and HuggingFace</strong> </h3>
 <h3> <a href="https://thomwolf.io/">Thomas Wolf</a>,  Huggingface</h3>
+<br>
 In this talk I’ll start by introducing the recent breakthroughs in NLP that resulted from the combination of Transfer Learning schemes and Transformer architectures. The second part of the talk will be dedicated to an introduction of the open-source tools released by HuggingFace, in particular our Transformers, Tokenizers and Datasets libraries and our models.
 <br><br>
 <p>
