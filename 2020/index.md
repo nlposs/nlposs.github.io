@@ -88,6 +88,7 @@ The 2nd NLP-OSS workshop will be co-located with the EMNLP 2020 conference.
 - Workshop: 19 November 2020
 
 ## Invited Speakers
+<br><br>
 
 <h3><strong>Principles of Good Machine Learning Systems Design</strong> </h3>
 <h3> <a href="https://huyenchip.com">Chip Huyen</a>, Snorkel AI / Stanford University </h3>
@@ -100,7 +101,7 @@ This talk covers what it means to operationalize Machine Learning (ML) models. I
 <h4> Bio </h4>
 <p>Chip Huyen is an engineer who develops tools and best practices for machine learning production. She’s currently with Snorkel AI and she’ll be teaching Machine
 Learning Systems Design at Stanford. Previously, she was with Netflix, NVIDIA, Primer. She’s also the author of four bestselling Vietnamese books.</p>
-<br><br><br>
+<br><br><br><br>
 
 <h3><strong>On Typing: Historical and Potential Interactions in Word-processing</strong> </h3>
 <h3> <a href="https://spencermounta.in/">Spencer Kelly</a>, Freelance Developer </h3>
