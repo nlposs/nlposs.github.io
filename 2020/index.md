@@ -81,7 +81,7 @@ The 2nd NLP-OSS workshop will be co-located with the EMNLP 2020 conference.
 <p>
 <img src="https://avatars2.githubusercontent.com/u/399657?s=460&u=afb7798f372f34b144511ebfd0895ccfef8c9536&v=4" alt="Spencer Kelly<" align="left" style="margin-right: 32px; margin-bottom: 16px;" width=160px height=159px >
 </p>
-<p> Spencer Kelly is a freelance developer. He is worried computers do not work very well and, things are a mess and software is in decline. If aliens ever land, we'll board their ship and discover that they have a better internet.</p>
+<p>Spencer Kelly is a freelance developer and author of <a href="http://compromise.cool/">compromise</a>, a nlp toolkit for the browser. He lives in Toronto, loves regular expressions, and wants the internet can be considerably better.</p>
 <br><br><br><br>
 
 <h3> <strong><a href="https://thomwolf.io/">Thomas Wolf</a>,  Huggingface</strong> </h3>
