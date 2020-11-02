@@ -1,6 +1,6 @@
 // Typography
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6, h7 {
   margin-bottom: .5rem;
   font-weight: 600;
   line-height: 1.25;
@@ -44,6 +44,14 @@ h3 {
   padding-top: 0;
   font-size: 1.25rem;
 }
+
+h7 {
+  margin-top: 1.5rem;
+  padding-top: 0;
+  font-size: 1.25rem;
+  text-align: center;
+}
+
 
 h4, h5, h6 {
   margin-top: 0.5rem;
