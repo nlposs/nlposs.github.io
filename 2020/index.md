@@ -130,9 +130,9 @@ In this talk I’ll start by introducing the recent breakthroughs in NLP that re
 
 ## Organizers
 
- - [Lucy Park](https://github.com/e9t), NAVER Corp.
+ - [Lucy Park](https://github.com/e9t), Upstage
 
-     Lucy is a machine learning engineer at NAVER. She has participated in some open source projects, particularly [KoNLPy](http://konlpy.org) which is a tool for Korean NLP, and is also interested in open data. She received her Ph.D. in Data Mining from Seoul National University in 2016, where she has pursued various studies on text mining in the fields of manufacturing, political science, and multimedia. After her studies, she joined NAVER, a South Korea based search-engine company, and is currently working on machine translation for Papago. Her research interests include machine translation, multilingual text mining, and evaluation of machine learning algorithms.
+     Lucy is a NLP/ML engineer at [Upstage](https://upstage.ai). She has participated in some open source projects, particularly [KoNLPy](http://konlpy.org) which is a tool for Korean NLP, and is also interested in open data. She received her Ph.D. in Data Mining from Seoul National University in 2016, where she has pursued various studies on text mining in the fields of manufacturing, political science, and multimedia. After her studies, she joined NAVER, a South Korea based search-engine company and worked on machine translation.
 
  - [Masato Hagiwara](http://masatohagiwara.net/), Octanove Labs LLC
 
