@@ -135,12 +135,41 @@ The timezone for the program schedule below are in **Pacific Time (Los Angeles)*
 
 <p>0500 - 0530	&nbsp;&nbsp; <strong>Opening Remarks</strong></p>
 
-<p>0530 - 0630	&nbsp;&nbsp; <strong>On Typing: Historical and Potential Interactions in Word-processing - Spencer Kelly</strong></p>
+<p>0530 - 0630	&nbsp;&nbsp; <strong>Invited Talk 1: Spencer Kelly</strong></p>
 
-<p>0630 - 0730 &nbsp;&nbsp; <strong>An Introduction to Transfer Learning in NLP and HuggingFace - Thomas Wolf</strong></p>
+<p>0630 - 0730 &nbsp;&nbsp; <strong>Invited Talk 2: Thomas Wolf</strong></p>
 
 <p>0730 - 0900 &nbsp;&nbsp; <strong>Talks Session 1 </strong> (Watch on your own, authors encouraged to mend their slidelive chat but not complusory)</p>
-<p></p>
+
+<p>A Framework to Assist Chat Operators of Mental Healthcare Services <br>
+<em>Thiago Madeira, Heder Bernardino, Jairo Francisco De Souza, Henrique Gomide, Nathália Munck Machado, Bruno Marcos Pinheiro da Silva and Alexandre Vieira Pereira Pacelli</em></p>
+
+<p>ARBML: Democritizing Arabic Natural Language Processing Tools <br>
+<em>Zaid Alyafeai and Maged Al-Shaibani </em></p>
+
+<p>CLEVR Parser: A Graph Parser Library for Geometric Learning on Language Grounded Image Scenes <br>
+<em>Raeid Saqur and Ameet Deshpande </em></p>
+
+<p>End-to-end NLP Pipelines in Rust <br>
+<em>Guillaume Becquin</em></p>
+
+<p>Fair Embedding Engine: A Library for Analyzing and Mitigating Gender Bias in Word Embeddings <br>
+<em>Vaibhav Kumar, Tenzin Bhotia and Vaibhav Kumar</em></p>
+
+<p>Flexible retrieval with NMSLIB and FlexNeuART <br>
+<em>Leonid Boytsov and Eric Nyberg</em></p>
+
+<p>fugashi, a Tool for Tokenizing Japanese in Python <br>
+<em>Paul McCann</em></p>
+
+<p>Going Beyond T-SNE: Exposing whatlies in Text Embeddings <br>
+<em>Vincent Warmerdam, Thomas Kober and Rachael Tatman</em></p>
+
+<p>Howl: A Deployed, Open-Source Wake Word Detection System <br>
+<em>Raphael Tang, Jaejun Lee, Afsaneh Razi, Julia Cambre, Ian Bicking, Jofish Kaye and Jimmy Lin</em></p>
+
+<p>iNLTK: Natural Language Toolkit for Indic Languages <br>
+<em>Gaurav Arora</em></p>
 
 <p>0900 - 1330 &nbsp;&nbsp; <strong>Long Break</strong></p>
 
@@ -184,11 +213,11 @@ The timezone for the program schedule below are in **Pacific Time (Los Angeles)*
 
 <p>1500 - 1630 &nbsp;&nbsp; <strong>Gather-town (Live) + Poster QnA</strong></p>
 
-<p>1700 - 1800 &nbsp;&nbsp; <strong>Principles of Good Machine Learning Systems Design - Chip Huyen</strong></p>
+<p>1700 - 1800 &nbsp;&nbsp; <strong>Invited Talk: Chip Huyen</strong></p>
 
 <p>1800 - 1830	&nbsp;&nbsp; <strong>Closing Remarks</strong></p>
 
-
+<br><br>
 To check out the events in your own time zone, we find that it's easiest to click on each of the item on the agenda and add them to your Google calendar.
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%233F51B5&amp;ctz=America%2FLos_Angeles&amp;src=N2ppbGF2c2dlNWMyb3RuOGZoczE1dWkyc29AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23D81B60&amp;showNav=0&amp;showDate=0&amp;showCalendars=1&amp;showTabs=1&amp;showPrint=1&amp;showTitle=0&amp;showTz=1&amp;mode=AGENDA" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
