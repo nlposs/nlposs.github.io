@@ -139,13 +139,48 @@ The timezone for the program schedule below are in **Pacific Time (Los Angeles)*
 
 <p>0630 - 0730 &nbsp;&nbsp; <strong>An Introduction to Transfer Learning in NLP and HuggingFace - Thomas Wolf</strong></p>
 
-<p>0730 - 0900 &nbsp;&nbsp; <strong>Talks Session 1 </strong></p>
-<p>(Watch on your own, authors encouraged to mend their slidelive chat but not complusory)</p>
+<p>0730 - 0900 &nbsp;&nbsp; <strong>Talks Session 1 </strong> (Watch on your own, authors encouraged to mend their slidelive chat but not complusory)</p>
+<p></p>
 
 <p>0900 - 1330 &nbsp;&nbsp; <strong>Long Break</strong></p>
 
-<p>1330 - 1500 &nbsp;&nbsp; <strong>Talks Session 1 </strong> [<a href="slides/lightning-1.pdf">slides</a>]</p>
-<p>(Watch on your own, authors encouraged to mend their slidelive chat but not complusory)</p>
+<p>1330 - 1500 &nbsp;&nbsp; <strong>Talks Session 2 </strong> (Watch on your own, authors encouraged to mend their slidelive chat but not complusory)</p>
+
+<p>iobes: A Library for Span-Level Processing<br>
+<em>Brian Lester</em></p>
+
+<p>jiant: A Software Toolkit for Research on General-Purpose Text Understanding Models <br>
+<em>Yada Pruksachatkun, Phil Yeres, Haokun Liu, Jason Phang, Phu Mon Htut, Alex Wang, Ian Tenney and Samuel R. Bowman </em></p>
+
+<p>KLPT -- Kurdish Language Processing Toolkit <br>
+<em>Ina Ahmadi</em></p>
+
+<p>Open Korean Corpora: A Practical Report <br>
+<em>Won Ik Cho, Sangwhan Moon and Youngsook Song</em></p>
+
+<p>Open-Source Morphology for Endangered Mordvinic Languages <br>
+<em>Jack Rueter, Mika Hämäläinen and Niko Partanen</em></p>
+
+<p>Pimlico: A toolkit for corpus-processing pipelines and reproducible experiments <br>
+<em>Mark Granroth-Wilding </em></p>
+
+<p>PySBD: Pragmatic Sentence Boundary Disambiguation <br>
+<em>Nipun Sadvilkar and Mark Neumann </em></p>
+
+<p>SacreROUGE: An Open-Source Library for Using and Developing Summarization Evaluation Metrics	<br>
+<em>Daniel Deutsch and Dan Roth</em></p>
+
+<p>TextAttack: Lessons learned in designing Python frameworks for NLP <br>
+<em>John Morris, Jin Yong Yoo and Yanjun Qi</em></p>
+
+<p>TOMODAPI: A Topic Modeling API to Train, Use and Compare Topic Models <br>
+<em>Pasquale Lisena, Ismail Harrando, Oussama Kandakji and Raphael Troncy</em></p>
+
+<p>User-centered & Robust NLP OSS: Lessons Learned from Developing & Maintaining RSMTool <br>
+<em>Nitin Madnani and Anastassia Loukina</em></p>
+
+<p>WAFFLE: A Graph for WordNet Applied to FreeForm Linguistic Exploration <br>
+<em>Berk Ekmekci and Blake Howald</em></p>
 
 <p>1500 - 1630 &nbsp;&nbsp; <strong>Gather-town (Live) + Poster QnA</strong></p>
 
