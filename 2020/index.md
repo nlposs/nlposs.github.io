@@ -131,7 +131,32 @@ In this talk I’ll start by introducing the recent breakthroughs in NLP that re
 ## Workshop Program
 <br><br>
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%233F51B5&amp;ctz=America%2FLos_Angeles&amp;src=N2ppbGF2c2dlNWMyb3RuOGZoczE1dWkyc29AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23D81B60&amp;showNav=0&amp;showDate=0&amp;showCalendars=1&amp;showTabs=1&amp;showPrint=1&amp;showTitle=0&amp;showTz=1&amp;mode=DAY" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+The timezone for the program schedule below are in **Pacific Time (Los Angeles)**. 
+
+<p>0500 - 0530	&nbsp;&nbsp; <strong>Opening Remarks</strong></p>
+
+<p>0530 - 0630	&nbsp;&nbsp; <strong>On Typing: Historical and Potential Interactions in Word-processing - Spencer Kelly</strong></p>
+
+<p>0630 - 0730 &nbsp;&nbsp; <strong>An Introduction to Transfer Learning in NLP and HuggingFace - Thomas Wolf</strong></p>
+
+<p>0730 - 0900 &nbsp;&nbsp; <strong>Talks Session 1 </strong></p>
+<p>(Watch on your own, authors encouraged to mend their slidelive chat but not complusory)</p>
+
+<p>0900 - 1330 &nbsp;&nbsp; <strong>Long Break</strong></p>
+
+<p>1330 - 1500 &nbsp;&nbsp; <strong>Talks Session 1 </strong> [<a href="slides/lightning-1.pdf">slides</a>]</p>
+<p>(Watch on your own, authors encouraged to mend their slidelive chat but not complusory)</p>
+
+<p>1500 - 1630 &nbsp;&nbsp; <strong>Gather-town (Live) + Poster QnA</strong></p>
+
+<p>1700 - 1800 &nbsp;&nbsp; <strong>Principles of Good Machine Learning Systems Design - Chip Huyen</strong></p>
+
+<p>1800 - 1830	&nbsp;&nbsp; <strong>Closing Remarks</strong></p>
+
+
+To check out the events in your own time zone, we find that it's easiest to click on each of the item on the agenda and add them to your Google calendar.
+
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%233F51B5&amp;ctz=America%2FLos_Angeles&amp;src=N2ppbGF2c2dlNWMyb3RuOGZoczE1dWkyc29AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23D81B60&amp;showNav=0&amp;showDate=0&amp;showCalendars=1&amp;showTabs=1&amp;showPrint=1&amp;showTitle=0&amp;showTz=1&amp;mode=AGENDA" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 
 
