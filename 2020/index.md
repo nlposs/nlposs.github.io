@@ -182,7 +182,7 @@ The timezone for the program schedule below are in **Pacific Time (Los Angeles)*
 <em>Yada Pruksachatkun, Phil Yeres, Haokun Liu, Jason Phang, Phu Mon Htut, Alex Wang, Ian Tenney and Samuel R. Bowman </em></p>
 
 <p>KLPT -- Kurdish Language Processing Toolkit <br>
-<em>Ina Ahmadi</em></p>
+<em>Sina Ahmadi</em></p>
 
 <p>Open Korean Corpora: A Practical Report <br>
 <em>Won Ik Cho, Sangwhan Moon and Youngsook Song</em></p>
