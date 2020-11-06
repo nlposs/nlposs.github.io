@@ -129,8 +129,9 @@ In this talk I’ll start by introducing the recent breakthroughs in NLP that re
 <br><br><br><br>
 
 ## Workshop Program
+<br><br>
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%233F51B5&amp;ctz=America%2FLos_Angeles&amp;src=N2ppbGF2c2dlNWMyb3RuOGZoczE1dWkyc29AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23D81B60&amp;showNav=0&amp;showDate=0&amp;showCalendars=1&amp;showTabs=1&amp;showPrint=1&amp;showTitle=0&amp;showTz=1&amp;mode=AGENDA" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%233F51B5&amp;ctz=America%2FLos_Angeles&amp;src=N2ppbGF2c2dlNWMyb3RuOGZoczE1dWkyc29AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23D81B60&amp;showNav=0&amp;showDate=0&amp;showCalendars=1&amp;showTabs=1&amp;showPrint=1&amp;showTitle=0&amp;showTz=1&amp;mode=DAY" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 
 
