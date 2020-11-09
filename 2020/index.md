@@ -171,9 +171,9 @@ The timezone for the program schedule below are in **Pacific Time (Los Angeles)*
 <p>iNLTK: Natural Language Toolkit for Indic Languages <br>
 <em>Gaurav Arora</em></p>
 
-<p>0900 - 1330 &nbsp;&nbsp; <strong>Long Break</strong></p>
+<p>0900 - 1430 &nbsp;&nbsp; <strong>Long Break</strong></p>
 
-<p>1230 - 1600 &nbsp;&nbsp; <strong>Talks Session 2 </strong> (Watch on your own, authors encouraged to mend their slidelive chat but not complusory)</p>
+<p>1430 - 1600 &nbsp;&nbsp; <strong>Talks Session 2 </strong> (Watch on your own, authors encouraged to mend their slidelive chat but not complusory)</p>
 
 <p>iobes: A Library for Span-Level Processing<br>
 <em>Brian Lester</em></p>
@@ -212,6 +212,8 @@ The timezone for the program schedule below are in **Pacific Time (Los Angeles)*
 <em>Berk Ekmekci and Blake Howald</em></p>
 
 <p>1600 - 1730 &nbsp;&nbsp; <strong>Gather-town (Live) + Poster QnA</strong></p>
+
+<p>1730 - 1800 &nbsp;&nbsp; <strong>Short Break</strong></p>
 
 <p>1800 - 1900 &nbsp;&nbsp; <strong>Invited Talk: Chip Huyen</strong></p>
 
