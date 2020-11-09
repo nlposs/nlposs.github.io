@@ -173,7 +173,7 @@ The timezone for the program schedule below are in **Pacific Time (Los Angeles)*
 
 <p>0900 - 1330 &nbsp;&nbsp; <strong>Long Break</strong></p>
 
-<p>1330 - 1500 &nbsp;&nbsp; <strong>Talks Session 2 </strong> (Watch on your own, authors encouraged to mend their slidelive chat but not complusory)</p>
+<p>1230 - 1600 &nbsp;&nbsp; <strong>Talks Session 2 </strong> (Watch on your own, authors encouraged to mend their slidelive chat but not complusory)</p>
 
 <p>iobes: A Library for Span-Level Processing<br>
 <em>Brian Lester</em></p>
@@ -211,11 +211,11 @@ The timezone for the program schedule below are in **Pacific Time (Los Angeles)*
 <p>WAFFLE: A Graph for WordNet Applied to FreeForm Linguistic Exploration <br>
 <em>Berk Ekmekci and Blake Howald</em></p>
 
-<p>1500 - 1630 &nbsp;&nbsp; <strong>Gather-town (Live) + Poster QnA</strong></p>
+<p>1600 - 1730 &nbsp;&nbsp; <strong>Gather-town (Live) + Poster QnA</strong></p>
 
-<p>1700 - 1800 &nbsp;&nbsp; <strong>Invited Talk: Chip Huyen</strong></p>
+<p>1800 - 1900 &nbsp;&nbsp; <strong>Invited Talk: Chip Huyen</strong></p>
 
-<p>1800 - 1830	&nbsp;&nbsp; <strong>Closing Remarks</strong></p>
+<p>1900 - 1930	&nbsp;&nbsp; <strong>Closing Remarks</strong></p>
 
 <br><br>
 To check out the events in your own time zone, we find that it's easiest to click on each of the item on the agenda and add them to your Google calendar.
