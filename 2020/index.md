@@ -249,7 +249,7 @@ To check out the events in your own time zone, we find that it's easiest to clic
     Geeticka Chauhan is a Ph.D. student at MIT, working on NLP for healthcare advised by Prof. Peter Szolovits. Her master thesis focused on revealing the reproducibility and generalizability problems in Relation Extraction, and experimentally showed the importance of streamlining evaluation methods in NLP challenges.
 
 
- - [Liling Tan](https://github.com/alvations), Rakuten Institute of Technology
+ - [Liling Tan](https://github.com/alvations), Amazon
 
      Liling is a machine learning scientist at Amazon building machine translation and language technologies. Previously, he is a research scientist at Rakuten Institute of Technology and before that an early stage researcher at Saarland University. He has been actively involved in corpora creation/maintenance, Asian NLP and machine translation. He co-organized the [Workshop on NLP for Similar Languages, Varieties and Dialects (VarDial 2014-16)](http://ttg.uni-saarland.de/vardial2016/).
 
