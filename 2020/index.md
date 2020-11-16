@@ -251,7 +251,7 @@ To check out the events in your own time zone, we find that it's easiest to clic
 
  - [Liling Tan](https://github.com/alvations), Rakuten Institute of Technology
 
-     Liling is a research scientist at Rakuten Institute of Technology working on Machine Translation and developing applications using language technologies. He has been actively involved in corpora creation/maintenance, Asian NLP and machine translation. He co-organized the [Workshop on NLP for Similar Languages, Varieties and Dialects (VarDial 2014-16)](http://ttg.uni-saarland.de/vardial2016/).
+     Liling is a machine learning scientist at Amazon building machine translation and language technologies. Previously, he is a research scientist at Rakuten Institute of Technology and before that an early stage researcher at Saarland University. He has been actively involved in corpora creation/maintenance, Asian NLP and machine translation. He co-organized the [Workshop on NLP for Similar Languages, Varieties and Dialects (VarDial 2014-16)](http://ttg.uni-saarland.de/vardial2016/).
 
 
 ## Programme Committee
