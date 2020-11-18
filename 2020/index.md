@@ -133,11 +133,11 @@ In this talk I’ll start by introducing the recent breakthroughs in NLP that re
 
 The timezone for the program schedule below are in **Pacific Time (Los Angeles)**. 
 
-<p>0500 - 0530	&nbsp;&nbsp; <strong>Opening Remarks</strong> [Click here for Zoom](https://mit.zoom.us/j/96463506487) </p> 
+<p>0500 - 0530	&nbsp;&nbsp; <strong>Opening Remarks</strong> <a href="https://mit.zoom.us/j/96463506487">(Click here for Zoom)]</a> </p> 
 
-<p>0530 - 0630	&nbsp;&nbsp; <strong>Invited Talk 1: Spencer Kelly</strong> [Click here for Zoom](https://mit.zoom.us/j/96463506487)</p> 
+<p>0530 - 0630	&nbsp;&nbsp; <strong>Invited Talk 1: Spencer Kelly</strong> <a href="https://mit.zoom.us/j/96463506487">(Click here for Zoom)]</a>  </p> 
 
-<p>0630 - 0730 &nbsp;&nbsp; <strong>Invited Talk 2: Thomas Wolf</strong> [Click here for Zoom](https://mit.zoom.us/j/96463506487)</p> 
+<p>0630 - 0730 &nbsp;&nbsp; <strong>Invited Talk 2: Thomas Wolf</strong> [<a href="https://mit.zoom.us/j/96463506487">(Click here for Zoom)]</a> </p> 
 
 <p>0730 - 0900 &nbsp;&nbsp; <strong>Talks Session 1 </strong> (Watch on your own, authors encouraged to mend their slidelive chat but not complusory)</p>
 
@@ -215,9 +215,9 @@ The timezone for the program schedule below are in **Pacific Time (Los Angeles)*
 
 <p>1730 - 1800 &nbsp;&nbsp; <strong>Short Break</strong></p>
 
-<p>1800 - 1900 &nbsp;&nbsp; <strong>Invited Talk: Chip Huyen</strong> [Click here for Zoom](https://mit.zoom.us/j/97792084996)</p> 
+<p>1800 - 1900 &nbsp;&nbsp; <strong>Invited Talk: Chip Huyen</strong> <a href="https://mit.zoom.us/j/96463506487">(Click here for Zoom)]</a> </p> 
 
-<p>1900 - 1930	&nbsp;&nbsp; <strong>Closing Remarks</strong> [Click here for Zoom](https://mit.zoom.us/j/97792084996)</p> 
+<p>1900 - 1930	&nbsp;&nbsp; <strong>Closing Remarks</strong> <a href="https://mit.zoom.us/j/96463506487">(Click here for Zoom)]</a> </p> 
 
 <br><br>
 To check out the events in your own time zone, we find that it's easiest to click on each of the item on the agenda and add them to your Google calendar.
