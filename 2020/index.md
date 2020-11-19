@@ -133,11 +133,11 @@ In this talk I’ll start by introducing the recent breakthroughs in NLP that re
 
 The timezone for the program schedule below are in **Pacific Time (Los Angeles)**. 
 
-<p>0500 - 0530	&nbsp;&nbsp; <strong>Opening Remarks</strong> <a href="https://mit.zoom.us/j/96463506487">(Click here for Zoom)]</a> </p> 
+<p>0500 - 0530	&nbsp;&nbsp; <strong>Opening Remarks</strong> <a href="https://mit.zoom.us/j/96463506487">(Click here for Zoom)</a> </p> 
 
-<p>0530 - 0630	&nbsp;&nbsp; <strong>Invited Talk 1: Spencer Kelly</strong> <a href="https://mit.zoom.us/j/96463506487">(Click here for Zoom)]</a>  </p> 
+<p>0530 - 0630	&nbsp;&nbsp; <strong>Invited Talk 1: Spencer Kelly</strong> <a href="https://mit.zoom.us/j/96463506487">(Click here for Zoom)</a>  </p> 
 
-<p>0630 - 0730 &nbsp;&nbsp; <strong>Invited Talk 2: Thomas Wolf</strong> [<a href="https://mit.zoom.us/j/96463506487">(Click here for Zoom)]</a> </p> 
+<p>0630 - 0730 &nbsp;&nbsp; <strong>Invited Talk 2: Thomas Wolf</strong> <a href="https://mit.zoom.us/j/96463506487">(Click here for Zoom)</a> </p> 
 
 <p>0730 - 0900 &nbsp;&nbsp; <strong>Talks Session 1 </strong> (Watch on your own, authors encouraged to mend their slidelive chat but not complusory)</p>
 
