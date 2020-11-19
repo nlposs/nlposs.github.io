@@ -135,9 +135,9 @@ The timezone for the program schedule below are in **Pacific Time (Los Angeles)*
 
 <p>0500 - 0530	&nbsp;&nbsp; <strong>Opening Remarks</strong> </p> 
 
-<p>0530 - 0630	&nbsp;&nbsp; <strong>Invited Talk 1: Spencer Kelly</strong> <a href="https://www.youtube.com/watch?v=tmqyBiW1JWU">(YouTube)</a>  </p> 
+<p>0530 - 0630	&nbsp;&nbsp; <strong>Invited Talk 1: Spencer Kelly</strong> <a href="https://youtu.be/tmqyBiW1JWU">(YouTube)</a>  </p> 
 
-<p>0630 - 0730 &nbsp;&nbsp; <strong>Invited Talk 2: Thomas Wolf</strong> <a href="https://www.youtube.com/watch?v=h059DCV2Nec">(YouTube)</a> </p> 
+<p>0630 - 0730 &nbsp;&nbsp; <strong>Invited Talk 2: Thomas Wolf</strong> <a href="https://youtu.be/h059DCV2Nec">(YouTube)</a> </p> 
 
 <p>0730 - 0900 &nbsp;&nbsp; <strong>Talks Session 1 </strong> (Watch on your own, authors encouraged to mend their slidelive chat but not complusory)</p>
 
