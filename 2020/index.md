@@ -215,15 +215,17 @@ The timezone for the program schedule below are in **Pacific Time (Los Angeles)*
 
 <p>1730 - 1800 &nbsp;&nbsp; <strong>Short Break</strong></p>
 
-<p>1800 - 1900 &nbsp;&nbsp; <strong>Invited Talk: Chip Huyen</strong> <a href="https://mit.zoom.us/j/97792084996">(Click here for Zoom)]</a> </p> 
+<p>1800 - 1900 &nbsp;&nbsp; <strong>Invited Talk: Chip Huyen</strong> <a href="https://youtu.be/Su5f-HGcmC4">(YouTube)</a> </p> 
 
-<p>1900 - 1930	&nbsp;&nbsp; <strong>Closing Remarks</strong> <a href="https://mit.zoom.us/j/97792084996">(Click here for Zoom)]</a> </p> 
+<p>1900 - 1930	&nbsp;&nbsp; <strong>Closing Remarks</strong> </p> 
 
 <br><br>
+
+<!--
 To check out the events in your own time zone, we find that it's easiest to click on each of the item on the agenda and add them to your Google calendar.
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%233F51B5&amp;ctz=America%2FLos_Angeles&amp;src=N2ppbGF2c2dlNWMyb3RuOGZoczE1dWkyc29AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23D81B60&amp;showNav=0&amp;showDate=0&amp;showCalendars=1&amp;showTabs=1&amp;showPrint=1&amp;showTitle=0&amp;showTz=1&amp;mode=AGENDA" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
+-->
 
 
 ## Organizers
