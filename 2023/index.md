@@ -64,7 +64,7 @@ Submissions can be non-archival and be presented in the NLP-OSS workshop, but we
 
 All papers are allowed unlimited but sensible pages for references. Final camera-ready versions will be allowed an additional page of content to address reviewers' comments.
 
-Due to the nature of open source software, we find it a bit tricky to "anonymize" "open source". For this reason, we don't require your publication to be anonymous. However, if you prefer your paper to be anonymized, please mask any identifiable phrase with REDACTED. We have an option setup in softconf so that you can explicitly opt-in / opt-out of anonymity. 
+Due to the nature of open source software, we find it a bit tricky to "anonymize" "open source". For this reason, we don't require your publication to be anonymous. However, if you prefer your paper to be anonymized, please mask any identifiable phrase with REDACTED. 
 
 Submission should be formatted according to the EMNLP 2023 LaTeX or MS Word templates at [https://2023.emnlp.org/calls/style-and-formatting/](https://2023.emnlp.org/calls/style-and-formatting/)
 <br><br>
@@ -87,16 +87,16 @@ The 3rd NLP-OSS workshop will be co-located with the EMNLP 2023 conference.
 
 <br><br>
 
-<h3><strong></strong> </h3>
+<h3><strong>[TBA] Talk Title</strong> </h3>
 <h3> <a href="https://spawning.ai/Team-1">Jordan Meyer</a>, Spawning AI</h3>
-<!-- <br>
-
+<br>
+[TBA] Talk Abstract
 <br><br>
-<p> -->
+<p> 
 <img src="https://pbs.twimg.com/profile_images/1655256246797099010/QbMxlB5T_400x400.jpg" alt="Jordan Meyer" align="left" style="margin-right: 32px; margin-bottom: 16px;" width=160px height=159px >
 </p>
 <h4> Bio </h4>
-<p>Jordan Meyer is the co-founder of Spawaning AI.  The Spawning team is a group of artists, scientists and engineers with notable backgrounds in machine learning and art. We have experimented with consenting model training in art projects for many years and formed Spawning to steer the rapid commercial development in large language, image and music models towards consent. You may have used their [haveibeentrained.com](http://haveibeentrained.com/) tool to see if you are present in popular training datasets, and opt out or opt in to future training, or you might have seen [Holly+](https://holly.plus/), the first project to experiment with consensual interactions around an artist AI model.</p>
+<p>Jordan Meyer is the co-founder at Spawaning AI. You may have used their [haveibeentrained.com](http://haveibeentrained.com/) tool to see if you are present in popular training datasets, and opt out or opt in to future training, or you might have seen [Holly+](https://holly.plus/), the first project to experiment with consensual interactions around an artist AI model.</p>
 <br><br><br><br>
 
 
@@ -169,12 +169,11 @@ The timezone for the program schedule below are in **Singapore Time (GMT +8)**.
  - Ziv Litmanovitz, University of Haifa
 
 
-## Previous Workshop
-
-[**First Workshop for Natural Language Processing Open Source Software** (NLP-OSS 2018)](../2018) <br>
-\[[Proceedings](https://www.aclweb.org/anthology/volumes/W18-25/)\]
+## Previous Workshops
 
 [**Second Workshop for Natural Language Processing Open Source Software** (NLP-OSS 2020)](../2020) <br>
 \[[Proceedings](https://aclanthology.org/volumes/2020.nlposs-1/)\]
 
+[**First Workshop for Natural Language Processing Open Source Software** (NLP-OSS 2018)](../2018) <br>
+\[[Proceedings](https://www.aclweb.org/anthology/volumes/W18-25/)\]
 
