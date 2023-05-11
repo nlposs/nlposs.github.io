@@ -87,7 +87,7 @@ The 3rd NLP-OSS workshop will be co-located with the EMNLP 2023 conference.
 
 <br><br>
 
-<h3><strong>[TBA] Talk Title</strong> </h3>
+<!--<h3><strong>[TBA] Talk Title</strong> </h3> -->
 <h3> <a href="https://spawning.ai/Team-1">Jordan Meyer</a>, Spawning AI</h3>
 <!-- <br>
 [TBA] Talk Abstract
@@ -96,7 +96,7 @@ The 3rd NLP-OSS workshop will be co-located with the EMNLP 2023 conference.
 <img src="https://pbs.twimg.com/profile_images/1655256246797099010/QbMxlB5T_400x400.jpg" alt="Jordan Meyer" align="left" style="margin-right: 32px; margin-bottom: 16px;" width=160px height=159px >
 </p>
 <h4> Bio </h4>
-<p>Jordan Meyer is the co-founder at Spawaning AI. You may have used their [http://haveibeentrained.com/](haveibeentrained.com) tool to see if you are present in popular training datasets, and opt out or opt in to future training, or you might have seen [https://holly.plus/](Holly+), the first project to experiment with consensual interactions around an artist AI model.</p>
+<p>Jordan Meyer is the co-founder at Spawaning AI. You may have used their <a href="http://haveibeentrained.com/">haveibeentrained.com</a> tool to see if you are present in popular training datasets, and opt out or opt in to future training, or you might have seen <a href="https://holly.plus/">Holly+</a>, the first project to experiment with consensual interactions around an artist AI model.</p>
 <br><br><br><br>
 
 
