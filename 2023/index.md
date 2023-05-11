@@ -34,7 +34,7 @@ We invite full papers (8 pages) or short papers (4 pages) on topics related to N
    - Issues in API design for NLP
    - NLP-OSS software interoperability
    - Analysis of the NLP-OSS community
-
+<br>
  - **Scientific Contribution**
    - Surveying OSS for specific NLP task(s)
    - Demonstration, introductions and/or tutorial of NLP-OSS
@@ -44,8 +44,7 @@ We invite full papers (8 pages) or short papers (4 pages) on topics related to N
    - OSS and experiment replicability
    - Gaps between existing NLP-OSS
    - Task-generic vs task-specific software
-
-
+<br>
  - **Case studies**
    - Case studies of how a specific bug is fixed or feature is added
    - Writing wrappers for other NLP-OSS
