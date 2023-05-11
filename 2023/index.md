@@ -74,7 +74,7 @@ Submissions should be uploaded to OpenReview conference management system at [ht
 
 ## Important dates
 
-The 2nd NLP-OSS workshop will be co-located with the EMNLP 2023 conference.
+The 3rd NLP-OSS workshop will be co-located with the EMNLP 2023 conference.
 
 - Paper submission: 09 August, 2023
 - Paper Reviews Starts: 25 August 2023
