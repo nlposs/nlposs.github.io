@@ -67,15 +67,14 @@ All papers are allowed unlimited but sensible pages for references. Final camera
 Due to the nature of open source software, we find it a bit tricky to "anonymize" "open source". For this reason, we don't require your publication to be anonymous. However, if you prefer your paper to be anonymized, please mask any identifiable phrase with REDACTED. We have an option setup in softconf so that you can explicitly opt-in / opt-out of anonymity. 
 
 Submission should be formatted according to the EMNLP 2023 LaTeX or MS Word templates at [https://2023.emnlp.org/calls/style-and-formatting/](https://2023.emnlp.org/calls/style-and-formatting/)
+<br><br>
+Submissions should be uploaded to OpenReview conference management system at [https://openreview.net/group?id=EMNLP/2023/Workshop/NLP-OSS](https://openreview.net/group?id=EMNLP/2023/Workshop/NLP-OSS)
 
-
-Submissions should be uploaded to OpenReview conference management system at https://openreview.net/group?id=EMNLP/2023/Workshop/NLP-OSS
-
-**Note:** Paper can be [dual-submitted](https://2023.emnlp.org/call-for-papers) to both EMNLP 2023 and the NLP-OSS workshop.
+<!-- **Note:** Paper can be [dual-submitted](https://2023.emnlp.org/call-for-papers) to both EMNLP 2023 and the NLP-OSS workshop. -->
 
 ## Important dates
 
-The 2nd NLP-OSS workshop will be co-located with the EMNLP 2023 conference.
+The 3rd NLP-OSS workshop will be co-located with the EMNLP 2023 conference.
 
 - Paper submission: 09 August, 2023
 - Paper Reviews Starts: 25 August 2023
@@ -86,11 +85,19 @@ The 2nd NLP-OSS workshop will be co-located with the EMNLP 2023 conference.
 
 ## Invited Speakers
 
-Jordan Meyer, Spawning AI. 
+<br><br>
 
-Spawning is building tools for managing your AI identity. You may have used the [haveibeentrained.com](http://haveibeentrained.com/) tool to see if you are present in popular training datasets, and opt out or opt in to future training, or you might have seen [Holly+](https://holly.plus/), the first project to experiment with consensual interactions around an artist AI model.
+<h3><strong></strong> </h3>
+<h3> <a href="https://spawning.ai/Team-1">Jordan Meyer</a>, Spawning AI</h3>
+<!-- <br>
 
-
+<br><br>
+<p> -->
+<img src="https://pbs.twimg.com/profile_images/1655256246797099010/QbMxlB5T_400x400.jpg" alt="Jordan Meyer" align="left" style="margin-right: 32px; margin-bottom: 16px;" width=160px height=159px >
+</p>
+<h4> Bio </h4>
+<p>Jordan Meyer is the co-founder of Spawaning AI.  The Spawning team is a group of artists, scientists and engineers with notable backgrounds in machine learning and art. We have experimented with consenting model training in art projects for many years and formed Spawning to steer the rapid commercial development in large language, image and music models towards consent. You may have used their [haveibeentrained.com](http://haveibeentrained.com/) tool to see if you are present in popular training datasets, and opt out or opt in to future training, or you might have seen [Holly+](https://holly.plus/), the first project to experiment with consensual interactions around an artist AI model.</p>
+<br><br><br><br>
 
 
 ## Workshop Program
@@ -100,66 +107,66 @@ The timezone for the program schedule below are in **Singapore Time (GMT +8)**.
 
 ## Organizers
 
-[Geeticka Chauhan](https://www.csail.mit.edu/person/geeticka-chauhan), Massachusetts Institute of Technology
-[Dmitrijs Milajevs](http://zest.id.lv/), Grayscale AI
-[Elijah Rippeth](https://erip.github.io/), University of Maryland
-[Jeremy Gwinnup](https://www.linkedin.com/in/jgwinnup), Air Force Research Laboratory
-[Liling Tan](http://alvations.com/), Amazon
+ - [Geeticka Chauhan](https://www.csail.mit.edu/person/geeticka-chauhan), Massachusetts Institute of Technology
+ - [Dmitrijs Milajevs](http://zest.id.lv/), Grayscale AI
+ - [Elijah Rippeth](https://erip.github.io/), University of Maryland
+ - [Jeremy Gwinnup](https://www.linkedin.com/in/jgwinnup), Air Force Research Laboratory
+ - [Liling Tan](http://alvations.com/), Amazon
 
 ## Programme Committee
 
-Aakanksha Naik, Allen Institute for Artificial Intelligence
-Aitor Soroa, University of the Basque Country 
-Alexander Rush, Cornell / Hugging Face
-Aline Paes, Universidade Federal Fluminense
-Amittai Axelrod, Apple AI
-Anish Mohan, Nvidia
-Arun Balajiee Lekshmi Narayanan, University of Pittsburgh
-Atnafu lambebo Tonja, Instituto Politécnico Nacional
-Atul Kr. Ojha, University of Galway
-Cassandra Jacobs, University at Buffalo
-Christoph Teichmann, Bloomberg LP
-Daniel Braun, University of Twente
-Dave Howcroft, Edinburgh Napier University
-Diana Maynard, University of Sheffield
-Flammie a Pirinen, University of Norway
-Gérard Dupont, Mavenoid
-Jack Morris, Cornell University
-Jörg Tiedemann, University of Helsinki
-Karin Sim, Language Weaver
-Kevin Cohen, University of Colorado
-Lane Schwartz, University of Alaska Fairbanks
-Leo Boytsov, Amazon
-Lucy Park, Upstage
-Maarten van Gompel, Radboud University
-Maheshwar Ghankot, Indira Gandhi National Open University
-Mallika Singh, Harvard Medical School
-Marco Cognetta, Tokyo Institute of Technology, Google
-Marzieh Fadaee, Zeta Alpha Vector
-Matt Post, Microsoft
-Micah Shlain, Allen Institute for Artificial Intelligence
-Michael Wayne Goodman, LivePerson Inc.
-Mohd Sanad Zaki Rizvi, University of Edinburgh
-Nelson F. Liu, Stanford University
-Ogundepo Odunayo, University of Waterloo
-Pasquale Lisena, EURECOM
-Phu Mon Htut, AWS AI Labs
-Raeid Saqur, Princeton University
-Raphael Tang, Comcast Applied AI
-Sagnik Ray Choudhury, University of Michigan
-Shilpa Suresh, Harvard Medical School
-Sina Ahmadi, George Mason University
-Steve DeNeefe, RWS Language Weaver
-Steven Bethard, University of Arizona
-Taha Zerrouki, Bouira University Algeria
-Tenzin Bhotia, Delhi Technological University
-Thomas Kober, Zalando SE
-Tomas Mikolov, Czech Institute of Informatics
-Tommaso Teofili, Roma Tre University
-Vlad Niculae, University of Amsterdam
-Won Ik Cho, Seoul National University
-Zaid Alyafeai, King Fahd University of Petroleum and Minerals
-Ziv Litmanovitz, University of Haifa
+ - Aakanksha Naik, Allen Institute for Artificial Intelligence
+ - Aitor Soroa, University of the Basque Country 
+ - Alexander Rush, Cornell / Hugging Face
+ - Aline Paes, Universidade Federal Fluminense
+ - Amittai Axelrod, Apple AI
+ - Anish Mohan, Nvidia
+ - Arun Balajiee Lekshmi Narayanan, University of Pittsburgh
+ - Atnafu lambebo Tonja, Instituto Politécnico Nacional
+ - Atul Kr. Ojha, University of Galway
+ - Cassandra Jacobs, University at Buffalo
+ - Christoph Teichmann, Bloomberg LP
+ - Daniel Braun, University of Twente
+ - Dave Howcroft, Edinburgh Napier University
+ - Diana Maynard, University of Sheffield
+ - Flammie a Pirinen, University of Norway
+ - Gérard Dupont, Mavenoid
+ - Jack Morris, Cornell University
+ - Jörg Tiedemann, University of Helsinki
+ - Karin Sim, Language Weaver
+ - Kevin Cohen, University of Colorado
+ - Lane Schwartz, University of Alaska Fairbanks
+ - Leo Boytsov, Amazon
+ - Lucy Park, Upstage
+ - Maarten van Gompel, Radboud University
+ - Maheshwar Ghankot, Indira Gandhi National Open University
+ - Mallika Singh, Harvard Medical School
+ - Marco Cognetta, Tokyo Institute of Technology, Google
+ - Marzieh Fadaee, Zeta Alpha Vector
+ - Matt Post, Microsoft
+ - Micah Shlain, Allen Institute for Artificial Intelligence
+ - Michael Wayne Goodman, LivePerson Inc.
+ - Mohd Sanad Zaki Rizvi, University of Edinburgh
+ - Nelson F. Liu, Stanford University
+ - Ogundepo Odunayo, University of Waterloo
+ - Pasquale Lisena, EURECOM
+ - Phu Mon Htut, AWS AI Labs
+ - Raeid Saqur, Princeton University
+ - Raphael Tang, Comcast Applied AI
+ - Sagnik Ray Choudhury, University of Michigan
+ - Shilpa Suresh, Harvard Medical School
+ - Sina Ahmadi, George Mason University
+ - Steve DeNeefe, RWS Language Weaver
+ - Steven Bethard, University of Arizona
+ - Taha Zerrouki, Bouira University Algeria
+ - Tenzin Bhotia, Delhi Technological University
+ - Thomas Kober, Zalando SE
+ - Tomas Mikolov, Czech Institute of Informatics
+ - Tommaso Teofili, Roma Tre University
+ - Vlad Niculae, University of Amsterdam
+ - Won Ik Cho, Seoul National University
+ - Zaid Alyafeai, King Fahd University of Petroleum and Minerals
+ - Ziv Litmanovitz, University of Haifa
 
 
 ## Previous Workshop
