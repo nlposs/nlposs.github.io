@@ -7,19 +7,15 @@ layout: default
 
 ### 6-10 Dec 2023 @ [EMNLP 2023](https://2023.emnlp.org/) (Virtual Workshop)
 
-<br><br>
+<br><br>With great scientific breakthrough comes solid engineering and open communities. The Natural Language Processing (NLP) community has benefited greatly from the open culture in sharing knowledge, data, and software. The primary objective of this workshop is to further the sharing of insights on the engineering and community aspects of creating, developing, and maintaining NLP open source software (OSS), which we seldom talk about in scientific publications. Our secondary goal is to promote synergies between different open source projects and encourage cross-software collaborations and comparisons.
 
-With great scientific breakthrough comes solid engineering and open communities. The Natural Language Processing (NLP) community has benefited greatly from the open culture in sharing knowledge, data, and software. The primary objective of this workshop is to further the sharing of insights on the engineering and community aspects of creating, developing, and maintaining NLP open source software (OSS), which we seldom talk about in scientific publications. Our secondary goal is to promote synergies between different open source projects and encourage cross-software collaborations and comparisons.
+There are many workshops focusing on the creation and curation of open language resources and annotations (e.g. BUCC, GWN, LAW, LOD, WAC). Moreover, we have the flagship LREC conference dedicated to linguistic resources. However, the engineering aspects of NLP-OSS are overlooked and under-discussed within the community. There are open source conferences and venues (such as FOSDEM, OSCON, Open Source Summit) where discussions range from operating system kernels to air traffic control hardware but the representation of NLP related presentations is limited. In the Machine Learning (ML) field, the Journal of Machine Learning Research - Machine Learning Open Source Software (JMLR-MLOSS) is a forum for discussions and dissemination of ML OSS topics. We envision that the Workshop for NLP-OSS becomes a similar avenue for NLP-OSS discussions.
 
-We refer to Natural Language Processing OSS as an umbrella term that not only covers traditional syntactic, semantic, phonetic, and pragmatic applications; we extend the definition to include task-specific applications (e.g., machine translation, information retrieval, question-answering systems), low-level string processing that contains valid linguistic information (e.g. Unicode creation for new languages, language-based character set definitions) and machine learning/artificial intelligence frameworks with functionalities focusing on text applications.
+Recently there have been successful Big Science workshop series which examine and promote open science in NLP. While important and complementary, the goals of Big Science are distinct from those of NLP-OSS which focuses more on the community of practice in open-source software in support of NLP and language technologies. We expect many who participated in the BigScience workshop to participate in NLP-OSS as many of the participants are former PC members in past editions of NLP-OSS. Another grassroot community movement, Eleuther AI started with the researchers attempting to replicate commercial language models and has since grown to an active decentralized community of volunteer researchers, engineers, and developers focused on AI alignment, scaling, and open source AI research.
 
-In the earlier days of NLP, linguistic software was often monolithic and the learning curve to install, use, and extend the tools was steep and frustrating. More often than not, NLP OSS developers/users interact in siloed communities within the ecologies of their respective projects. In addition to the engineering aspects of NLP software, the open source movement has brought a community aspect that we often overlook in building impactful NLP technologies.
+With the rise of open source startups like Huggingface, the democratization of NLP gives researchers and the general public easy access to language models once available only to a handful of industrial research labs. This acceleration of NLP tools availability creates new synergies between cloud integrations, e.g. Huggingface x AWS Sagemaker, that allows engineers and researchers to train and deploy live applications with minimal infrastructure setups. Building on the shoulders of giants, the scikit-learn and Huggingface ecosystems are now interoperable under the skops framework.
+We want to highlight these emergent communities and synergies in the NLP-OSS workshop and promote future collaborations with like-minded open source NLP researchers in the third NLP-OSS workshop. We hope that the NLP-OSS workshop could also be hosted in an *ACL conference, and be the intellectual forum to collate this type of knowledge, announce new software/features, promote the open source culture and OSS best practices.
 
-An example of precious OSS knowledge comes from SpaCy developer [Montani (2017)](https://ines.io/blog/spacy-commercial-open-source-nlp), who shared her thoughts and challenges of maintaining commercial NLP-OSS, such as handling open issues on the issue tracker, model release and packaging strategy and monetizing NLP OSS for sustainability.
-
-More recently, the [Transformers library](https://github.com/huggingface/transformers) created by Hugging Face, has gathered much interest from the community by open sourcing implementations to use pretrained weights of BERT-like models, in a clean and well-organized structure. The interoperability of various pretrained models trained with different tools in one library enables quick benchmarking across the models, as well as developing best practices for reading/saving serialized interoperable models.
-
-We hope that the NLP-OSS workshop becomes the intellectual forum to collate various open source knowledge beyond the scientific contribution, announce new software/features, promote the open source culture and best practices that go beyond the conferences.
 
 ## Call for Papers
 
@@ -73,7 +69,7 @@ Due to the nature of open source software, we find it a bit tricky to "anonymize
 Submission should be formatted according to the EMNLP 2023 LaTeX or MS Word templates at [https://2023.emnlp.org/calls/style-and-formatting/](https://2023.emnlp.org/calls/style-and-formatting/)
 
 
-Submissions should be uploaded to Softconf conference management system at [TBD](TBD).
+Submissions should be uploaded to OpenReview conference management system at https://openreview.net/group?id=EMNLP/2023/Workshop/NLP-OSS
 
 **Note:** Paper can be [dual-submitted](https://2023.emnlp.org/call-for-papers) to both EMNLP 2023 and the NLP-OSS workshop.
 
@@ -88,8 +84,13 @@ The 2nd NLP-OSS workshop will be co-located with the EMNLP 2023 conference.
 - Camera-Ready Version: 25 October 2023
 - Workshop: 6-10 Dec 2023
 
-
 ## Invited Speakers
+
+Jordan Meyer, Spawning AI. 
+
+Spawning is building tools for managing your AI identity. You may have used the [haveibeentrained.com](http://haveibeentrained.com/) tool to see if you are present in popular training datasets, and opt out or opt in to future training, or you might have seen [Holly+](https://holly.plus/), the first project to experiment with consensual interactions around an artist AI model.
+
+
 
 
 ## Workshop Program
@@ -97,13 +98,68 @@ The 2nd NLP-OSS workshop will be co-located with the EMNLP 2023 conference.
 
 The timezone for the program schedule below are in **Singapore Time (GMT +8)**. 
 
-
-
 ## Organizers
 
+[Geeticka Chauhan](https://www.csail.mit.edu/person/geeticka-chauhan), Massachusetts Institute of Technology
+[Dmitrijs Milajevs](http://zest.id.lv/), Grayscale AI
+[Elijah Rippeth](https://erip.github.io/), University of Maryland
+[Jeremy Gwinnup](https://www.linkedin.com/in/jgwinnup), Air Force Research Laboratory
+[Liling Tan](http://alvations.com/), Amazon
 
 ## Programme Committee
 
+Aakanksha Naik, Allen Institute for Artificial Intelligence
+Aitor Soroa, University of the Basque Country 
+Alexander Rush, Cornell / Hugging Face
+Aline Paes, Universidade Federal Fluminense
+Amittai Axelrod, Apple AI
+Anish Mohan, Nvidia
+Arun Balajiee Lekshmi Narayanan, University of Pittsburgh
+Atnafu lambebo Tonja, Instituto Politécnico Nacional
+Atul Kr. Ojha, University of Galway
+Cassandra Jacobs, University at Buffalo
+Christoph Teichmann, Bloomberg LP
+Daniel Braun, University of Twente
+Dave Howcroft, Edinburgh Napier University
+Diana Maynard, University of Sheffield
+Flammie a Pirinen, University of Norway
+Gérard Dupont, Mavenoid
+Jack Morris, Cornell University
+Jörg Tiedemann, University of Helsinki
+Karin Sim, Language Weaver
+Kevin Cohen, University of Colorado
+Lane Schwartz, University of Alaska Fairbanks
+Leo Boytsov, Amazon
+Lucy Park, Upstage
+Maarten van Gompel, Radboud University
+Maheshwar Ghankot, Indira Gandhi National Open University
+Mallika Singh, Harvard Medical School
+Marco Cognetta, Tokyo Institute of Technology, Google
+Marzieh Fadaee, Zeta Alpha Vector
+Matt Post, Microsoft
+Micah Shlain, Allen Institute for Artificial Intelligence
+Michael Wayne Goodman, LivePerson Inc.
+Mohd Sanad Zaki Rizvi, University of Edinburgh
+Nelson F. Liu, Stanford University
+Ogundepo Odunayo, University of Waterloo
+Pasquale Lisena, EURECOM
+Phu Mon Htut, AWS AI Labs
+Raeid Saqur, Princeton University
+Raphael Tang, Comcast Applied AI
+Sagnik Ray Choudhury, University of Michigan
+Shilpa Suresh, Harvard Medical School
+Sina Ahmadi, George Mason University
+Steve DeNeefe, RWS Language Weaver
+Steven Bethard, University of Arizona
+Taha Zerrouki, Bouira University Algeria
+Tenzin Bhotia, Delhi Technological University
+Thomas Kober, Zalando SE
+Tomas Mikolov, Czech Institute of Informatics
+Tommaso Teofili, Roma Tre University
+Vlad Niculae, University of Amsterdam
+Won Ik Cho, Seoul National University
+Zaid Alyafeai, King Fahd University of Petroleum and Minerals
+Ziv Litmanovitz, University of Haifa
 
 
 ## Previous Workshop
