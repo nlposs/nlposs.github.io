@@ -5,7 +5,7 @@ layout: default
 
 # 3rd Workshop for Natural Language Processing Open Source Software (NLP-OSS) <br>
 
-### 6-10 Dec 2023 @ [EMNLP 2023](https://2023.emnlp.org/) (Virtual Workshop)
+### 6 Dec 2023 @ [EMNLP 2023](https://2023.emnlp.org/) in Singapore
 
 <br><br>With great scientific breakthrough comes solid engineering and open communities. The Natural Language Processing (NLP) community has benefited greatly from the open culture in sharing knowledge, data, and software. The primary objective of this workshop is to further the sharing of insights on the engineering and community aspects of creating, developing, and maintaining NLP open source software (OSS), which we seldom talk about in scientific publications. Our secondary goal is to promote synergies between different open source projects and encourage cross-software collaborations and comparisons.
 
