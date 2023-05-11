@@ -89,9 +89,9 @@ The 3rd NLP-OSS workshop will be co-located with the EMNLP 2023 conference.
 
 <h3><strong>[TBA] Talk Title</strong> </h3>
 <h3> <a href="https://spawning.ai/Team-1">Jordan Meyer</a>, Spawning AI</h3>
-<br>
+<!-- <br>
 [TBA] Talk Abstract
-<br><br>
+<br><br> -->
 <p> 
 <img src="https://pbs.twimg.com/profile_images/1655256246797099010/QbMxlB5T_400x400.jpg" alt="Jordan Meyer" align="left" style="margin-right: 32px; margin-bottom: 16px;" width=160px height=159px >
 </p>
