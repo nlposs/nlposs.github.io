@@ -128,8 +128,13 @@ The timezone for the program schedule below are in **Singapore Time (GMT +8)**. 
  - Daniel Braun, University of Twente
  - Dave Howcroft, Edinburgh Napier University
  - Diana Maynard, University of Sheffield
- - Flammie a Pirinen, University of Norway
+ - Fabio Kepler, Unbabel
+ - Flammie a Pirinen, UiT The Arctic University of Norway
+ - Francis Bond, Palacký University Olomouc
  - Gérard Dupont, Mavenoid
+ - Guillaume Becquin, Bloomberg
+ - Ignatius Ezeani, Lancaster University
+ - Jana Götze, University of Potsdam
  - Jack Morris, Cornell University
  - Jörg Tiedemann, University of Helsinki
  - Karin Sim, Language Weaver
@@ -140,6 +145,7 @@ The timezone for the program schedule below are in **Singapore Time (GMT +8)**. 
  - Maarten van Gompel, Radboud University
  - Maheshwar Ghankot, Indira Gandhi National Open University
  - Mallika Singh, Harvard Medical School
+ - Marcel Bollmann, Linköping University
  - Marco Cognetta, Tokyo Institute of Technology, Google
  - Marzieh Fadaee, Zeta Alpha Vector
  - Matt Post, Microsoft
@@ -147,13 +153,16 @@ The timezone for the program schedule below are in **Singapore Time (GMT +8)**. 
  - Michael Wayne Goodman, LivePerson Inc.
  - Mohd Sanad Zaki Rizvi, University of Edinburgh
  - Nelson F. Liu, Stanford University
+ - Nitin Madnani, Educational Testing Service
  - Ogundepo Odunayo, University of Waterloo
  - Pasquale Lisena, EURECOM
+ - Philipp Koehn, Johns Hopkins University
  - Phu Mon Htut, AWS AI Labs
  - Raeid Saqur, Princeton University
  - Raphael Tang, Comcast Applied AI
  - Sagnik Ray Choudhury, University of Michigan
  - Shilpa Suresh, Harvard Medical School
+ - Shubhanshu Mishra, Shubhanshu.com
  - Sina Ahmadi, George Mason University
  - Steve DeNeefe, RWS Language Weaver
  - Steven Bethard, University of Arizona
