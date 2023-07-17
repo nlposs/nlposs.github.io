@@ -136,6 +136,7 @@ The timezone for the program schedule below are in **Singapore Time (GMT +8)**. 
  - Jana Götze, University of Potsdam
  - Jack Morris, Cornell University
  - Jörg Tiedemann, University of Helsinki
+ - Kamile Lukosiute, Anthropic
  - Karin Sim, Language Weaver
  - Kevin Cohen, University of Colorado
  - Lane Schwartz, University of Alaska Fairbanks
