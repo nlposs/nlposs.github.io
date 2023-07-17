@@ -170,6 +170,7 @@ The timezone for the program schedule below are in **Singapore Time (GMT +8)**. 
  - Thomas Kober, Zalando SE
  - Tomas Mikolov, Czech Institute of Informatics
  - Tommaso Teofili, Roma Tre University
+ - Vijay Murari Tiyyala, Johns Hopkins University
  - Vlad Niculae, University of Amsterdam
  - Won Ik Cho, Seoul National University
  - Zaid Alyafeai, King Fahd University of Petroleum and Minerals
