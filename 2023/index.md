@@ -127,7 +127,6 @@ The timezone for the program schedule below are in **Singapore Time (GMT +8)**. 
  - Christoph Teichmann, Bloomberg LP
  - Daniel Braun, University of Twente
  - Dave Howcroft, Edinburgh Napier University
- - Diana Maynard, University of Sheffield
  - Fabio Kepler, Unbabel
  - Flammie a Pirinen, UiT The Arctic University of Norway
  - Francis Bond, Palacký University Olomouc
