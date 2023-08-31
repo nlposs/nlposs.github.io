@@ -115,26 +115,29 @@ The timezone for the program schedule below are in **Singapore Time (GMT +8)**. 
 ## Programme Committee
 
  - Aakanksha Naik, Allen Institute for Artificial Intelligence
- - Aitor Soroa, University of the Basque Country 
+ - Abhinav Arora, Meta AI
+ - Aitor Soroa, HiTZ Center, University of the Basque Country UPV/EHU
+ - Akintunde Oladipo, University of Waterloo
  - Alexander Rush, Cornell / Hugging Face
  - Aline Paes, Universidade Federal Fluminense
  - Amittai Axelrod, Apple AI
- - Anish Mohan, Nvidia
+ - Anish Mohan, NVIDIA
  - Arun Balajiee Lekshmi Narayanan, University of Pittsburgh
- - Atnafu lambebo Tonja, Instituto Politécnico Nacional
+ - Atnafu Lambebo Tonja, University of Colorado
  - Atul Kr. Ojha, University of Galway
  - Cassandra Jacobs, University at Buffalo
- - Christoph Teichmann, Bloomberg LP
+ - Christoph Teichmann, Bloomberg L.P.
  - Daniel Braun, University of Twente
- - Dave Howcroft, Edinburgh Napier University
+ - David M. Howcroft, Edinburgh Napier University
  - Fabio Kepler, Unbabel
  - Flammie a Pirinen, UiT The Arctic University of Norway
  - Francis Bond, Palacký University Olomouc
  - Gérard Dupont, Mavenoid
- - Guillaume Becquin, Bloomberg
+ - Guillaume Becquin, Bloomberg L.P.
  - Ignatius Ezeani, Lancaster University
  - Jana Götze, University of Potsdam
  - Jack Morris, Cornell University
+ - John X. Morris, Cornell University
  - Jörg Tiedemann, University of Helsinki
  - Kamile Lukosiute, Anthropic
  - Karin Sim, Language Weaver
@@ -143,11 +146,11 @@ The timezone for the program schedule below are in **Singapore Time (GMT +8)**. 
  - Leo Boytsov, Amazon
  - Lucy Park, Upstage
  - Maarten van Gompel, Radboud University
- - Maheshwar Ghankot, Indira Gandhi National Open University
- - Mallika Singh, Harvard Medical School
+ - Maheshwar Ghankot, Indian Space Research Organization
+ - Mallika Singh, Boston Children's Hospital - Harvard Medical School
  - Marcel Bollmann, Linköping University
  - Marco Cognetta, Tokyo Institute of Technology, Google
- - Marzieh Fadaee, Zeta Alpha Vector
+ - Marzieh Fadaee, Cohere for AI
  - Matt Post, Microsoft
  - Micah Shlain, Allen Institute for Artificial Intelligence
  - Michael Wayne Goodman, LivePerson Inc.
@@ -159,22 +162,23 @@ The timezone for the program schedule below are in **Singapore Time (GMT +8)**. 
  - Philipp Koehn, Johns Hopkins University
  - Phu Mon Htut, AWS AI Labs
  - Raeid Saqur, Princeton University
- - Raphael Tang, Comcast Applied AI
+ - Raphael Tang, Comcast
  - Sagnik Ray Choudhury, University of Michigan
- - Shilpa Suresh, Harvard Medical School
+ - Shilpa Suresh, Boston Children's Hospital - Harvard Medical School
  - Shubhanshu Mishra, Shubhanshu.com
  - Sina Ahmadi, George Mason University
- - Steve DeNeefe, RWS Language Weaver
+ - Steve DeNeefe, Language Weaver - RWS Group
  - Steven Bethard, University of Arizona
+ - Sudhakar Singh, NVIDIA
  - Taha Zerrouki, Bouira University Algeria
- - Tenzin Bhotia, Delhi Technological University
- - Thomas Kober, Zalando SE
+ - Tenzin Singhay Bhotia, Georgia Institute of Technology
+ - Thomas Kober, Zalando
  - Tomas Mikolov, Czech Institute of Informatics
  - Tommaso Teofili, Roma Tre University
  - Vijay Murari Tiyyala, Johns Hopkins University
  - Vlad Niculae, University of Amsterdam
- - Won Ik Cho, Seoul National University
- - Zaid Alyafeai, King Fahd University of Petroleum and Minerals
+ - Won Ik Cho, Samsung Advanced Institute of Technology
+ - Zaid Alyafeai, King Fahad University of Petroleum and Minerals
  - Ziv Litmanovitz, University of Haifa
 
 
