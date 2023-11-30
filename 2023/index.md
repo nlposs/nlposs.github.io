@@ -82,20 +82,20 @@ The 3rd NLP-OSS workshop will be co-located with the EMNLP 2023 conference.
 - Camera-Ready Version: 25 October 2023
 - Workshop: 6-10 Dec 2023
 
-## Invited Speakers
 
+## Invited Speakers
 <br><br>
 
-<!--<h3><strong>[TBA] Talk Title</strong> </h3> -->
-<h3> <a href="https://spawning.ai/Team-1">Jordan Meyer</a>, Spawning AI</h3>
-<!-- <br>
-[TBA] Talk Abstract
-<br><br> -->
-<p> 
-<img src="https://pbs.twimg.com/profile_images/1655256246797099010/QbMxlB5T_400x400.jpg" alt="Jordan Meyer" align="left" style="margin-right: 32px; margin-bottom: 16px;" width=160px height=159px >
+<h3><strong>trlX: A Framework for Large Scale Open Source RLHF</strong> </h3>
+<h3><a href="https://www.louiscastricato.com/">Louis Castricato</a> </h3>
+<br>
+Reinforcement learning from human feedback (RLHF) utilizes human feedback to better align large language models with human preferences via online optimization against a learned re- ward model. Current RLHF paradigms rely on Proximal Policy Optimization (PPO), which quickly becomes a challenge to implement and scale up to large architectures. To address this difficulty we created the [trlX library](https://github.com/CarperAI/trlx) as a feature-complete open-source framework for RLHF fine-tuning of models up to and exceeding 70 billion parameters. This talk presents the trlX implementation that supports for multiple types of dis- tributed training including distributed data par- allel, model sharded, as well as tensor, sequential, and pipeline parallelism.
+<br><br>
+<p>
+<img src="https://huyenchip.com/assets/profile.jpg" alt="Chip Huyen" align="left" style="margin-right: 32px; margin-bottom: 16px;" width=160px height=159px >
 </p>
 <h4> Bio </h4>
-<p>Jordan Meyer is the co-founder at Spawaning AI. You may have used their <a href="http://haveibeentrained.com/">haveibeentrained.com</a> tool to see if you are present in popular training datasets, and opt out or opt in to future training, or you might have seen <a href="https://holly.plus/">Holly+</a>, the first project to experiment with consensual interactions around an artist AI model.</p>
+<p>Louis Castricato is a research scientist at EleutherAI, working on RLHF infrastructure and engineering. Previously, Louis was head of LLMs at Stability AI and team lead at CarperAI, the largest open source RLHF group, as well as a PhD student at Brown University.</p>
 <br><br><br><br>
 
 
