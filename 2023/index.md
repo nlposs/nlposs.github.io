@@ -112,22 +112,33 @@ The timezone for the program schedule below are in **Singapore Time (GMT +8)**.
 <p>11:30 - 12:15 &nbsp;&nbsp; <strong>Poster Session 1 </strong> </p>
 
 <p>An Open-source Web-based Application for Development of Resources and Technologies in Underresourced Languages<br>
-<em></em></p>
+<em>Siddharth Singh, Shyam Ratan, Neerav Mathur and Ritesh Kumar</em></p>
+
 <p>AWARE-TEXT: An Android Package for Mobile Phone Based Text Collection and On-Device Processing<br>
-<em></em></p>
+<em>Salvatore Giorgi, Garrick Sherman, Douglas Bellew, Sharath Chandra Guntuku, Lyle Ungar and Brenda Curtis </em></p>
+
 <p>Beyond the Repo: A Case Study on Open Source Integration with GECToR<br>
-<em></em></p>
+<em>Sanjna Kashyap, Zhaoyang Xie, Kenneth Steimel and Nitin Madnani</em></p>
+
 <p>calamanCy: A Tagalog Natural Language Processing Toolkit<br>
-<em></em></p>
-<p>Deepparse : A State-Of-The-Art Library for Parsing Multinational Street Addresses<br>
-<em></em></p>
+<em>Lester James Validad Miranda</em></p>
+
+<p>Deepparse: A State-Of-The-Art Library for Parsing Multinational Street Addresses<br>
+<em>David Beauchemin</em></p>
+
 <p>EDGAR-CRAWLER: Finding Needles in the Haystack of Financial Documents<br>
-<em></em></p>
+<em>Lefteris Loukas, Manos Fergadiotis and Prodromos Malakasiotis</em></p>
+
 <p>Jina Embeddings: A Novel Set of High-Performance Sentence Embedding Models<br>
-<em></em></p>
+<em>Michael Günther, Georgios Mastrapas, Bo Wang, Han Xiao and Jonathan Geuter</em></p>
+
 <p>Kani: A Lightweight and Highly Hackable Framework for Language Model Applications<br>
 <em></em></p>
-<p>nanoT5: Fast & Simple Pre-training and Fine-tuning of T5 Models with Limited Resources</p>
+
+<p>nanoT5: Fast & Simple Pre-training and Fine-tuning of T5 Models with Limited Resources<br>
+<em></em></p>
+
+
 <p>PyThaiNLP: Thai Natural Language Processing in Python<br>
 <em></em></p>
 <p>Rumour Detection in the Wild: A Browser Extension for Twitter<br>
