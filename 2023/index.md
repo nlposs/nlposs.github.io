@@ -142,13 +142,13 @@ Large language models (LLMs) have recently achieved human-level performance on a
 
 The timezone for the program schedule below are in **Singapore Time (GMT +8)**.
 
-<p>09:00 - 09:15  &nbsp;&nbsp; <strong> Opening Remarks </strong> </p>
+<p>09:00 - 09:15 &nbsp;&nbsp; <strong> Opening Remarks </strong> </p>
 <p>09:15 - 10:15 &nbsp;&nbsp; <strong> Invited Talk  - trlX: A Framework for Large Scale Open Source RLHF </strong><br>
 <em>Louis Castricato</em></p>
-<p>10:30 - 11:00 &nbsp;&nbsp; <strong>Coffee Break </strong> </p>
+<p>10:30 - 11:00 &nbsp;&nbsp; <strong> Coffee Break </strong> </p>
 
 <p>11:00 - 11:30 &nbsp;&nbsp; <strong> Lightning Session 1 </strong> </p>
-<p>11:30 - 12:15 &nbsp;&nbsp; <strong>Poster Session 1 </strong> </p>
+<p>11:30 - 12:15 &nbsp;&nbsp; <strong> Poster Session 1 </strong> </p>
 
 <p>An Open-source Web-based Application for Development of Resources and Technologies in Underresourced Languages<br>
 <em>Siddharth Singh, Shyam Ratan, Neerav Mathur and Ritesh Kumar</em></p>
@@ -192,13 +192,13 @@ The timezone for the program schedule below are in **Singapore Time (GMT +8)**.
 <p>Zelda Rose: a tool for hassle-free training of transformer models<br>
 <em>Loïc Grobol</em></p>
 
-<p>12:15 - 13:45 &nbsp;&nbsp; <strong>Lunch Break </strong> </p>
-<p>13:45 - 14:45 &nbsp;&nbsp; <strong>Invited Talk - SEA-LION (Southeast Asian Languages In One Network): A Family of Southeast Asian Language Models </strong> <br>
+<p>12:15 - 13:45 &nbsp;&nbsp; <strong> Lunch Break </strong> </p>
+<p>13:45 - 14:45 &nbsp;&nbsp; <strong> Invited Talk - SEA-LION (Southeast Asian Languages In One Network): A Family of Southeast Asian Language Models </strong> <br>
 <em>William Tjhi, David Ong and Peerat Limkonchotiwat</em></p>
 
-<p>14:45 - 15:15 &nbsp;&nbsp; <strong>Lightning Session 2 </strong> </p>
-<p>15:15 - 15:30 &nbsp;&nbsp; <strong>Coffee Break </strong> </p> 
-<p>15:30 - 16:15 &nbsp;&nbsp; <strong>Poster Session 2 </strong> </p>
+<p>14:45 - 15:15 &nbsp;&nbsp; <strong> Lightning Session 2 </strong> </p>
+<p>15:15 - 15:30 &nbsp;&nbsp; <strong> Coffee Break </strong> </p> 
+<p>15:30 - 16:15 &nbsp;&nbsp; <strong> Poster Session 2 </strong> </p>
 
 <p>Antarlekhaka: A Comprehensive Tool for Multi-task Natural Language Annotation<br>
 <em>Hrishikesh Terdalkar and Arnab Bhattacharya</em></p>
@@ -239,7 +239,7 @@ The timezone for the program schedule below are in **Singapore Time (GMT +8)**.
 <p>16:15 - 17:15 &nbsp;&nbsp; <strong> Invited Talk - Towards Explainable and Accessible AI </strong><br>
 <em>Brandon Duderstadt and Yuvanesh Anand</em></p>
 
-<p>17:15 - 17:30 Closing Remarks</p>
+<p>17:15 - 17:30 &nbsp;&nbsp; <strong> Closing Remarks</strong></p>
 
 
 ## Organizers
