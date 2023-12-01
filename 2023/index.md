@@ -165,9 +165,6 @@ The timezone for the program schedule below are in **Singapore Time (GMT +8)**.
 <p>Antarlekhaka: A Comprehensive Tool for Multi-task Natural Language Annotation<br>
 <em>Hrishikesh Terdalkar and Arnab Bhattacharya</em></p>
 
-<p>Automated Few-shot Classification with Instruction-Finetuned Language Models<br>
-<em></em></p>
-
 <p>DeepZensols: A Deep Learning Natural Language Processing Framework for Experimentation and Reproducibility<br>
 <em>Paul Landes, Barbara Di Eugenio and Cornelia Caragea</em></p>
 
