@@ -138,10 +138,110 @@ Large language models (LLMs) have recently achieved human-level performance on a
 
 <br><br><br><br>
 
-<!-- ## Workshop Program
+
 <br><br>
 
-The timezone for the program schedule below are in **Singapore Time (GMT +8)**.  -->
+The timezone for the program schedule below are in **Singapore Time (GMT +8)**.
+
+<p>09:00 - 09:15  &nbsp;&nbsp; <strong> Opening Remarks </strong> </p>
+<p>09:15 - 10:15 &nbsp;&nbsp; <strong> Invited Talk  - trlX: A Framework for Large Scale Open Source RLHF </strong><br>
+<em>Louis Castricato</em></p>
+<p>10:30 - 11:00 &nbsp;&nbsp; <strong>Coffee Break </strong> </p>
+
+<p>11:00 - 11:30 &nbsp;&nbsp; <strong> Lightning Session 1 </strong> </p>
+<p>11:30 - 12:15 &nbsp;&nbsp; <strong>Poster Session 1 </strong> </p>
+
+<p>An Open-source Web-based Application for Development of Resources and Technologies in Underresourced Languages<br>
+<em>Siddharth Singh, Shyam Ratan, Neerav Mathur and Ritesh Kumar</em></p>
+
+<p>AWARE-TEXT: An Android Package for Mobile Phone Based Text Collection and On-Device Processing<br>
+<em>Salvatore Giorgi, Garrick Sherman, Douglas Bellew, Sharath Chandra Guntuku, Lyle Ungar and Brenda Curtis </em></p>
+
+<p>Beyond the Repo: A Case Study on Open Source Integration with GECToR<br>
+<em>Sanjna Kashyap, Zhaoyang Xie, Kenneth Steimel and Nitin Madnani</em></p>
+
+<p>calamanCy: A Tagalog Natural Language Processing Toolkit<br>
+<em>Lester James Validad Miranda</em></p>
+
+<p>Deepparse: A State-Of-The-Art Library for Parsing Multinational Street Addresses<br>
+<em>David Beauchemin</em></p>
+
+<p>EDGAR-CRAWLER: Finding Needles in the Haystack of Financial Documents<br>
+<em>Lefteris Loukas, Manos Fergadiotis and Prodromos Malakasiotis</em></p>
+
+<p>Jina Embeddings: A Novel Set of High-Performance Sentence Embedding Models<br>
+<em>Michael Günther, Georgios Mastrapas, Bo Wang, Han Xiao and Jonathan Geuter</em></p>
+
+<p>Kani: A Lightweight and Highly Hackable Framework for Language Model Applications<br>
+<em>Andrew Zhu, Liam Dugan, Alyssa Hwang and Chris Callison-Burch</em></p>
+
+<p>nanoT5: Fast & Simple Pre-training and Fine-tuning of T5 Models with Limited Resources<br>
+<em>Piotr Nawrot</em></p>
+
+<p>PyThaiNLP: Thai Natural Language Processing in Python<br>
+<em>Wannaphong Phatthiyaphaibun, Korakot Chaovavanich, Charin Polpanumas, Ar- thit Suriyawongkul, Lalita Lowphansirikul, Pattarawat Chormai, Peerat Limkon- chotiwat, Thanathip Suntorntip and Can Udomcharoenchaikit</em></p>
+
+<p>Rumour Detection in the Wild: A Browser Extension for Twitter<br>
+<em>Andrej Jovanovic and Björn Ross</em></p>
+
+<p>SOTASTREAM: A Streaming Approach to Machine Translation Training<br>
+<em>Matt Post, Thamme Gowda, Roman Grundkiewicz, Huda Khayrallah, Rohit Jain and Marcin Junczys-Dowmunt</em></p>
+
+<p>Two Decades of the ACL Anthology: Development, Impact, and Open Challenges<br>
+<em>Marcel Bollmann, Nathan Schneider, Arne Ko ̈hn and Matt Post</em></p>
+
+<p>Zelda Rose: a tool for hassle-free training of transformer models<br>
+<em>Loïc Grobol</em></p>
+
+<p>12:15 - 13:45 &nbsp;&nbsp; <strong>Lunch Break </strong> </p>
+<p>13:45 - 14:45 &nbsp;&nbsp; <strong>Invited Talk - SEA-LION (Southeast Asian Languages In One Network): A Family of Southeast Asian Language Models </strong> <br>
+<em>William Tjhi, David Ong and Peerat Limkonchotiwat</em></p>
+
+<p>14:45 - 15:15 &nbsp;&nbsp; <strong>Lightning Session 2 </strong> </p>
+<p>15:15 - 15:30 &nbsp;&nbsp; <strong>Coffee Break </strong> </p> 
+<p>15:30 - 16:15 &nbsp;&nbsp; <strong>Poster Session 2 </strong> </p>
+
+<p>Antarlekhaka: A Comprehensive Tool for Multi-task Natural Language Annotation<br>
+<em>Hrishikesh Terdalkar and Arnab Bhattacharya</em></p>
+
+<p>DeepZensols: A Deep Learning Natural Language Processing Framework for Experimentation and Reproducibility<br>
+<em>Paul Landes, Barbara Di Eugenio and Cornelia Caragea</em></p>
+
+<p>GPT4All: An Ecosystem of Open Source Compressed Language Models<br>
+<em>Yuvanesh Anand, Zach Nussbaum, Adam Treat, Aaron Miller, Richard Guo, Benjamin M Schmidt, Brandon Duderstadt and Andriy Mulyar</em></p>
+
+<p>GPTCache: An Open-Source Semantic Cache for LLM Applications Enabling Faster Answers and Cost Savings<br>
+<em>Fu Bang</em></p>
+
+<p>Improving NER Research Workflows with SeqScore<br>
+<em>Constantine Lignos, Maya Kruse and Andrew Rueda</em></p>
+
+<p>LaTeX Rainbow: Open Source Document Layout Semantic Annotation Framework from LaTeX to PDF<br>
+<em>Changxu Duan and Sabine Bartsch</em></p>
+
+<p>nerblackbox: A High-level Library for Named Entity Recognition in Python<br>
+<em>Felix Stollenwerk</em></p>
+
+<p>News Signals: An NLP Library for Text and Time Series<br>
+<em>Chris Hokamp, Demian Gholipour Ghalandari and Parsa Ghaffari</em></p>
+
+<p>PyTAIL: An Open Source Tool for Interactive and Incremental Learning of NLP Models with Human in the Loop for Online Data<br>
+<em></em></p>
+
+<p>The Vault: A Comprehensive Multilingual Dataset for Advancing Code Understanding and Generation<br>
+<em>Dung Nguyen Manh, Nam Le Hai, Anh T. V. Dau, Anh Minh Nguyen, Khanh Nghiem, Jin Guo and Nghi D. Q. Bui</em></p>
+
+<p>torchdistill Meets Hugging Face Libraries for Reproducible, Coding-free Deep Learning Studies: A Case Study on NLP<br>
+<em>Yoshitomo Matsubara</em></p>
+
+<p>Using Captum to Explain Generative Language Models<br>
+<em>Vivek Miglani, Aobo Yang, Aram H. Markosyan, Diego Garcia-Olano and Narine Kokhlikyan</em></p>
+
+<p>16:15 - 17:15 &nbsp;&nbsp; <strong> Invited Talk - Towards Explainable and Accessible AI </strong><br>
+<em>Brandon Duderstadt and Yuvanesh Anand</em></p>
+
+<p>17:15 - 17:30 Closing Remarks</p>
+
 
 ## Organizers
 
