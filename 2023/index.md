@@ -105,7 +105,7 @@ The 3rd NLP-OSS workshop will be co-located with the EMNLP 2023 conference.
 The timezone for the program schedule below are in **Singapore Time (GMT +8)**.
 
 <p>09:00 - 09:15  &nbsp;&nbsp; <strong> Opening Remarks </strong> </p>
-<p>09:15 - 10:15 &nbsp;&nbsp; <strong> Invited Talk  - trlX: A Framework for Large Scale Open Source RLHF </strong> <br>
+<p>09:15 - 10:15 &nbsp;&nbsp; <strong> Invited Talk  - SEA-LION (Southeast Asian Languages In One Network): A Family of Southeast Asian Language Models </strong> <br>
 <em>William Tjhi, David Ong and Peerat Limkonchotiwat</em></p>
 <p>10:30 - 11:00 &nbsp;&nbsp; <strong>Coffee Break </strong> </p>
 
@@ -154,29 +154,55 @@ The timezone for the program schedule below are in **Singapore Time (GMT +8)**.
 <p>Zelda Rose: a tool for hassle-free training of transformer models<br>
 <em>Loïc Grobol</em></p>
 
-
 <p>12:15 - 13:45 &nbsp;&nbsp; <strong>Lunch Break </strong> </p>
-<p>13:45 - 14:45 &nbsp;&nbsp; <strong>Invited Talk - SEA-LION (Southeast Asian Languages In One Network): A Family of Southeast Asian Language Models </strong> </p>
+<p>13:45 - 14:45 &nbsp;&nbsp; <strong>Invited Talk - StrlX: A Framework for Large Scale Open Source RLHF </strong><br>
+<em>Louis Castricato</em></p>
 
 <p>14:45 - 15:15 &nbsp;&nbsp; <strong>Lightning Session 2 </strong> </p>
 <p>15:15 - 15:30 &nbsp;&nbsp; <strong>Coffee Break </strong> </p> 
 <p>15:30 - 16:15 &nbsp;&nbsp; <strong>Poster Session 2 </strong> </p>
 
-<p>Antarlekhaka: A Comprehensive Tool for Multi-task Natural Language Annotation</p>
-<p>Automated Few-shot Classification with Instruction-Finetuned Language Models</p>
-<p>DeepZensols: A Deep Learning Natural Language Processing Framework for Experimentation and Reproducibility</p>
-<p>GPT4All: An Ecosystem of Open Source Compressed Language Models</p>
-<p>GPTCache: An Open-Source Semantic Cache for LLM Applications Enabling Faster Answers and Cost Savings</p>
-<p>Improving NER Research Workflows with SeqScore</p>
-<p>LaTeX Rainbow: Open Source Document Layout Semantic Annotation Framework from LaTeX to PDF</p>
-<p>nerblackbox: A High-level Library for Named Entity Recognition in Python</p>
-<p>News Signals: An NLP Library for Text and Time Series</p>
-<p>PyTAIL: An Open Source Tool for Interactive and Incremental Learning of NLP Models with Human in the Loop for Online Data</p>
-<p>The Vault: A Comprehensive Multilingual Dataset for Advancing Code Understanding and Generation</p>
-<p>torchdistill Meets Hugging Face Libraries for Reproducible, Coding-free Deep Learning Studies: A Case Study on NLP</p>
-<p>Using Captum to Explain Generative Language Models</p>
+<p>Antarlekhaka: A Comprehensive Tool for Multi-task Natural Language Annotation<br>
+<em>Hrishikesh Terdalkar and Arnab Bhattacharya</em></p>
 
-<p>16:15 - 17:15 &nbsp;&nbsp; <strong> Invited Talk - Towards Explainable and Accessible AI </strong> </p>
+<p>Automated Few-shot Classification with Instruction-Finetuned Language Models<br>
+<em></em></p>
+
+<p>DeepZensols: A Deep Learning Natural Language Processing Framework for Experimentation and Reproducibility<br>
+<em>Paul Landes, Barbara Di Eugenio and Cornelia Caragea</em></p>
+
+<p>GPT4All: An Ecosystem of Open Source Compressed Language Models<br>
+<em>Yuvanesh Anand, Zach Nussbaum, Adam Treat, Aaron Miller, Richard Guo, Benjamin M Schmidt, Brandon Duderstadt and Andriy Mulyar</em></p>
+
+<p>GPTCache: An Open-Source Semantic Cache for LLM Applications Enabling Faster Answers and Cost Savings<br>
+<em>Fu Bang</em></p>
+
+<p>Improving NER Research Workflows with SeqScore<br>
+<em>Constantine Lignos, Maya Kruse and Andrew Rueda</em></p>
+
+<p>LaTeX Rainbow: Open Source Document Layout Semantic Annotation Framework from LaTeX to PDF<br>
+<em>Changxu Duan and Sabine Bartsch</em></p>
+
+<p>nerblackbox: A High-level Library for Named Entity Recognition in Python<br>
+<em>Felix Stollenwerk</em></p>
+
+<p>News Signals: An NLP Library for Text and Time Series<br>
+<em>Chris Hokamp, Demian Gholipour Ghalandari and Parsa Ghaffari</em></p>
+
+<p>PyTAIL: An Open Source Tool for Interactive and Incremental Learning of NLP Models with Human in the Loop for Online Data<br>
+<em></em></p>
+
+<p>The Vault: A Comprehensive Multilingual Dataset for Advancing Code Understanding and Generation<br>
+<em>Dung Nguyen Manh, Nam Le Hai, Anh T. V. Dau, Anh Minh Nguyen, Khanh Nghiem, Jin Guo and Nghi D. Q. Bui</em></p>
+
+<p>torchdistill Meets Hugging Face Libraries for Reproducible, Coding-free Deep Learning Studies: A Case Study on NLP<br>
+<em>Yoshitomo Matsubara</em></p>
+
+<p>Using Captum to Explain Generative Language Models<br>
+<em>Vivek Miglani, Aobo Yang, Aram H. Markosyan, Diego Garcia-Olano and Narine Kokhlikyan</em></p>
+
+<p>16:15 - 17:15 &nbsp;&nbsp; <strong> Invited Talk - Towards Explainable and Accessible AI </strong><br>
+<em>Brandon Duderstadt and Yuvanesh Anand</em></p>
 
 <p>17:15 - 17:30 Closing Remarks</p>
 
