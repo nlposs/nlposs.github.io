@@ -99,10 +99,59 @@ The 3rd NLP-OSS workshop will be co-located with the EMNLP 2023 conference.
 <br><br><br><br>
 
 
-<!-- ## Workshop Program
+## Workshop Program
 <br><br>
 
-The timezone for the program schedule below are in **Singapore Time (GMT +8)**.  -->
+The timezone for the program schedule below are in **Singapore Time (GMT +8)**.
+
+<p>09:00 - 09:15 Opening Remarks </p>
+<p>09:15 - 10:15 Invited Talk  - trlX: A Framework for Large Scale Open Source RLHF </p>
+<p>10:30 - 11:00 Coffee Break </p>
+
+<p>11:00 - 11:30 Lightning Session 1</p>
+<p>11:30 - 12:15 Poster Session 1</p>
+
+<p>An Open-source Web-based Application for Development of Resources and Technologies in Underresourced Languages</p>
+<p>AWARE-TEXT: An Android Package for Mobile Phone Based Text Collection and On-Device Processing</p>
+<p>Beyond the Repo: A Case Study on Open Source Integration with GECToR</p>
+<p>calamanCy: A Tagalog Natural Language Processing Toolkit</p>
+<p>Deepparse : A State-Of-The-Art Library for Parsing Multinational Street Addresses</p>
+<p>EDGAR-CRAWLER: Finding Needles in the Haystack of Financial Documents</p>
+<p>Jina Embeddings: A Novel Set of High-Performance Sentence Embedding Models</p>
+<p>Kani: A Lightweight and Highly Hackable Framework for Language Model Applications</p>
+<p>nanoT5: Fast & Simple Pre-training and Fine-tuning of T5 Models with Limited Resources</p>
+<p>PyThaiNLP: Thai Natural Language Processing in Python</p>
+<p>Rumour Detection in the Wild: A Browser Extension for Twitter</p>
+<p>SOTASTREAM: A Streaming Approach to Machine Translation Training</p>
+<p>Two Decades of the ACL Anthology: Development, Impact, and Open Challenges</p>
+<p>Zelda Rose: a tool for hassle-free training of transformer models</p>
+
+
+<p>12:15 - 13:45 Lunch Break</p>
+<p>13:45 - 14:45 Invited Talk - SEA-LION (Southeast Asian Languages In One Network): A Family of Southeast Asian Language Models</p>
+
+<p>14:45 - 15:15 Lightning Session 2</p>
+<p>15:15 - 15:30 Coffee Break</p> 
+<p>15:30 - 16:15 Poster Session 1</p>
+
+<p>Antarlekhaka: A Comprehensive Tool for Multi-task Natural Language Annotation</p>
+<p>Automated Few-shot Classification with Instruction-Finetuned Language Models</p>
+<p>DeepZensols: A Deep Learning Natural Language Processing Framework for Experimentation and Reproducibility</p>
+<p>GPT4All: An Ecosystem of Open Source Compressed Language Models</p>
+<p>GPTCache: An Open-Source Semantic Cache for LLM Applications Enabling Faster Answers and Cost Savings</p>
+<p>Improving NER Research Workflows with SeqScore</p>
+<p>LaTeX Rainbow: Open Source Document Layout Semantic Annotation Framework from LaTeX to PDF</p>
+<p>nerblackbox: A High-level Library for Named Entity Recognition in Python</p>
+<p>News Signals: An NLP Library for Text and Time Series</p>
+<p>PyTAIL: An Open Source Tool for Interactive and Incremental Learning of NLP Models with Human in the Loop for Online Data</p>
+<p>The Vault: A Comprehensive Multilingual Dataset for Advancing Code Understanding and Generation</p>
+<p>torchdistill Meets Hugging Face Libraries for Reproducible, Coding-free Deep Learning Studies: A Case Study on NLP</p>
+<p>Using Captum to Explain Generative Language Models</p>
+
+<p>16:15 - 17:15 Invited Talk - Towards Explainable and Accessible AI</p>
+
+<p>17:15 - 17:30 Closing Remarks</p>
+
 
 ## Organizers
 
