@@ -138,8 +138,7 @@ Large language models (LLMs) have recently achieved human-level performance on a
 
 <br><br><br><br>
 
-
-<br><br>
+## Workshop Program
 
 The timezone for the program schedule below are in **Singapore Time (GMT +8)**.
 
