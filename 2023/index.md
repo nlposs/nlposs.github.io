@@ -111,20 +111,33 @@ The timezone for the program schedule below are in **Singapore Time (GMT +8)**.
 <p>11:00 - 11:30 &nbsp;&nbsp; <strong> Lightning Session 1 </strong> </p>
 <p>11:30 - 12:15 &nbsp;&nbsp; <strong>Poster Session 1 </strong> </p>
 
-<p>An Open-source Web-based Application for Development of Resources and Technologies in Underresourced Languages</p>
-<p>AWARE-TEXT: An Android Package for Mobile Phone Based Text Collection and On-Device Processing</p>
-<p>Beyond the Repo: A Case Study on Open Source Integration with GECToR</p>
-<p>calamanCy: A Tagalog Natural Language Processing Toolkit</p>
-<p>Deepparse : A State-Of-The-Art Library for Parsing Multinational Street Addresses</p>
-<p>EDGAR-CRAWLER: Finding Needles in the Haystack of Financial Documents</p>
-<p>Jina Embeddings: A Novel Set of High-Performance Sentence Embedding Models</p>
-<p>Kani: A Lightweight and Highly Hackable Framework for Language Model Applications</p>
+<p>An Open-source Web-based Application for Development of Resources and Technologies in Underresourced Languages<br>
+<em></em></p>
+<p>AWARE-TEXT: An Android Package for Mobile Phone Based Text Collection and On-Device Processing<br>
+<em></em></p>
+<p>Beyond the Repo: A Case Study on Open Source Integration with GECToR<br>
+<em></em></p>
+<p>calamanCy: A Tagalog Natural Language Processing Toolkit<br>
+<em></em></p>
+<p>Deepparse : A State-Of-The-Art Library for Parsing Multinational Street Addresses<br>
+<em></em></p>
+<p>EDGAR-CRAWLER: Finding Needles in the Haystack of Financial Documents<br>
+<em></em></p>
+<p>Jina Embeddings: A Novel Set of High-Performance Sentence Embedding Models<br>
+<em></em></p>
+<p>Kani: A Lightweight and Highly Hackable Framework for Language Model Applications<br>
+<em></em></p>
 <p>nanoT5: Fast & Simple Pre-training and Fine-tuning of T5 Models with Limited Resources</p>
-<p>PyThaiNLP: Thai Natural Language Processing in Python</p>
-<p>Rumour Detection in the Wild: A Browser Extension for Twitter</p>
-<p>SOTASTREAM: A Streaming Approach to Machine Translation Training</p>
-<p>Two Decades of the ACL Anthology: Development, Impact, and Open Challenges</p>
-<p>Zelda Rose: a tool for hassle-free training of transformer models</p>
+<p>PyThaiNLP: Thai Natural Language Processing in Python<br>
+<em></em></p>
+<p>Rumour Detection in the Wild: A Browser Extension for Twitter<br>
+<em></em></p>
+<p>SOTASTREAM: A Streaming Approach to Machine Translation Training<br>
+<em></em></p>
+<p>Two Decades of the ACL Anthology: Development, Impact, and Open Challenges<br>
+<em></em></p>
+<p>Zelda Rose: a tool for hassle-free training of transformer models<br>
+<em></em></p>
 
 
 <p>12:15 - 13:45 &nbsp;&nbsp; <strong>Lunch Break </strong> </p>
