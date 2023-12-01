@@ -105,8 +105,8 @@ The 3rd NLP-OSS workshop will be co-located with the EMNLP 2023 conference.
 The timezone for the program schedule below are in **Singapore Time (GMT +8)**.
 
 <p>09:00 - 09:15  &nbsp;&nbsp; <strong> Opening Remarks </strong> </p>
-<p>09:15 - 10:15 &nbsp;&nbsp; <strong> Invited Talk  - SEA-LION (Southeast Asian Languages In One Network): A Family of Southeast Asian Language Models </strong> <br>
-<em>William Tjhi, David Ong and Peerat Limkonchotiwat</em></p>
+<p>09:15 - 10:15 &nbsp;&nbsp; <strong> Invited Talk  - trlX: A Framework for Large Scale Open Source RLHF </strong><br>
+<em>Louis Castricato</em></p>
 <p>10:30 - 11:00 &nbsp;&nbsp; <strong>Coffee Break </strong> </p>
 
 <p>11:00 - 11:30 &nbsp;&nbsp; <strong> Lightning Session 1 </strong> </p>
@@ -155,8 +155,8 @@ The timezone for the program schedule below are in **Singapore Time (GMT +8)**.
 <em>Loïc Grobol</em></p>
 
 <p>12:15 - 13:45 &nbsp;&nbsp; <strong>Lunch Break </strong> </p>
-<p>13:45 - 14:45 &nbsp;&nbsp; <strong>Invited Talk - StrlX: A Framework for Large Scale Open Source RLHF </strong><br>
-<em>Louis Castricato</em></p>
+<p>13:45 - 14:45 &nbsp;&nbsp; <strong>Invited Talk - SEA-LION (Southeast Asian Languages In One Network): A Family of Southeast Asian Language Models </strong> <br>
+<em>William Tjhi, David Ong and Peerat Limkonchotiwat</em></p>
 
 <p>14:45 - 15:15 &nbsp;&nbsp; <strong>Lightning Session 2 </strong> </p>
 <p>15:15 - 15:30 &nbsp;&nbsp; <strong>Coffee Break </strong> </p> 
