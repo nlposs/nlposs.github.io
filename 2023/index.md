@@ -104,12 +104,12 @@ The 3rd NLP-OSS workshop will be co-located with the EMNLP 2023 conference.
 
 The timezone for the program schedule below are in **Singapore Time (GMT +8)**.
 
-<p>09:00 - 09:15 Opening Remarks </p>
-<p>09:15 - 10:15 Invited Talk  - trlX: A Framework for Large Scale Open Source RLHF </p>
-<p>10:30 - 11:00 Coffee Break </p>
+<p>09:00 - 09:15  &nbsp;&nbsp; <strong> Opening Remarks </strong> </p>
+<p>09:15 - 10:15 &nbsp;&nbsp; <strong> Invited Talk  - trlX: A Framework for Large Scale Open Source RLHF </strong> </p>
+<p>10:30 - 11:00 &nbsp;&nbsp; <strong>Coffee Break </strong> </p>
 
-<p>11:00 - 11:30 Lightning Session 1</p>
-<p>11:30 - 12:15 Poster Session 1</p>
+<p>11:00 - 11:30 &nbsp;&nbsp; <strong> Lightning Session 1 </strong> </p>
+<p>11:30 - 12:15 &nbsp;&nbsp; <strong>Poster Session 1 </strong> </p>
 
 <p>An Open-source Web-based Application for Development of Resources and Technologies in Underresourced Languages</p>
 <p>AWARE-TEXT: An Android Package for Mobile Phone Based Text Collection and On-Device Processing</p>
@@ -127,12 +127,12 @@ The timezone for the program schedule below are in **Singapore Time (GMT +8)**.
 <p>Zelda Rose: a tool for hassle-free training of transformer models</p>
 
 
-<p>12:15 - 13:45 Lunch Break</p>
-<p>13:45 - 14:45 Invited Talk - SEA-LION (Southeast Asian Languages In One Network): A Family of Southeast Asian Language Models</p>
+<p>12:15 - 13:45 &nbsp;&nbsp; <strong>Lunch Break </strong> </p>
+<p>13:45 - 14:45 &nbsp;&nbsp; <strong>Invited Talk - SEA-LION (Southeast Asian Languages In One Network): A Family of Southeast Asian Language Models </strong> </p>
 
-<p>14:45 - 15:15 Lightning Session 2</p>
-<p>15:15 - 15:30 Coffee Break</p> 
-<p>15:30 - 16:15 Poster Session 1</p>
+<p>14:45 - 15:15 &nbsp;&nbsp; <strong>Lightning Session 2 </strong> </p>
+<p>15:15 - 15:30 &nbsp;&nbsp; <strong>Coffee Break </strong> </p> 
+<p>15:30 - 16:15 &nbsp;&nbsp; <strong>Poster Session 2 </strong> </p>
 
 <p>Antarlekhaka: A Comprehensive Tool for Multi-task Natural Language Annotation</p>
 <p>Automated Few-shot Classification with Instruction-Finetuned Language Models</p>
@@ -148,7 +148,7 @@ The timezone for the program schedule below are in **Singapore Time (GMT +8)**.
 <p>torchdistill Meets Hugging Face Libraries for Reproducible, Coding-free Deep Learning Studies: A Case Study on NLP</p>
 <p>Using Captum to Explain Generative Language Models</p>
 
-<p>16:15 - 17:15 Invited Talk - Towards Explainable and Accessible AI</p>
+<p>16:15 - 17:15 &nbsp;&nbsp; <strong> Invited Talk - Towards Explainable and Accessible AI </strong> </p>
 
 <p>17:15 - 17:30 Closing Remarks</p>
 
