@@ -194,7 +194,7 @@ The timezone for the program schedule below are in **Singapore Time (GMT +8)**.
 
 <p>12:15 - 13:45 &nbsp;&nbsp; <strong> Lunch Break </strong> </p>
 <p>13:45 - 14:45 &nbsp;&nbsp; <strong> Invited Talk - SEA-LION (Southeast Asian Languages In One Network): A Family of Southeast Asian Language Models </strong> <br>
-<em>William Tjhi, David Ong and Peerat Limkonchotiwat</em></p>
+<em>David Ong and Peerat Limkonchotiwat</em></p>
 
 <p>14:45 - 15:15 &nbsp;&nbsp; <strong> Lightning Session 2 </strong> </p>
 <p>15:15 - 15:30 &nbsp;&nbsp; <strong> Coffee Break </strong> </p> 
@@ -225,7 +225,7 @@ The timezone for the program schedule below are in **Singapore Time (GMT +8)**.
 <em>Chris Hokamp, Demian Gholipour Ghalandari and Parsa Ghaffari</em></p>
 
 <p>PyTAIL: An Open Source Tool for Interactive and Incremental Learning of NLP Models with Human in the Loop for Online Data<br>
-<em></em></p>
+<em>Shubhanshu Mishra, Jana Diesner</em></p>
 
 <p>The Vault: A Comprehensive Multilingual Dataset for Advancing Code Understanding and Generation<br>
 <em>Dung Nguyen Manh, Nam Le Hai, Anh T. V. Dau, Anh Minh Nguyen, Khanh Nghiem, Jin Guo and Nghi D. Q. Bui</em></p>
