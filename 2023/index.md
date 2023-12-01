@@ -134,22 +134,25 @@ The timezone for the program schedule below are in **Singapore Time (GMT +8)**.
 <em>Michael Günther, Georgios Mastrapas, Bo Wang, Han Xiao and Jonathan Geuter</em></p>
 
 <p>Kani: A Lightweight and Highly Hackable Framework for Language Model Applications<br>
-<em></em></p>
+<em>Andrew Zhu, Liam Dugan, Alyssa Hwang and Chris Callison-Burch</em></p>
 
 <p>nanoT5: Fast & Simple Pre-training and Fine-tuning of T5 Models with Limited Resources<br>
-<em></em></p>
-
+<em>Piotr Nawrot</em></p>
 
 <p>PyThaiNLP: Thai Natural Language Processing in Python<br>
-<em></em></p>
+<em>Wannaphong Phatthiyaphaibun, Korakot Chaovavanich, Charin Polpanumas, Ar- thit Suriyawongkul, Lalita Lowphansirikul, Pattarawat Chormai, Peerat Limkon- chotiwat, Thanathip Suntorntip and Can Udomcharoenchaikit</em></p>
+
 <p>Rumour Detection in the Wild: A Browser Extension for Twitter<br>
-<em></em></p>
+<em>Andrej Jovanovic and Björn Ross</em></p>
+
 <p>SOTASTREAM: A Streaming Approach to Machine Translation Training<br>
-<em></em></p>
+<em>Matt Post, Thamme Gowda, Roman Grundkiewicz, Huda Khayrallah, Rohit Jain and Marcin Junczys-Dowmunt</em></p>
+
 <p>Two Decades of the ACL Anthology: Development, Impact, and Open Challenges<br>
-<em></em></p>
+<em>Marcel Bollmann, Nathan Schneider, Arne Ko ̈hn and Matt Post</em></p>
+
 <p>Zelda Rose: a tool for hassle-free training of transformer models<br>
-<em></em></p>
+<em>Loïc Grobol</em></p>
 
 
 <p>12:15 - 13:45 &nbsp;&nbsp; <strong>Lunch Break </strong> </p>
