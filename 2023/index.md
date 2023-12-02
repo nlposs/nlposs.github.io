@@ -178,7 +178,7 @@ The timezone for the program schedule below are in **Singapore Time (GMT +8)**.
 <em>Piotr Nawrot</em></p>
 
 <p>PyThaiNLP: Thai Natural Language Processing in Python<br>
-<em>Wannaphong Phatthiyaphaibun, Korakot Chaovavanich, Charin Polpanumas, Ar- thit Suriyawongkul, Lalita Lowphansirikul, Pattarawat Chormai, Peerat Limkon- chotiwat, Thanathip Suntorntip and Can Udomcharoenchaikit</em></p>
+<em>Wannaphong Phatthiyaphaibun, Korakot Chaovavanich, Charin Polpanumas, Arthit Suriyawongkul, Lalita Lowphansirikul, Pattarawat Chormai, Peerat Limkonchotiwat, Thanathip Suntorntip and Can Udomcharoenchaikit</em></p>
 
 <p>Rumour Detection in the Wild: A Browser Extension for Twitter<br>
 <em>Andrej Jovanovic and Björn Ross</em></p>
