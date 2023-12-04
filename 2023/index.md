@@ -113,7 +113,7 @@ Reinforcement learning from human feedback (RLHF) utilizes human feedback to bet
 <img src="https://media.licdn.com/dms/image/D5603AQHZy00zzEXLpw/profile-displayphoto-shrink_800_800/0/1696914036130?e=1706745600&v=beta&t=z6VWv5M84ITmdjL6UMba3ekyveEqnQzaCcTVhln2tZU" align="left" style="margin-right: 32px; margin-bottom: 16px;" width=160px height=159px >
 </p>
 <h4> Bio </h4>
-<p>Peerat Limkonchotiwat is a Ph.D. student in information science and technology (IST) at VIS-TEC, Thailand. He contributes to the WangchanX project, a Thai NLP group developing applications, that comprises Thai sentence embedding benchmarks, Thai text processing datasets (VISTEC-TPTH-2021 and NNER-TH), and WangchanGLM and Wangchan-Sealion generative models.
+<p>Peerat Limkonchotiwat is a Ph.D. student in information science and technology (IST) at VISTEC, Thailand. He contributes to the WangchanX project, a Thai NLP group developing applications, that comprises Thai sentence embedding benchmarks, Thai text processing datasets (VISTEC-TPTH-2021 and NNER-TH), and WangchanGLM and Wangchan-Sealion generative models.
 </p>
 
 <br><br><br><br>
