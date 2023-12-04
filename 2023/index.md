@@ -186,9 +186,6 @@ The timezone for the program schedule below are in **Singapore Time (GMT +8)**.
 <p>SOTASTREAM: A Streaming Approach to Machine Translation Training<br>
 <em>Matt Post, Thamme Gowda, Roman Grundkiewicz, Huda Khayrallah, Rohit Jain and Marcin Junczys-Dowmunt</em></p>
 
-<p>Two Decades of the ACL Anthology: Development, Impact, and Open Challenges<br>
-<em>Marcel Bollmann, Nathan Schneider, Arne Ko ̈hn and Matt Post</em></p>
-
 <p>Zelda Rose: a tool for hassle-free training of transformer models<br>
 <em>Loïc Grobol</em></p>
 
@@ -229,6 +226,9 @@ The timezone for the program schedule below are in **Singapore Time (GMT +8)**.
 
 <p>The Vault: A Comprehensive Multilingual Dataset for Advancing Code Understanding and Generation<br>
 <em>Dung Nguyen Manh, Nam Le Hai, Anh T. V. Dau, Anh Minh Nguyen, Khanh Nghiem, Jin Guo and Nghi D. Q. Bui</em></p>
+
+<p>Two Decades of the ACL Anthology: Development, Impact, and Open Challenges<br>
+<em>Marcel Bollmann, Nathan Schneider, Arne Ko ̈hn and Matt Post</em></p>
 
 <p>torchdistill Meets Hugging Face Libraries for Reproducible, Coding-free Deep Learning Studies: A Case Study on NLP<br>
 <em>Yoshitomo Matsubara</em></p>
