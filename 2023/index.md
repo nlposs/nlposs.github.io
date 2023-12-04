@@ -88,7 +88,7 @@ The 3rd NLP-OSS workshop will be co-located with the EMNLP 2023 conference.
 <h3><strong>trlX: A Framework for Large Scale Open Source RLHF</strong> </h3>
 <h3><a href="https://www.louiscastricato.com/">Louis Castricato</a> </h3>
 <br>
-Reinforcement learning from human feedback (RLHF) utilizes human feedback to better align large language models with human preferences via online optimization against a learned re- ward model. Current RLHF paradigms rely on Proximal Policy Optimization (PPO), which quickly becomes a challenge to implement and scale up to large architectures. To address this difficulty we created the <i><a href="https://github.com/CarperAI/trlx">trlX library</a> as a feature-complete open-source framework for RLHF fine-tuning of models up to and exceeding 70 billion parameters. This talk presents the trlX implementation that supports for multiple types of dis- tributed training including distributed data par- allel, model sharded, as well as tensor, sequential, and pipeline parallelism.
+Reinforcement learning from human feedback (RLHF) utilizes human feedback to better align large language models with human preferences via online optimization against a learned re- ward model. Current RLHF paradigms rely on Proximal Policy Optimization (PPO), which quickly becomes a challenge to implement and scale up to large architectures. To address this difficulty we created the <i><a href="https://github.com/CarperAI/trlx">trlX library</a></i> as a feature-complete open-source framework for RLHF fine-tuning of models up to and exceeding 70 billion parameters. This talk presents the trlX implementation that supports for multiple types of distributed training including distributed data par- allel, model sharded, as well as tensor, sequential, and pipeline parallelism.
 <br><br>
 <p>
 <img src="https://static.wixstatic.com/media/f27bfa_22c58165c6eb4eac9a166487c54c0fd2~mv2.png/v1/crop/x_46,y_0,w_661,h_960/fill/w_625,h_960,al_c,q_90,enc_auto/coffee.png" align="left" style="margin-right: 32px; margin-bottom: 16px;" width=120px height=159px >
@@ -101,7 +101,7 @@ Reinforcement learning from human feedback (RLHF) utilizes human feedback to bet
 <h3><strong></strong>Southeast Asia LLMs: SEA-LION and Wangchan-LION</h3>
 <h3> <a href="https://www.linkedin.com/in/david-ong-tw">David Tat-Wee Ong</a> and <a href="https://www.linkedin.com/in/peerat-limkonchotiwat">Peerat Limkonchotiwat</a> </h3>
 <br>
-<i><a href="https://github.com/aisingapore/sealion">SEA-LION</a> (Southeast Asian Languages In One Network) is a family of multilingual LLMs that is specifically pre-trained and instruct-tuned for the South- east Asian (SEA) region, incorporating a custom SEABPETokenizer which is specially tailored for SEA languages. The first part of this talk will cover our design philosophy and pre-training methodology for SEA- LION. The second part of this talk will cover <i><a href="https://github.com/PyThaiNLP/pythainlp">PyThaiNLP's</a> work on Wangchan-LION, an instruct-tuned version of SEA-LION for the Thai community.
+<i><a href="https://github.com/aisingapore/sealion">SEA-LION</a></i>i> (Southeast Asian Languages In One Network) is a family of multilingual LLMs that is specifically pre-trained and instruct-tuned for the South- east Asian (SEA) region, incorporating a custom SEABPETokenizer which is specially tailored for SEA languages. The first part of this talk will cover our design philosophy and pre-training methodology for SEA- LION. The second part of this talk will cover <i><a href="https://github.com/PyThaiNLP/pythainlp">PyThaiNLP's</a></i>i> work on Wangchan-LION, an instruct-tuned version of SEA-LION for the Thai community.
 <br><br>
 <p>
 <img src="https://avatars.githubusercontent.com/u/13075447?v=4" align="left" style="margin-right: 32px; margin-bottom: 16px;" width=160px height=159px >
@@ -122,7 +122,7 @@ Reinforcement learning from human feedback (RLHF) utilizes human feedback to bet
 <h3><strong></strong>Towards Explainable and Accessible AI</h3>
 <h3> <a href="">Brandon Duderstadt</a> and <a href="">Yuvanesh Anand</a> </h3>
 <br>
-Large language models (LLMs) have recently achieved human-level performance on a range of professional and academic benchmarks. Unfortunately, the explainability and accessibility of these models has lagged behind their performance. State-of-the-art LLMs require costly infrastructure, are only accessible via rate-limited, geo-locked, and censored web interfaces, and lack publicly available code and technical reports. Moreover, the lack of tooling for understanding the massive datasets used to train and produced by LLMs presents a critical challenge for explainability research. This talk will be an overview of Nomic AI’s efforts to address these challenges through its two core initiatives: <i><a href="https://gpt4all.io/index.html">GPT4All</a> and Atlas.
+Large language models (LLMs) have recently achieved human-level performance on a range of professional and academic benchmarks. Unfortunately, the explainability and accessibility of these models has lagged behind their performance. State-of-the-art LLMs require costly infrastructure, are only accessible via rate-limited, geo-locked, and censored web interfaces, and lack publicly available code and technical reports. Moreover, the lack of tooling for understanding the massive datasets used to train and produced by LLMs presents a critical challenge for explainability research. This talk will be an overview of Nomic AI’s efforts to address these challenges through its two core initiatives: <i><a href="https://gpt4all.io/index.html">GPT4All</a></i>i> and Atlas.
 <br><br>
 <p>
 <img src="https://media.licdn.com/dms/image/D4D03AQHyR6H00mNdEw/profile-displayphoto-shrink_800_800/0/1701199312557?e=1706745600&v=beta&t=EsvRjv7WhTuzYpGCjX4mlkJmG3jtNnSI6T3UUZJJqEc" align="left" style="margin-right: 32px; margin-bottom: 16px;" width=140px height=159px >
@@ -241,6 +241,8 @@ The timezone for the program schedule below are in **Singapore Time (GMT +8)**.
 
 <p>17:15 - 17:30 &nbsp;&nbsp; <strong> Closing Remarks</strong></p>
 
+<strong>Note:</strong> Please to <a href="">Hybrid In-Person & Virtual Workshop Format"</a> section for instructions on how to access the both in-person and virtual workshop content.
+
 
 ## Organizers
 
@@ -328,3 +330,26 @@ The timezone for the program schedule below are in **Singapore Time (GMT +8)**.
 [**First Workshop for Natural Language Processing Open Source Software** (NLP-OSS 2018)](../2018) <br>
 \[[Proceedings](https://www.aclweb.org/anthology/volumes/W18-25/)\]
 
+
+## Hybrid In-Person & Virtual Workshop Format
+
+The most <strong>up-to-date and canonical schedule for the workshop</strong> will be https://nlposs.github.io/2023/index.html#workshop-program All sessions will listed at in Singapore (GMT +8) time. 
+
+To access the <strong>virtual conference</strong>, 
+
+ - Attendees should have at least one author signed up on the EMNLP registration https://2023.emnlp.org/registration/
+ - The main page to access the virtual conference is https://virtual2023.emnlp.org/
+ - The main page to access the content of the NLP-OSS workshop is https://underline.io/events/431/sessions?searchGroup=lecture&eventSessionId=16447
+
+
+During the workshop, <strong>all live in-person sessions will be streamed</strong> through the zoom link on https://underline.io/events/431/sessions?searchGroup=lecture&eventSessionId=16447 (through the “Join Live Session” button).
+
+Live sessions includes (i) opening and closing remarks, (ii) invited talks (presenter will be in person but streamed live), and (iii) lightning sessions. To keep our schedule on-time, we’ll try keep a strict max 5 mins to the lightning sessions.
+
+Then during the <strong>poster sessions</strong>, 
+
+ - In-person presenters will proceed to the poster boards assigned by the workshop organisers.
+ - Virtual presenters will login to their individual channels in https://underline.io/events/431/sessions?searchGroup=lecture&eventSessionId=16447 and interact through chat our video call (we are seeing that the video call option on underline.io isn’t working yet, we’ll reconfirm with the conference admin asap)
+
+
+Thank you everyone again for the various procedures considerations taken to make sure that both in-person and virtual attendees get the most of our the workshop. This is our first time organising a mix-hybrid mode workshop, we ask for your understanding for any inconvenience caused.
