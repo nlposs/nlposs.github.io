@@ -180,14 +180,16 @@ The timezone for the program schedule below are in **Singapore Time (GMT +8)**.
 <p>PyThaiNLP: Thai Natural Language Processing in Python<br>
 <em>Wannaphong Phatthiyaphaibun, Korakot Chaovavanich, Charin Polpanumas, Arthit Suriyawongkul, Lalita Lowphansirikul, Pattarawat Chormai, Peerat Limkonchotiwat, Thanathip Suntorntip and Can Udomcharoenchaikit</em></p>
 
-<p>Rumour Detection in the Wild: A Browser Extension for Twitter<br>
-<em>Andrej Jovanovic and Björn Ross</em></p>
 
 <p>SOTASTREAM: A Streaming Approach to Machine Translation Training<br>
 <em>Matt Post, Thamme Gowda, Roman Grundkiewicz, Huda Khayrallah, Rohit Jain and Marcin Junczys-Dowmunt</em></p>
 
-<p>Zelda Rose: a tool for hassle-free training of transformer models<br>
-<em>Loïc Grobol</em></p>
+<!-- <p>Zelda Rose: a tool for hassle-free training of transformer models<br>
+<em>Loïc Grobol</em></p> -->
+
+<p>The Vault: A Comprehensive Multilingual Dataset for Advancing Code Understanding and Generation<br>
+<em>Dung Nguyen Manh, Nam Le Hai, Anh T. V. Dau, Anh Minh Nguyen, Khanh Nghiem, Jin Guo and Nghi D. Q. Bui</em></p>
+
 
 <p>12:15 - 13:45 &nbsp;&nbsp; <strong> Lunch Break </strong> </p>
 <p>13:45 - 14:45 &nbsp;&nbsp; <strong> Invited Talk - SEA-LION (Southeast Asian Languages In One Network): A Family of Southeast Asian Language Models </strong> <br>
@@ -224,8 +226,8 @@ The timezone for the program schedule below are in **Singapore Time (GMT +8)**.
 <p>PyTAIL: An Open Source Tool for Interactive and Incremental Learning of NLP Models with Human in the Loop for Online Data<br>
 <em>Shubhanshu Mishra, Jana Diesner</em></p>
 
-<p>The Vault: A Comprehensive Multilingual Dataset for Advancing Code Understanding and Generation<br>
-<em>Dung Nguyen Manh, Nam Le Hai, Anh T. V. Dau, Anh Minh Nguyen, Khanh Nghiem, Jin Guo and Nghi D. Q. Bui</em></p>
+<p>Rumour Detection in the Wild: A Browser Extension for Twitter<br>
+<em>Andrej Jovanovic and Björn Ross</em></p>
 
 <p>Two Decades of the ACL Anthology: Development, Impact, and Open Challenges<br>
 <em>Marcel Bollmann, Nathan Schneider, Arne Ko ̈hn and Matt Post</em></p>
