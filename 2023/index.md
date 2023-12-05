@@ -243,7 +243,7 @@ The timezone for the program schedule below are in **Singapore Time (GMT +8)**.
 
 <p>17:15 - 17:30 &nbsp;&nbsp; <strong> Closing Remarks</strong></p>
 
-<strong>Note:</strong> Please to <a href="">Hybrid In-Person & Virtual Workshop Format"</a> section for instructions on how to access the both in-person and virtual workshop content.
+<strong>Note:</strong> Please to <a href="https://nlposs.github.io/2023/index.html#hybrid-in-person--virtual-workshop-format">Hybrid In-Person & Virtual Workshop Format"</a> section for instructions on how to access the both in-person and virtual workshop content.
 
 
 ## Organizers
