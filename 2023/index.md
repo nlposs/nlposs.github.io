@@ -168,9 +168,6 @@ The timezone for the program schedule below are in **Singapore Time (GMT +8)**.
 <p>EDGAR-CRAWLER: Finding Needles in the Haystack of Financial Documents<br>
 <em>Lefteris Loukas, Manos Fergadiotis and Prodromos Malakasiotis</em></p>
 
-<p>Jina Embeddings: A Novel Set of High-Performance Sentence Embedding Models<br>
-<em>Michael Günther, Georgios Mastrapas, Bo Wang, Han Xiao and Jonathan Geuter</em></p>
-
 <p>Kani: A Lightweight and Highly Hackable Framework for Language Model Applications<br>
 <em>Andrew Zhu, Liam Dugan, Alyssa Hwang and Chris Callison-Burch</em></p>
 
@@ -213,6 +210,9 @@ The timezone for the program schedule below are in **Singapore Time (GMT +8)**.
 
 <p>Improving NER Research Workflows with SeqScore<br>
 <em>Constantine Lignos, Maya Kruse and Andrew Rueda</em></p>
+
+<p>Jina Embeddings: A Novel Set of High-Performance Sentence Embedding Models<br>
+<em>Michael Günther, Georgios Mastrapas, Bo Wang, Han Xiao and Jonathan Geuter</em></p>
 
 <p>LaTeX Rainbow: Open Source Document Layout Semantic Annotation Framework from LaTeX to PDF<br>
 <em>Changxu Duan and Sabine Bartsch</em></p>
