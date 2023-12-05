@@ -165,9 +165,6 @@ The timezone for the program schedule below are in **Singapore Time (GMT +8)**.
 <p>Deepparse: A State-Of-The-Art Library for Parsing Multinational Street Addresses<br>
 <em>David Beauchemin</em></p>
 
-<p>EDGAR-CRAWLER: Automating Financial Data Harvesting and Preprocessing for NLP<br>
-<em>Lefteris Loukas, Manos Fergadiotis and Prodromos Malakasiotis</em></p>
-
 <p>Empowering Knowledge Discovery from Scientific Literature: A novel approach to Research Artifact Analysis<br>
 <em>Petros Stavropoulos, Ioannis Lyris, Natalia Manola, Ioanna Grypari, Haris Papageorgiou</em></p>
 
@@ -204,6 +201,9 @@ The timezone for the program schedule below are in **Singapore Time (GMT +8)**.
 
 <p>DeepZensols: A Deep Learning Natural Language Processing Framework for Experimentation and Reproducibility<br>
 <em>Paul Landes, Barbara Di Eugenio and Cornelia Caragea</em></p>
+
+<p>EDGAR-CRAWLER: Automating Financial Data Harvesting and Preprocessing for NLP<br>
+<em>Lefteris Loukas, Manos Fergadiotis and Prodromos Malakasiotis</em></p>
 
 <p>GPT4All: An Ecosystem of Open Source Compressed Language Models<br>
 <em>Yuvanesh Anand, Zach Nussbaum, Adam Treat, Aaron Miller, Richard Guo, Benjamin M Schmidt, Brandon Duderstadt and Andriy Mulyar</em></p>
