@@ -101,7 +101,7 @@ Reinforcement learning from human feedback (RLHF) utilizes human feedback to bet
 <h3><strong></strong>Southeast Asia LLMs: SEA-LION and Wangchan-LION</h3>
 <h3> <a href="https://www.linkedin.com/in/david-ong-tw">David Tat-Wee Ong</a> and <a href="https://www.linkedin.com/in/peerat-limkonchotiwat">Peerat Limkonchotiwat</a> </h3>
 <br>
-<i><a href="https://github.com/aisingapore/sealion">SEA-LION</a></i>i> (Southeast Asian Languages In One Network) is a family of multilingual LLMs that is specifically pre-trained and instruct-tuned for the South- east Asian (SEA) region, incorporating a custom SEABPETokenizer which is specially tailored for SEA languages. The first part of this talk will cover our design philosophy and pre-training methodology for SEA- LION. The second part of this talk will cover <i><a href="https://github.com/PyThaiNLP/pythainlp">PyThaiNLP's</a></i>i> work on Wangchan-LION, an instruct-tuned version of SEA-LION for the Thai community.
+<i><a href="https://github.com/aisingapore/sealion">SEA-LION</a></i> (Southeast Asian Languages In One Network) is a family of multilingual LLMs that is specifically pre-trained and instruct-tuned for the South- east Asian (SEA) region, incorporating a custom SEABPETokenizer which is specially tailored for SEA languages. The first part of this talk will cover our design philosophy and pre-training methodology for SEA- LION. The second part of this talk will cover <i><a href="https://github.com/PyThaiNLP/pythainlp">PyThaiNLP's</a></i> work on Wangchan-LION, an instruct-tuned version of SEA-LION for the Thai community.
 <br><br>
 <p>
 <img src="https://avatars.githubusercontent.com/u/13075447?v=4" align="left" style="margin-right: 32px; margin-bottom: 16px;" width=160px height=159px >
@@ -113,7 +113,7 @@ Reinforcement learning from human feedback (RLHF) utilizes human feedback to bet
 <img src="https://media.licdn.com/dms/image/D5603AQHZy00zzEXLpw/profile-displayphoto-shrink_800_800/0/1696914036130?e=1706745600&v=beta&t=z6VWv5M84ITmdjL6UMba3ekyveEqnQzaCcTVhln2tZU" align="left" style="margin-right: 32px; margin-bottom: 16px;" width=160px height=159px >
 </p>
 <h4> Bio </h4>
-<p>Peerat Limkonchotiwat is a Ph.D. student in information science and technology (IST) at VIS-TEC, Thailand. He contributes to the WangchanX project, a Thai NLP group developing applications, that comprises Thai sentence embedding benchmarks, Thai text processing datasets (VISTEC-TPTH-2021 and NNER-TH), and WangchanGLM and Wangchan-Sealion generative models.
+<p>Peerat Limkonchotiwat is a Ph.D. student in information science and technology (IST) at VISTEC, Thailand. He contributes to the WangchanX project, a Thai NLP group developing applications, that comprises Thai sentence embedding benchmarks, Thai text processing datasets (VISTEC-TPTH-2021 and NNER-TH), and WangchanGLM and Wangchan-Sealion generative models.
 </p>
 
 <br><br><br><br>
