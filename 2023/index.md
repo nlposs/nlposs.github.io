@@ -165,7 +165,7 @@ The timezone for the program schedule below are in **Singapore Time (GMT +8)**.
 <p>Deepparse: A State-Of-The-Art Library for Parsing Multinational Street Addresses<br>
 <em>David Beauchemin</em></p>
 
-<p>EDGAR-CRAWLER: Finding Needles in the Haystack of Financial Documents<br>
+<p>EDGAR-CRAWLER: Automating Financial Data Harvesting and Preprocessing for NLP<br>
 <em>Lefteris Loukas, Manos Fergadiotis and Prodromos Malakasiotis</em></p>
 
 <p>Empowering Knowledge Discovery from Scientific Literature: A novel approach to Research Artifact Analysis<br>
