@@ -168,6 +168,9 @@ The timezone for the program schedule below are in **Singapore Time (GMT +8)**.
 <p>EDGAR-CRAWLER: Finding Needles in the Haystack of Financial Documents<br>
 <em>Lefteris Loukas, Manos Fergadiotis and Prodromos Malakasiotis</em></p>
 
+<p>Empowering Knowledge Discovery from Scientific Literature: A novel approach to Research Artifact Analysis<br>
+<em>Petros Stavropoulos, Ioannis Lyris, Natalia Manola, Ioanna Grypari, Haris Papageorgiou</em></p>
+
 <p>Kani: A Lightweight and Highly Hackable Framework for Language Model Applications<br>
 <em>Andrew Zhu, Liam Dugan, Alyssa Hwang and Chris Callison-Burch</em></p>
 
