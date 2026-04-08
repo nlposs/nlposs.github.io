@@ -6,8 +6,8 @@ GEM
       i18n (>= 1.6, < 2)
       minitest (>= 5.1)
       tzinfo (~> 2.0)
-    addressable (2.8.0)
-      public_suffix (>= 2.0.2, < 5.0)
+    addressable (2.9.0)
+      public_suffix (>= 2.0.2, < 8.0)
     colorator (1.1.0)
     concurrent-ruby (1.2.2)
     cssminify2 (2.0.1)
@@ -15,12 +15,10 @@ GEM
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
     eventmachine (1.2.7)
-    eventmachine (1.2.7-x64-mingw32)
     execjs (2.7.0)
     faraday (1.0.0)
       multipart-post (>= 1.2, < 3)
     ffi (1.15.5)
-    ffi (1.15.5-x64-mingw32)
     forwardable-extended (2.6.0)
     html-pipeline (2.14.3)
       activesupport (>= 2)
@@ -91,7 +89,7 @@ GEM
       sawyer (~> 0.8.0, >= 0.5.3)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
-    public_suffix (4.0.7)
+    public_suffix (7.0.5)
     racc (1.8.1)
     rb-fsevent (0.10.3)
     rb-inotify (0.10.1)
@@ -100,8 +98,6 @@ GEM
     rouge (3.15.0)
     safe_yaml (1.0.5)
     sassc (2.4.0)
-      ffi (~> 1.9)
-    sassc (2.4.0-x64-mingw32)
       ffi (~> 1.9)
     sawyer (0.8.2)
       addressable (>= 2.3.5)
@@ -117,7 +113,7 @@ GEM
 
 PLATFORMS
   ruby
-  x64-mingw32
+  x64-mingw-ucrt
 
 DEPENDENCIES
   jekyll
